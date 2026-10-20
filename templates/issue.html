@@ -1,82 +1,56 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="zh-CN">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>游戏热点洞察 · {{DATE}}</title>
-  <link rel="stylesheet" href="{{BASE_URL}}/styles.css">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎮</text></svg>">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Meme & Game Repo — 每日游戏选题与热门 Meme，为下一支 Playable 寻找灵感。">
+  <meta name="color-scheme" content="light dark">
+  <title>{{TITLE}}</title>
+  <link rel="icon" href="{{BASE}}/favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="{{BASE}}/newspaper-serif.woff2" as="font" type="font/woff2" crossorigin>
+  <script src="{{BASE}}/theme.js"></script>
+  <link rel="stylesheet" href="{{BASE}}/styles.css">
+  <script src="{{BASE}}/site.js" defer></script>
 </head>
 <body>
-  <header class="site-header">
-    <div class="container">
-      <a href="{{BASE_URL}}/index.html" class="logo">
-        <span class="logo-icon">🎮</span>
-        <span class="logo-text">游戏热点洞察</span>
-      </a>
-      <nav class="site-nav">
-        <a href="{{BASE_URL}}/archive.html">历史归档</a>
-        <button class="theme-toggle" aria-label="切换主题">🌓</button>
+  <a class="skip-link" href="#main">跳到正文</a>
+  <div class="page-shell">
+    <header class="site-header">
+      <a class="wordmark" href="{{BASE}}/index.html">Meme <span>&amp;</span> Game Repo</a>
+      <nav class="site-nav" aria-label="主导航">
+        <a href="{{BASE}}/index.html" aria-current="page">本期日报</a>
+        <a href="{{BASE}}/archive.html">历史归档</a>
+        <button class="theme-toggle" type="button" hidden>夜间阅读</button>
       </nav>
-    </div>
-  </header>
-
-  <main class="container">
-    <div class="issue-header">
-      {{HOME_LINK}}
-      <h1>{{DATE}}</h1>
-      <p class="data-window">数据窗口：{{DATA_WINDOW}}</p>
-      {{ISSUE_LINK}}
-    </div>
-
-    <section class="recommendations-section">
-      <h2>🏆 今日推荐</h2>
-      <div class="recommendations-grid">
-        {{RECOMMENDATIONS}}
+    </header>
+    <main id="main" tabindex="-1">
+      <section class="edition-header" aria-labelledby="edition-title">
+        <div><h1 id="edition-title">{{DATE_HEADING}} <span>· 本期日报</span></h1><p class="edition-meta">{{DATE_META}}</p></div>
+        <div class="edition-picker" data-enhanced hidden><label for="edition-select">切换期刊</label>{{DATE_PICKER}}</div>
+      </section>
+      <div class="collection-bar">
+        <nav class="collection-tabs" aria-label="内容分类">
+          <a class="collection-tab" id="ideas-tab" href="#ideas" data-collection="ideas">游戏选题 <span>{{IDEA_COUNT}}</span></a>
+          {{MEME_TAB}}
+        </nav>
+        <form class="filter-bar" role="search" aria-label="筛选本期内容" data-enhanced hidden>
+          <div class="search-field"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4.5 4.5"/></svg><label class="sr-only" for="collection-search">搜索本期游戏选题</label><input id="collection-search" type="search" placeholder="搜索选题、玩法…" autocomplete="off"></div>
+          <div class="game-filters"><label class="sr-only" for="difficulty-filter">制作难度</label><select id="difficulty-filter"><option value="">全部难度</option><option value="低">低难度</option><option value="中">中难度</option><option value="高">高难度</option></select><label class="recommendation-filter"><input id="recommended-filter" type="checkbox"><span>只看推荐</span></label></div>
+        </form>
       </div>
-    </section>
-
-    <section class="ideas-section">
-      <h2>💡 Playable 选题清单</h2>
-      <div class="ideas-grid">
-        {{IDEAS}}
-      </div>
-    </section>
-
-    <section class="topics-section">
-      <h2>🔥 今日热点概览</h2>
-      <div class="topics-list">
-        {{HOT_TOPICS}}
-      </div>
-    </section>
-
-    {{NOTES}}
-  </main>
-
-  <footer class="site-footer">
-    <div class="container">
-      <p>游戏热点洞察 · 每个工作日更新</p>
-      <p class="footer-note">数据来源：X/Twitter 新闻聚合和帖子搜索</p>
-    </div>
-  </footer>
-
-  <script>
-    const toggle = document.querySelector('.theme-toggle');
-    const html = document.documentElement;
-    
-    const saved = localStorage.getItem('theme');
-    if (saved) {
-      html.setAttribute('data-theme', saved);
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-      html.setAttribute('data-theme', 'dark');
-    }
-    
-    toggle.addEventListener('click', () => {
-      const current = html.getAttribute('data-theme');
-      const next = current === 'dark' ? 'light' : 'dark';
-      html.setAttribute('data-theme', next);
-      localStorage.setItem('theme', next);
-    });
-  </script>
+      <div class="filter-feedback" data-enhanced hidden><p id="result-status" role="status" aria-live="polite"></p><button class="text-button" id="reset-filters" type="button" hidden>清除筛选</button></div>
+      <section id="ideas" class="collection-panel" aria-labelledby="ideas-tab" data-panel="ideas">
+        {{FEATURED}}{{MORE_IDEAS}}{{IDEAS_EMPTY}}
+      </section>
+      {{MEMES}}
+      <div class="empty-state" id="no-results" hidden><p>没有找到匹配的内容</p><span>试试其他关键词，或清除当前筛选。</span><button class="text-button" type="button" data-reset>清除筛选</button></div>
+    </main>
+    <footer class="site-footer"><span>每日收集，留给下一次灵感。</span><span><time datetime="{{DATE}}">{{DATE}}</time><span class="footer-divider">/</span><a href="{{PERMALINK}}">本期永久链接</a></span></footer>
+  </div>
+  <dialog class="reader" id="entry-reader" aria-labelledby="reader-title">
+    <div class="reader-toolbar"><span id="reader-category">游戏选题</span><button type="button" class="icon-button reader-close" aria-label="关闭阅读详情"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg></button></div>
+    <div class="reader-scroll"><article id="reader-content"></article></div>
+    <nav class="reader-pagination" aria-label="切换阅读条目"><button id="reader-prev" type="button">← 上一条</button><span id="reader-position"></span><button id="reader-next" type="button">下一条 →</button></nav>
+  </dialog>
 </body>
 </html>

@@ -1,0 +1,8 @@
+newspaper-serif.woff2 is a subset of Noto Serif SC Variable.
+Original font copyright: © 2017-2023 Adobe (http://www.adobe.com/).
+Noto font project copyright: Copyright 2012 Google Inc. All Rights Reserved.
+Licensed under the SIL Open Font License, Version 1.1; see OFL.txt.
+
+The subset retains the variable weight axis and common GB2312 characters,
+Latin text, and punctuation. Uncommon characters use the system serif fallback.
+The font is served locally and requires no third-party font service.

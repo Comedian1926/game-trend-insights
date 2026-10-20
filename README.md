@@ -1,8 +1,23 @@
-# 游戏热点洞察 (Game Trend Insights)
+# Meme & Game Repo
 
-每个工作日发布的游戏热点洞察，包含 X/Twitter 游戏热点概览、适合 Playable 买量的小游戏选题、以及优先推荐。
+每天收集游戏选题与热门 Meme，为 Playable 买量素材寻找灵感。以日期组织内容，游戏选题和 Meme 分开浏览。
 
 **在线访问**: https://comedian1926.github.io/game-trend-insights/
+
+## 阅读与检索
+
+- 现代报纸式首页：衬线标题、细分隔线、灰白纸色与少量焦橙色，配色参考 [Comedian.dev / Lab Notes](https://www.comedian.dev/lab-notes)。
+- 首页默认游戏选题，三条优先推荐与紧凑选题列表；独立 Meme 标签展示「今日热梗」。首页展示摘要，完整分析通过侧边阅读面板展开。
+- 日期、推荐、摘要和数量全部读取当期 JSON；不依赖每日封面或 X 预览图。日期选择器来自实际收录期刊，切换日期保留当前分类。
+- 阅读面板支持当前筛选结果内前后切换、Esc 关闭、键盘焦点管理；`#idea-ID` 与 `#meme-N` 永久锚点直接打开条目。
+- 可选 `memes` 保留完整说明、原帖、互动数据与 Playable 借用方向；空方向不展示，旧期刊没有该字段或为空数组时不显示 Meme 标签。
+- 两类内容分别保留搜索状态，关键词匹配完整正文。游戏支持制作难度与「只看推荐」组合筛选；原帖链接保留在各条目的阅读详情中。
+- 历史归档显示每期推荐选题，可按日期或推荐名称搜索。
+- 支持浅色 / 深色主题、手机阅读和键盘导航；关闭 JavaScript 后仍可阅读全部内容。
+
+字体使用本地托管的 Noto Serif SC 常用汉字子集，保留可变字重；版权与许可证见 `public/FONT-NOTICE.txt` 和 `public/OFL.txt`，冷僻字回退到系统宋体。
+
+上述功能直接使用现有 JSON 字段，不需要修改 `issues/` 的数据格式。
 
 ## 项目结构
 
@@ -30,6 +45,21 @@
   "date": "2026-10-21",
   "dataWindow": "数据采集时间窗口描述",
   "source": "数据来源说明",
+
+  "memes": [
+    {
+      "title": "梗名",
+      "description": "是什么、为什么火",
+      "links": [
+        {
+          "label": "原帖",
+          "url": "https://x.com/...",
+          "stats": "4.9 万赞 / 3,589 转 / 99.4 万曝光"
+        }
+      ],
+      "playableAngle": "可借用到 Playable 素材的方向，也可以为空字符串"
+    }
+  ],
   
   "recommendations": [
     {
@@ -83,6 +113,11 @@
 | `date` | 日期，格式 YYYY-MM-DD | ✓ |
 | `dataWindow` | 数据采集时间窗口 | ✓ |
 | `source` | 数据来源 | |
+| `memes` | 今日热梗，可省略或为空数组 | |
+| `memes[].title` | 梗名 | 提供热梗时 |
+| `memes[].description` | 是什么、为什么火 | 提供热梗时 |
+| `memes[].links` | 原帖链接，结构与热点的 `links` 相同 | 提供热梗时 |
+| `memes[].playableAngle` | Playable 借用方向，可为空字符串 | |
 | `recommendations` | 优先推荐列表（2-3个） | ✓ |
 | `recommendations[].id` | 关联的选题 ID | ✓ |
 | `recommendations[].name` | 选题名称 | ✓ |
@@ -107,6 +142,9 @@
 ```bash
 # 构建站点
 npm run build
+
+# 检查每日换稿、原文保留及静态链接
+npm test
 
 # 本地预览
 npm run serve

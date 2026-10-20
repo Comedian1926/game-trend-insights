@@ -1,61 +1,26 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="zh-CN">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>历史归档 · 游戏热点洞察</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>历史归档 · Meme &amp; Game Repo</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="./newspaper-serif.woff2" as="font" type="font/woff2" crossorigin>
+  <script src="./theme.js"></script>
   <link rel="stylesheet" href="./styles.css">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎮</text></svg>">
+  <script src="./site.js" defer></script>
 </head>
 <body>
-  <header class="site-header">
-    <div class="container">
-      <a href="./index.html" class="logo">
-        <span class="logo-icon">🎮</span>
-        <span class="logo-text">游戏热点洞察</span>
-      </a>
-      <nav class="site-nav">
-        <a href="./archive.html" class="active">历史归档</a>
-        <button class="theme-toggle" aria-label="切换主题">🌓</button>
-      </nav>
-    </div>
-  </header>
-
-  <main class="container">
-    <div class="archive-header">
-      <h1>历史归档</h1>
-      <p class="archive-count">共 {{TOTAL_ISSUES}} 期内容</p>
-    </div>
-
-    <ul class="archive-list">
-      {{ISSUES_LIST}}
-    </ul>
-  </main>
-
-  <footer class="site-footer">
-    <div class="container">
-      <p>游戏热点洞察 · 每个工作日更新</p>
-      <p class="footer-note">数据来源：X/Twitter 新闻聚合和帖子搜索</p>
-    </div>
-  </footer>
-
-  <script>
-    const toggle = document.querySelector('.theme-toggle');
-    const html = document.documentElement;
-    
-    const saved = localStorage.getItem('theme');
-    if (saved) {
-      html.setAttribute('data-theme', saved);
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-      html.setAttribute('data-theme', 'dark');
-    }
-    
-    toggle.addEventListener('click', () => {
-      const current = html.getAttribute('data-theme');
-      const next = current === 'dark' ? 'light' : 'dark';
-      html.setAttribute('data-theme', next);
-      localStorage.setItem('theme', next);
-    });
-  </script>
+  <a class="skip-link" href="#main">跳到正文</a>
+  <div class="page-shell">
+    <header class="site-header"><a class="wordmark" href="./index.html">Meme <span>&amp;</span> Game Repo</a><nav class="site-nav" aria-label="主导航"><a href="./index.html">本期日报</a><a href="./archive.html" aria-current="page">历史归档</a><button class="theme-toggle" type="button" hidden>夜间阅读</button></nav></header>
+    <main id="main" tabindex="-1">
+      <section class="edition-header"><div><h1>灵感，按日存档。</h1><p class="edition-meta">共收录 {{COUNT}} 期</p></div><div class="archive-search" data-enhanced hidden><label class="sr-only" for="archive-search">搜索日期或选题</label><input id="archive-search" type="search" placeholder="搜索日期或选题…" autocomplete="off"></div></section>
+      <div class="archive-list">{{EDITIONS}}</div>
+      <p class="empty-state" id="archive-empty" role="status" hidden>没有找到匹配的期刊，试试其他日期或选题。</p>
+    </main>
+    <footer class="site-footer"><span>每日收集，留给下一次灵感。</span><a href="./index.html">回到本期日报 ↗</a></footer>
+  </div>
 </body>
 </html>
