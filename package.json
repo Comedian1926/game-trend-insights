@@ -1,0 +1,11 @@
+{
+  "name": "game-trend-insights",
+  "version": "1.0.0",
+  "description": "游戏热点洞察 - Daily game trend insights for indie developers",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "serve": "npx serve dist"
+  },
+  "keywords": ["games", "trends", "playable-ads"],
+  "license": "MIT"
+}

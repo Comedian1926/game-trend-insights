@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>游戏热点洞察 · {{DATE}}</title>
+  <link rel="stylesheet" href="{{BASE_URL}}/styles.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎮</text></svg>">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="{{BASE_URL}}/index.html" class="logo">
+        <span class="logo-icon">🎮</span>
+        <span class="logo-text">游戏热点洞察</span>
+      </a>
+      <nav class="site-nav">
+        <a href="{{BASE_URL}}/archive.html">历史归档</a>
+        <button class="theme-toggle" aria-label="切换主题">🌓</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <div class="issue-header">
+      {{HOME_LINK}}
+      <h1>{{DATE}}</h1>
+      <p class="data-window">数据窗口：{{DATA_WINDOW}}</p>
+      {{ISSUE_LINK}}
+    </div>
+
+    <section class="recommendations-section">
+      <h2>🏆 今日推荐</h2>
+      <div class="recommendations-grid">
+        {{RECOMMENDATIONS}}
+      </div>
+    </section>
+
+    <section class="ideas-section">
+      <h2>💡 Playable 选题清单</h2>
+      <div class="ideas-grid">
+        {{IDEAS}}
+      </div>
+    </section>
+
+    <section class="topics-section">
+      <h2>🔥 今日热点概览</h2>
+      <div class="topics-list">
+        {{HOT_TOPICS}}
+      </div>
+    </section>
+
+    {{NOTES}}
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>游戏热点洞察 · 每个工作日更新</p>
+      <p class="footer-note">数据来源：X/Twitter 新闻聚合和帖子搜索</p>
+    </div>
+  </footer>
+
+  <script>
+    const toggle = document.querySelector('.theme-toggle');
+    const html = document.documentElement;
+    
+    const saved = localStorage.getItem('theme');
+    if (saved) {
+      html.setAttribute('data-theme', saved);
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      html.setAttribute('data-theme', 'dark');
+    }
+    
+    toggle.addEventListener('click', () => {
+      const current = html.getAttribute('data-theme');
+      const next = current === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+    });
+  </script>
+</body>
+</html>
