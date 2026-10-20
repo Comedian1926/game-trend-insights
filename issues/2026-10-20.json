@@ -1,0 +1,314 @@
+{
+  "date": "2026-10-20",
+  "dataWindow": "2026-10-18 13:40 至 10-20 13:40（北京时间）",
+  "source": "X 的新闻聚合和帖子搜索",
+  "recommendations": [
+    {
+      "id": "1",
+      "name": "倍增门打砖块",
+      "reason": "形式已经验证过，现在又有自然流量爆款（单条近 100 万曝光），做一个 HTML5 试玩只要一两天，最稳。"
+    },
+    {
+      "id": "2",
+      "name": "活到发售日",
+      "reason": "时效性最强（4.2 万赞的大梗，窗口到 11 月 19 日），内容就是躲避加搞笑死法，素材变体多，适合快速出量测 CTR。"
+    },
+    {
+      "id": "3",
+      "name": "木工一刀切",
+      "reason": "手作治愈题材正在升温，单一划屏、ASMR 画面让它和前两个选题区分开，后面也能扩展成完整的小游戏。"
+    }
+  ],
+  "hotTopics": [
+    {
+      "title": "GTA 6「活到 11 月 19 日」生存指南梗",
+      "description": "发售前一个月，有人列了「过马路看两边、系安全带、别乱吃东西」的保命清单，全网玩梗。",
+      "links": [
+        {
+          "label": "原帖",
+          "url": "https://x.com/GTASixInfo/status/2111774303113109678",
+          "stats": "4.2 万赞 / 5,739 转 / 469 回复 / 155 万曝光"
+        },
+        {
+          "label": "跟风帖",
+          "url": "https://x.com/mymixtapez/status/2112258184450613639",
+          "stats": "1,226 赞 / 3.5 万曝光"
+        }
+      ]
+    },
+    {
+      "title": "「Satisfying brick breaker」解压打砖块视频刷屏",
+      "description": "小球穿过 +3 / x3 倍增门，裂变成一大群球，把砖墙炸成粒子。同类还有「方块赛跑」视频。注：这些多是引用无关帖子的搬运号，说明这类素材本身就能拉流量。",
+      "links": [
+        {
+          "label": "视频1",
+          "url": "https://x.com/amazingvideosdz/status/2111968637687046341",
+          "stats": "1,089 赞 / 444 转 / 99.6 万曝光"
+        },
+        {
+          "label": "视频2",
+          "url": "https://x.com/sunyiilangkah/status/2112080481479180736",
+          "stats": "686 赞 / 28.6 万曝光"
+        },
+        {
+          "label": "视频3",
+          "url": "https://x.com/Zeid_25/status/2112019014159577417",
+          "stats": "496 赞 / 19.2 万曝光"
+        },
+        {
+          "label": "方块赛跑",
+          "url": "https://x.com/lovescil/status/2112061434834350166",
+          "stats": "573 赞 / 22 万曝光"
+        }
+      ]
+    },
+    {
+      "title": "「1.4 万心愿单，首周卖不到 300 份」引发独立开发者大讨论",
+      "description": "大家在争论心愿单为什么转化不成销量。小团队光靠 Steam 自然流量越来越难。",
+      "links": [
+        {
+          "label": "原帖",
+          "url": "https://x.com/itemgatestudios/status/2111975693097595346",
+          "stats": "1,673 赞 / 1,099 回复 / 22 万曝光"
+        },
+        {
+          "label": "分析回复",
+          "url": "https://x.com/GarrettPetersen/status/2112018476617617822",
+          "stats": "173 赞"
+        }
+      ]
+    },
+    {
+      "title": "Tesla Roadster「冷气推进器」带火一波 vibe coding 浏览器小游戏",
+      "description": "大量开发者用 AI 当天做出「喷气跑车 Flappy」一类的小游戏，配合「Vibe coding：做游戏比玩游戏爽」的话题。",
+      "links": [
+        {
+          "label": "示例",
+          "url": "https://x.com/sergeynazarovx/status/2112214629279531485",
+          "stats": "44 赞 / 2,850 曝光"
+        },
+        {
+          "label": "话题",
+          "url": "https://x.com/i/trending/2112066395957776774",
+          "stats": ""
+        }
+      ]
+    },
+    {
+      "title": "Valve《Deadlock》内测同时在线 30.3 万，破纪录",
+      "description": "新英雄 Violet 用魔法画笔在战场上作画。",
+      "links": [
+        {
+          "label": "数据",
+          "url": "https://x.com/echosofspace/status/2112039286002618578",
+          "stats": "据 SteamDB，303,347 人"
+        },
+        {
+          "label": "话题",
+          "url": "https://x.com/i/trending/2112334180730491031",
+          "stats": ""
+        }
+      ]
+    },
+    {
+      "title": "BeamNG.drive 登陆 PS5",
+      "description": "拟真撞车物理游戏上了主机，还支持分屏，玩家都在晒翻车片段。",
+      "links": [
+        {
+          "label": "帖子",
+          "url": "https://x.com/Padniety/status/2111744342725677544",
+          "stats": "54 赞 / 9,136 曝光"
+        },
+        {
+          "label": "话题",
+          "url": "https://x.com/i/trending/2112206828381909229",
+          "stats": ""
+        }
+      ]
+    },
+    {
+      "title": "木工模拟《Made by Hand》（「男版 Dressmaker」）出圈",
+      "description": "量尺、锯、打磨、组装家具的治愈手作玩法。另有「名叫纯手工却疑似用了 AI 素材」的争议，热度更高。",
+      "links": [
+        {
+          "label": "游戏",
+          "url": "https://x.com/VGTimes/status/2111727511725842909",
+          "stats": ""
+        },
+        {
+          "label": "争议",
+          "url": "https://x.com/vortexvirus/status/2112088979826708817",
+          "stats": "22 赞"
+        },
+        {
+          "label": "话题",
+          "url": "https://x.com/i/trending/2111631826137571650",
+          "stats": ""
+        }
+      ]
+    },
+    {
+      "title": "Pump.fun 上线实体卡「扭蛋卡包」",
+      "description": "有人亏了 2,000 美元后抽到价值 2.4 万美元的金色耿鬼，开包博运气的话题发酵。",
+      "links": [
+        {
+          "label": "话题",
+          "url": "https://x.com/i/trending/2112305668942164347",
+          "stats": ""
+        },
+        {
+          "label": "帖子",
+          "url": "https://x.com/PumpPulls/status/2112309699303407747",
+          "stats": "29 赞 / 4,056 曝光"
+        }
+      ]
+    },
+    {
+      "title": "补充热点：Pocket Dragons「接火星保持龙蛋温度」夜间挑战",
+      "description": "",
+      "links": [
+        {
+          "label": "话题",
+          "url": "https://x.com/i/trending/2111750126410555847",
+          "stats": ""
+        }
+      ]
+    },
+    {
+      "title": "补充热点：Steam 新品节 8,000+ Demo",
+      "description": "",
+      "links": [
+        {
+          "label": "帖子",
+          "url": "https://x.com/FutureGamesShow/status/2111849795451015393",
+          "stats": "118 赞 / 180 回复"
+        }
+      ]
+    }
+  ],
+  "ideas": [
+    {
+      "id": "1",
+      "name": "倍增门打砖块（x3 Bricks）",
+      "inspiration": {
+        "text": "热点 2",
+        "url": "https://x.com/amazingvideosdz/status/2111968637687046341"
+      },
+      "coreGameplay": "拖动调整发射角度，小球穿过 +N / xN 门裂变，打穿砖墙。",
+      "adHook": "1 颗球穿过 x3、x5 门，瞬间变成几百颗，满屏粒子爆炸。",
+      "failSuccessPoint": "角度偏了球掉进 ÷2 或骷髅门，越打越少，最后被砖墙压到底线。打对了就是全屏清空、连击数狂跳。",
+      "difficulty": "低",
+      "whyFitUA": "这是已经验证过的买量形式（倍增门），现在又有自然流量的爆款视频背书，适合做「90% 的人第一关就错」的挑战素材。"
+    },
+    {
+      "id": "2",
+      "name": "活到发售日（30 天生存挑战）",
+      "inspiration": {
+        "text": "热点 1",
+        "url": "https://x.com/GTASixInfo/status/2111774303113109678"
+      },
+      "coreGameplay": "拖动小人躲开汽车、花盆、可疑食物、「嘿你看这个」路人，撑过倒计时 30 天。",
+      "adHook": "「距离发售 30 天」的日历，小人刚出门就被车擦过，屏幕抖一下。",
+      "failSuccessPoint": "失败时出现搞笑死法卡，比如「死于没系安全带」。撑到第 30 天，主机开机音效响起、撒彩带。",
+      "difficulty": "低",
+      "whyFitUA": "直接蹭现成的大梗，蹭得越早越好（截止 11 月 19 日）。注意不要用 GTA 的名字和美术，改用「某 3A 发售日」之类的泛化包装。"
+    },
+    {
+      "id": "3",
+      "name": "木工一刀切（Wood Cut ASMR）",
+      "inspiration": {
+        "text": "热点 7",
+        "url": "https://x.com/VGTimes/status/2111727511725842909"
+      },
+      "coreGameplay": "沿虚线划屏锯木板，再来回擦屏打磨出木纹，拼成家具。",
+      "adHook": "一块破旧烂木板，三刀下去变成精致小椅子。",
+      "failSuccessPoint": "锯歪了，椅子一坐就塌。切得准有精度评分和「咔」的清脆音效，打磨时木纹慢慢显出来，很解压。",
+      "difficulty": "低",
+      "whyFitUA": "手作治愈题材正在热，单一划屏操作好上手，ASMR 画面适合女性和泛休闲用户。"
+    },
+    {
+      "id": "4",
+      "name": "方块赛跑押注（Square Race）",
+      "inspiration": {
+        "text": "热点 2",
+        "url": "https://x.com/lovescil/status/2112061434834350166"
+      },
+      "coreGameplay": "开局选一个颜色的方块，比赛中点击放置或移除挡板，帮自己的方块冲线。",
+      "adHook": "四色方块同时下落，弹幕问「你选哪个？」",
+      "failSuccessPoint": "放错挡板会把自己的方块卡死。最后 0.1 秒反超夺冠。",
+      "difficulty": "低",
+      "whyFitUA": "押注带来强代入感，观众天然想参与，转化成试玩很自然。"
+    },
+    {
+      "id": "5",
+      "name": "喷气跑车穿柱（Thrust Car）",
+      "inspiration": {
+        "text": "热点 4",
+        "url": "https://x.com/sergeynazarovx/status/2112214629279531485"
+      },
+      "coreGameplay": "按住屏幕喷气上升，松开下落，穿过间距 12 米的柱子。",
+      "adHook": "跑车从悬崖冲出，尾部喷出白色冷气，在柱子之间擦身而过。",
+      "failSuccessPoint": "一碰就爆炸。穿过窄缝有慢镜头和「Perfect」提示。",
+      "difficulty": "低",
+      "whyFitUA": "Flappy 类操作 1 秒就懂，「我最好成绩 23，你能超吗？」这种挑战文案很好写。要避开 Tesla 商标。"
+    },
+    {
+      "id": "6",
+      "name": "撞车拆迁（Crash Physics）",
+      "inspiration": {
+        "text": "热点 6",
+        "url": "https://x.com/Padniety/status/2111744342725677544"
+      },
+      "coreGameplay": "画一条路线或拉开一根闸针，让车冲下坡撞出最大破坏值。另一种做法是选对路线让车完好过关。",
+      "adHook": "卡车冲向一排车，慢镜头下碎片四溅。",
+      "failSuccessPoint": "选错路线，车掉下悬崖。选对了就是连环撞、破坏值爆表。",
+      "difficulty": "中",
+      "whyFitUA": "撞车画面本身就能抓眼球，套「拉针」式假玩法框架也很成熟。"
+    },
+    {
+      "id": "7",
+      "name": "画线成墙（Magic Brush Defense）",
+      "inspiration": {
+        "text": "热点 5（Deadlock 新英雄 Violet 的画笔）",
+        "url": "https://x.com/i/trending/2112334180730491031"
+      },
+      "coreGameplay": "手指画线变成墙，挡住冲来的怪潮或滚石，保护角色 10 秒。",
+      "adHook": "怪潮压过来，一笔画出弧墙，怪物全部弹开。",
+      "failSuccessPoint": "线画短了留缺口，角色被冲倒。墨水有限，用最少的墨水完成防守时会有满分特效。",
+      "difficulty": "中",
+      "whyFitUA": "「画线救人」是长青的买量模板，可以换成画笔魔法的新皮。"
+    },
+    {
+      "id": "8",
+      "name": "撕卡包合成（Pack Rip & Merge）",
+      "inspiration": {
+        "text": "热点 8",
+        "url": "https://x.com/i/trending/2112305668942164347"
+      },
+      "coreGameplay": "划屏撕开卡包、翻卡，三张同卡拖到一起合成更高稀有度。",
+      "adHook": "撕包时金光溢出，金色闪卡翻面。",
+      "failSuccessPoint": "背包满了还没合出来就失败。合成时稀有度从白升到金，光效一路升级。",
+      "difficulty": "低",
+      "whyFitUA": "开包的期待感是很强的钩子。注意不能有真钱博彩元素，也不要用宝可梦 IP，避开平台的博彩审核。"
+    },
+    {
+      "id": "9",
+      "name": "接火星守龙蛋（Ember Catch）",
+      "inspiration": {
+        "text": "补充热点（Pocket Dragons 夜间挑战）",
+        "url": "https://x.com/i/trending/2111750126410555847"
+      },
+      "coreGameplay": "左右拖动龙蛋接住火星、躲开冰块，温度条撑到天亮。",
+      "adHook": "温度条快要见底，龙蛋开始结霜。",
+      "failSuccessPoint": "被冰块砸中，蛋冻住了。撑到天亮，蛋孵出一只可爱的小龙。",
+      "difficulty": "低",
+      "whyFitUA": "孵化养成带来情感钩子，接物躲避的操作极简，适合女性和休闲用户。"
+    }
+  ],
+  "notes": [
+    "X 搜索不支持按点赞数过滤，结果按相关性排序，再人工挑选高互动的帖子。",
+    "中文关键词（小游戏、爆款、解压）的结果大多是垃圾或无关内容，所以本清单以英文热点为主。",
+    "视频内容没有逐条观看。打砖块玩法的描述来自帖子文字和 @grok 的回复说明。",
+    "涉及 GTA、Tesla、宝可梦等 IP 的选题，素材都需要泛化，避免侵权。"
+  ]
+}
