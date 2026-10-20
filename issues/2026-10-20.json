@@ -310,5 +310,121 @@
     "中文关键词（小游戏、爆款、解压）的结果大多是垃圾或无关内容，所以本清单以英文热点为主。",
     "视频内容没有逐条观看。打砖块玩法的描述来自帖子文字和 @grok 的回复说明。",
     "涉及 GTA、Tesla、宝可梦等 IP 的选题，素材都需要泛化，避免侵权。"
+  ],
+  "memes": [
+    {
+      "title": "「热门网红自嗨」短剧（Ariisaysso 讽刺视频）",
+      "description": "TikTok 创作者 Ariisaysso 的 2 分半短剧，讽刺一条视频爆红后就无限自我营销、硬出「新歌」、卖天价周边的网红，被搬到 X 后单条近 100 万曝光、4.9 万赞，大家说「精准得让人难受」。",
+      "links": [
+        {
+          "label": "原帖",
+          "url": "https://x.com/JustinTarnation/status/2112083835680948352",
+          "stats": "4.9 万赞 / 3,589 转 / 99.4 万曝光"
+        },
+        {
+          "label": "作者署名回复",
+          "url": "https://x.com/JustinTarnation/status/2112245243609510043",
+          "stats": "1,228 赞 / 10 转 / 3.5 万曝光"
+        }
+      ],
+      "playableAngle": "「一夜爆红」模拟器：点击让视频播放量暴涨，然后在接广告、出歌、开店之间做选择，选错就塌房，结尾放「你能红多久？」CTA。"
+    },
+    {
+      "title": "「Low vibration plate」低能量餐盘",
+      "description": "2022 年老视频翻红：人生导师 Stormy Wellington 在烧烤聚会上说朋友堆满的餐盘「low vibration、配不上女王」，自己的盘子却寒酸。「这视频在我脑子里免费住着」的配文带来近 100 万曝光，回复区满是「给我来一大盘低能量」。",
+      "links": [
+        {
+          "label": "原帖",
+          "url": "https://x.com/NATERERUN/status/2111843213820809415",
+          "stats": "8,119 赞 / 969 转 / 99.6 万曝光"
+        }
+      ],
+      "playableAngle": "自助餐装盘小游戏：玩家往盘子里堆食物，导师角色实时打「能量分」，越堆越满越「low vibration」，反差搞笑。"
+    },
+    {
+      "title": "「希望偷我快递的人也打算 cos ……」万圣节梗",
+      "description": "固定句式「hope whoever stole my amazon package was also planning to be X for halloween」配购物记录截图，买的东西正好拼成某个偶像、球员或角色的装扮。万圣节前快递被偷高发，大家用自嘲化解，K-pop、体育、游戏圈都在跟，头部帖 1.3 万赞。",
+      "links": [
+        {
+          "label": "原帖",
+          "url": "https://x.com/chuu_Ivr/status/2111885192797512016",
+          "stats": "1.3 万赞 / 1,533 转 / 7.3 万曝光"
+        },
+        {
+          "label": "跟风帖",
+          "url": "https://x.com/healerstag/status/2111879216723566856",
+          "stats": "580 赞 / 71 转 / 4,094 曝光"
+        }
+      ],
+      "playableAngle": "「凑装扮」配对玩法：给出一个包裹清单，玩家拖拽物品拼出目标角色造型，可直接做成换装或合成类试玩素材。"
+    },
+    {
+      "title": "「你死了，相册第 6 张图就是凶手」",
+      "description": "互动提问模板：让人晒手机相册第 6 张图当「死因」，结果有 Ryan Gosling、刀具、黑格尔原著和二次元老婆。门槛低、有窥私感，原帖 2,600+ 引用，成千上万人照抄发帖。",
+      "links": [
+        {
+          "label": "原帖",
+          "url": "https://x.com/YukiLunarq/status/2112095487369109893",
+          "stats": "2,968 赞 / 89 转 / 42.7 万曝光"
+        },
+        {
+          "label": "跟风帖",
+          "url": "https://x.com/omni_american/status/2112362160185823600",
+          "stats": "35 赞 / 0 转 / 1,850 曝光"
+        }
+      ],
+      "playableAngle": "随机抽卡式开场：「你的第 N 张卡决定你的结局」，翻牌揭晓搞笑死法后直接进关卡，适合做抽卡或 Roguelike 的试玩钩子。"
+    },
+    {
+      "title": "「一开始没看懂，现在笑停不下来」谐音图谜",
+      "description": "图谜（rebus）用图片加谐音拼出单词，比如 J + 平底锅 = Japan、书堆（tomes）+ 钥匙（key）= Turkey，配统一文案「Didn't get it at first now I can't stop laughing」大量搬运，头部帖 144.8 万曝光，@grok 被频繁叫来解释答案。",
+      "links": [
+        {
+          "label": "原帖",
+          "url": "https://x.com/Hani_7979/status/2112096314515472389",
+          "stats": "1,188 赞 / 202 转 / 144.8 万曝光"
+        },
+        {
+          "label": "跟风帖",
+          "url": "https://x.com/GIFs_22/status/2112312818481631244",
+          "stats": "101 赞 / 22 转 / 8.4 万曝光"
+        }
+      ],
+      "playableAngle": "看图猜词关卡：两三张图拼一个词，限时作答、答对出「恍然大悟」动画，属于低成本、高完播的益智试玩素材。"
+    },
+    {
+      "title": "「我和什么最像：角色 / 专辑 / 动物 / 食物」四宫格",
+      "description": "自我介绍拼图模板：用一个角色、一张专辑、一种动物、一种食物代表自己，引用上一位接力。二次元、乐迷、游戏圈都在玩，靠引用链扩散，单帖互动不高但接力量大。",
+      "links": [
+        {
+          "label": "原帖",
+          "url": "https://x.com/sleepykvlt/status/2111848402459758751",
+          "stats": "51 赞 / 1 转 / 4,332 曝光"
+        },
+        {
+          "label": "跟风帖",
+          "url": "https://x.com/Hjumpjim/status/2111962473339195791",
+          "stats": "56 赞 / 0 转 / 1,575 曝光"
+        }
+      ],
+      "playableAngle": "「测测你是哪个角色」：四个问题选完生成专属四宫格人设卡，可分享，适合做角色收集类游戏的引流试玩。"
+    },
+    {
+      "title": "「四个我真心喜欢的角色」2x2 接力",
+      "description": "晒 2x2 网格放四个最爱的虚构角色（Persona、JoJo、逆转裁判等），配「you all should do the same」接力点名。10 月 20 日仍在快速传递，属于粉圈的轻量社交模板。",
+      "links": [
+        {
+          "label": "原帖",
+          "url": "https://x.com/voidzuva/status/2112305811192180999",
+          "stats": "34 赞 / 1 转 / 4,289 曝光"
+        },
+        {
+          "label": "跟风帖",
+          "url": "https://x.com/Tommywebster77/status/2112323898301915311",
+          "stats": "55 赞 / 9 转 / 913 曝光"
+        }
+      ],
+      "playableAngle": "开局「选 4 个英雄组队」环节直接套这个 2x2 格式，让玩家晒阵容，契合卡牌或 RPG 买量素材。"
+    }
   ]
 }
