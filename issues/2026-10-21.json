@@ -1,0 +1,384 @@
+{
+  "date": "2026-10-21",
+  "dataWindow": "2026-10-20 00:00 至 10-21 09:00（北京时间），以 10-20 白天到夜间的帖子为主",
+  "source": "X 新闻聚合（search_news）、全球趋势和帖子搜索（Grok Bot 公共 X 只读访问）",
+  "memes": [
+    {
+      "title": "「烤前可爱小猪，烤后面目全非」香肠面包翻车",
+      "description": "有人晒了猪造型的香肠面包烤前和烤后对比：烤前整整齐齐，烤完膨胀变形、表情各异。评论区玩起了「tag yourself（挑一只代表你）」，是这两天互动量最高的生活梗。",
+      "links": [
+        {
+          "label": "原帖",
+          "url": "https://x.com/pmamtraveller/status/2112214677724012801",
+          "stats": "10.5 万赞 / 6,471 转 / 854 回复 / 295 万曝光"
+        }
+      ],
+      "playableAngle": "「按住烤、松手出炉」：火候对了是完美小猪，烤过头就变成梗图里的丑猪，失败画面本身就好笑，适合做「你能烤出几分」挑战素材。"
+    },
+    {
+      "title": "「撞碎妹妹一箱鸡蛋，反手转她 50 万」",
+      "description": "尼日利亚网友 @socetyhatesjay 讲自己撞碎了妹妹一箱鸡蛋，当场转 50 万奈拉让她再买（一箱蛋不到 1 万），被当作炫富模板疯狂改名复刻，也引来「不接地气」的吐槽。",
+      "links": [
+        {
+          "label": "原帖",
+          "url": "https://x.com/socetyhatesjay/status/2112520179603124407",
+          "stats": "5,506 赞 / 375 转 / 524 回复 / 37 万曝光"
+        },
+        {
+          "label": "复刻帖之一",
+          "url": "https://x.com/n0tskepp/status/2112606224726609963",
+          "stats": "15 赞 / 710 曝光"
+        }
+      ],
+      "playableAngle": "端一箱鸡蛋穿过人群，撞到就碎、碎了就「赔钱」，结算时金额夸张倍增，正好接「500k be like 10k」的梗。"
+    },
+    {
+      "title": "「我是经费不足的美国科学家！」",
+      "description": "电影《挽救计划》（Project Hail Mary）粉丝圈的角色扮演梗：模仿 Ryan Gosling 饰演的科学家，用「我是经费不足的美国科学家，没空陪你」来拒绝一切，配疲惫脸图。",
+      "links": [
+        {
+          "label": "原帖",
+          "url": "https://x.com/taeoniesx/status/2112257429882966384",
+          "stats": "4,744 赞 / 648 转 / 3.4 万曝光"
+        },
+        {
+          "label": "热点聚合",
+          "url": "https://x.com/i/trending/2112495035346243978",
+          "stats": "X 新闻聚合，无单帖数据"
+        }
+      ],
+      "playableAngle": "「经费只剩 10 块」的资源分配小游戏：把有限经费拖到实验上，配错就爆炸。梗偏圈层，借用需谨慎。"
+    },
+    {
+      "title": "穿反光背心的鸡被当成「夜里游荡的小恶魔」",
+      "description": "西班牙加利西亚有人给散养鸡穿上反光背心防车撞，结果路人夜里看到发光的小东西四处走动，吓得报警。",
+      "links": [
+        {
+          "label": "帖子",
+          "url": "https://x.com/Minsocute33/status/2112241636940128517",
+          "stats": "20 赞 / 714 曝光"
+        },
+        {
+          "label": "热点聚合",
+          "url": "https://x.com/i/trending/2112413051525742705",
+          "stats": "X 新闻聚合，无单帖数据"
+        }
+      ],
+      "playableAngle": "夜间版「小鸡过马路」：给鸡穿上背心才能被车灯看见，漏穿一只就被撞，画面黑底荧光，钩子很强。"
+    },
+    {
+      "title": "Tate McRae「我只想赚很多钱，做自己的家庭主妇」",
+      "description": "Tate McRae 10 月 16 日新歌《Housewife》里的一句歌词被拿来配自拍和财务自由宣言，男女都在玩。",
+      "links": [
+        {
+          "label": "热点聚合",
+          "url": "https://x.com/i/trending/2112256410994065737",
+          "stats": "X 新闻聚合，无单帖数据"
+        },
+        {
+          "label": "跟风帖",
+          "url": "https://x.com/mistyofficall0/status/2112222520631763362",
+          "stats": "7 赞 / 218 曝光"
+        }
+      ],
+      "playableAngle": ""
+    },
+    {
+      "title": "「16 年前租了《New Vegas》再也没还」",
+      "description": "《辐射：新维加斯》16 周年，编剧 Chris Avellone 发图庆生；有人接梗说当年从百视达租了这张碟一直没还，引来大量「我也是」。",
+      "links": [
+        {
+          "label": "Chris Avellone 原帖",
+          "url": "https://x.com/ChrisAvellone/status/2112214051468255241",
+          "stats": "7,623 赞 / 909 转 / 6.5 万曝光"
+        },
+        {
+          "label": "「没还碟」接梗帖",
+          "url": "https://x.com/DrawnOutYT/status/2112353477208990046",
+          "stats": "1,459 赞 / 1.2 万曝光"
+        }
+      ],
+      "playableAngle": ""
+    },
+    {
+      "title": "前 CIA 特工的《愤怒的小鸟》连胜",
+      "description": "前 CIA 官员、吹哨人 John Kiriakou 因自称《愤怒的小鸟》全球排名靠前、多年连续打卡，在短视频里被做成梗。X 上原帖量不大，热度主要在短视频平台。",
+      "links": [
+        {
+          "label": "帖子",
+          "url": "https://x.com/charise_lee/status/2112677880371290464",
+          "stats": "6 赞 / 1,437 曝光"
+        }
+      ],
+      "playableAngle": "弹弓弹射是成熟买量玩法，可做「前特工都卡在这关」的挑战文案（避免使用真人形象和小鸟 IP）。"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "2",
+      "name": "烤箱小猪（Oven Pig Puff）",
+      "reason": "直接借 10.5 万赞的烤面包翻车梗，失败画面就是笑点，单指按住松手，半天能做出来。"
+    },
+    {
+      "id": "1",
+      "name": "拳王反击（Counter Punch）",
+      "reason": "Fight Night 回归官宣 8.7 万赞、358 万曝光，拳击「闪避+反击」的打击感非常适合 15 秒素材。"
+    },
+    {
+      "id": "3",
+      "name": "端稳一箱蛋（Egg Crate Rush）",
+      "reason": "鸡蛋梗 37 万曝光且正被大量复刻，「碎了就赔钱」的倍增结算天然是买量钩子。"
+    }
+  ],
+  "hotTopics": [
+    {
+      "title": "EA Sports 官宣《Fight Night》回归",
+      "description": "拳击系列沉寂 15 年后官宣回归，只放了一张图和一句话，就成为当天最大的游戏新闻。",
+      "links": [
+        {
+          "label": "官方原帖",
+          "url": "https://x.com/EASPORTSFN/status/2112604926941471213",
+          "stats": "8.7 万赞 / 1.55 万转 / 3,121 回复 / 358 万曝光"
+        },
+        {
+          "label": "转述帖",
+          "url": "https://x.com/mymixtapez/status/2112644945521893390",
+          "stats": "315 赞 / 1.1 万曝光"
+        }
+      ]
+    },
+    {
+      "title": "《塞尔达：时之笛》重制版英国预告复刻 90 年代广告",
+      "description": "重制版 11 月 5 日发售，新预告致敬 1998 年原版电视广告，加上 Switch 公布 10 周年，任天堂话题持续发酵。",
+      "links": [
+        {
+          "label": "预告转发",
+          "url": "https://x.com/Genki_JPN/status/2112524497807147440",
+          "stats": "341 赞 / 1.1 万曝光"
+        },
+        {
+          "label": "粉丝剪辑预告",
+          "url": "https://x.com/HMKilla/status/2112262218414965009",
+          "stats": "597 赞 / 1.9 万曝光"
+        }
+      ]
+    },
+    {
+      "title": "《Deadlock》新英雄 Nurse Harrow 上线",
+      "description": "Valve《Deadlock》本轮更新的最后一位英雄，带水蛭罐、吸血技能；同时在线 30 万后热度未退，同人图刷屏。",
+      "links": [
+        {
+          "label": "同人图",
+          "url": "https://x.com/euli_art/status/2112649557079363640",
+          "stats": "524 赞 / 2,214 曝光"
+        },
+        {
+          "label": "同人图",
+          "url": "https://x.com/_clemencii/status/2112592160931623023",
+          "stats": "293 赞 / 1,648 曝光"
+        },
+        {
+          "label": "热点聚合",
+          "url": "https://x.com/i/trending/2112630074998767746",
+          "stats": "X 新闻聚合"
+        }
+      ]
+    },
+    {
+      "title": "《Once Human》海洋剧本「Isles of Abyss」今日上线",
+      "description": "网易旗下生存游戏推出免费海洋地图，主打造船（船即移动基地）和水下探索。",
+      "links": [
+        {
+          "label": "官方开服公告",
+          "url": "https://x.com/OnceHuman_/status/2112489507320943086",
+          "stats": "127 赞 / 1.2 万曝光"
+        },
+        {
+          "label": "实机预告",
+          "url": "https://x.com/NetEaseGames_EN/status/2112166885378658428",
+          "stats": "8 赞 / 1,407 曝光"
+        }
+      ]
+    },
+    {
+      "title": "《辐射：新维加斯》16 周年",
+      "description": "原编剧 Chris Avellone 发图庆生，粉丝刷回忆、同人图和「当年租碟没还」的梗。",
+      "links": [
+        {
+          "label": "Chris Avellone 原帖",
+          "url": "https://x.com/ChrisAvellone/status/2112214051468255241",
+          "stats": "7,623 赞 / 909 转 / 6.5 万曝光"
+        }
+      ]
+    },
+    {
+      "title": "虚拟偶像 PLAVE 推出网页节奏赛车小游戏",
+      "description": "为新歌《Star Trace》做的免费网页节奏游戏，三档难度，粉丝晒分、吐槽太难。",
+      "links": [
+        {
+          "label": "粉丝吐槽帖",
+          "url": "https://x.com/yejunszone/status/2112450921246691775",
+          "stats": "183 赞 / 49 转 / 2,282 曝光"
+        },
+        {
+          "label": "热点聚合",
+          "url": "https://x.com/i/trending/2112453612630573216",
+          "stats": "X 新闻聚合"
+        }
+      ]
+    },
+    {
+      "title": "「Oddly satisfying」调色、动力沙视频持续走量",
+      "description": "调色混合、切动力沙、陶艺等解压视频依然有大量曝光，回复多为互动刷屏。",
+      "links": [
+        {
+          "label": "调色混合",
+          "url": "https://x.com/shuasvvt/status/2112441419826975142",
+          "stats": "510 赞 / 246 回复 / 13 万曝光"
+        },
+        {
+          "label": "动力沙切割",
+          "url": "https://x.com/lisasyalalalala/status/2112649122574716978",
+          "stats": "9 赞 / 762 曝光"
+        }
+      ]
+    },
+    {
+      "title": "独立开发者做的「同色方块填格」网页小游戏",
+      "description": "开发者参考手游做了一个放置同色方块、填满前冲高分的网页游戏，收藏比例很高。",
+      "links": [
+        {
+          "label": "原帖",
+          "url": "https://x.com/anulagarwal/status/2112411685919264814",
+          "stats": "66 赞 / 60 收藏 / 4,831 曝光"
+        }
+      ]
+    }
+  ],
+  "ideas": [
+    {
+      "id": "1",
+      "name": "拳王反击（Counter Punch）",
+      "inspiration": {
+        "text": "Fight Night 官宣回归",
+        "url": "https://x.com/EASPORTSFN/status/2112604926941471213"
+      },
+      "coreGameplay": "对手出拳前有提示，左右划闪避，闪开后点屏幕反击。",
+      "adHook": "慢动作：对手重拳擦脸而过，玩家一记上勾拳，对手飞出擂台。",
+      "failSuccessPoint": "闪错方向就被 KO 倒地读秒；连续闪避三次触发慢镜头必杀，屏幕震动加数字飙升。",
+      "difficulty": "中",
+      "whyFitUA": "热度最高的游戏新闻，打击感强，「90% 的人第一拳就倒」很适合做挑战素材，不需要用 IP。"
+    },
+    {
+      "id": "2",
+      "name": "烤箱小猪（Oven Pig Puff）",
+      "inspiration": {
+        "text": "猪猪香肠面包翻车梗",
+        "url": "https://x.com/pmamtraveller/status/2112214677724012801"
+      },
+      "coreGameplay": "按住烤箱按钮让小猪面团膨胀，在刚好的时候松手出炉。",
+      "adHook": "左边整齐的小猪面团，右边出炉后扭曲变形的丑猪，配「你能烤成什么样？」。",
+      "failSuccessPoint": "松早是生面团，松晚就膨胀成怪猪（越丑越好笑）；正好时完美小猪排排站，加金色评分。",
+      "difficulty": "低",
+      "whyFitUA": "单指操作、规则一秒懂，失败画面本身就是传播点，直接借当天最火的生活梗。"
+    },
+    {
+      "id": "3",
+      "name": "端稳一箱蛋（Egg Crate Rush）",
+      "inspiration": {
+        "text": "「撞碎妹妹一箱鸡蛋，反手转 50 万」梗",
+        "url": "https://x.com/socetyhatesjay/status/2112520179603124407"
+      },
+      "coreGameplay": "左右拖动角色，端着一箱鸡蛋在人群和障碍里穿行到终点。",
+      "adHook": "角色一头撞上路人，30 个鸡蛋漫天飞，屏幕弹出「赔偿 ×500,000」。",
+      "failSuccessPoint": "每撞一次碎一排蛋，蛋全碎即失败；完好到达时金额倍增结算。",
+      "difficulty": "低",
+      "whyFitUA": "跑酷加保护物品是验证过的买量结构，鸡蛋碎裂的物理效果有冲击力，梗正在被大量复刻。"
+    },
+    {
+      "id": "4",
+      "name": "夜光小鸡过马路（Glow Chicken Crossing）",
+      "inspiration": {
+        "text": "西班牙反光背心鸡被报警",
+        "url": "https://x.com/Minsocute33/status/2112241636940128517"
+      },
+      "coreGameplay": "夜里车流不断，点小鸡给它穿反光背心，再点一下让它过马路。",
+      "adHook": "一片漆黑中车灯扫过，一群荧光小鸡在路中间僵住。",
+      "failSuccessPoint": "没穿背心的鸡车看不见被撞飞；全员平安过街时鸡群排成一列欢呼。",
+      "difficulty": "低",
+      "whyFitUA": "黑底荧光画面很抓眼，「过马路」玩法用户零学习成本，故事本身就是新闻梗。"
+    },
+    {
+      "id": "5",
+      "name": "调色大师（Color Mix Match）",
+      "inspiration": {
+        "text": "oddly satisfying 调色混合视频",
+        "url": "https://x.com/shuasvvt/status/2112441419826975142"
+      },
+      "coreGameplay": "拖动几种颜料按比例倒进杯子搅拌，调出和目标一样的颜色。",
+      "adHook": "一杯灰暗的颜色，再滴一滴蓝，瞬间变成目标色，相似度跳到 100%。",
+      "failSuccessPoint": "倒多了颜色变脏，相似度暴跌；调对时颜料旋转融合，满屏解压。",
+      "difficulty": "低",
+      "whyFitUA": "解压视频长期走量，「你能调出这个颜色吗」的挑战感强，做 HTML5 很简单。"
+    },
+    {
+      "id": "6",
+      "name": "拼船出海（Raft Patch）",
+      "inspiration": {
+        "text": "《Once Human》海洋剧本主打造船",
+        "url": "https://x.com/OnceHuman_/status/2112489507320943086"
+      },
+      "coreGameplay": "把木板拖到船体的漏洞上，补好后推下水看能不能浮起来。",
+      "adHook": "小船下水，一个洞喷水，船身倾斜，角色在甲板上慌张乱跑。",
+      "failSuccessPoint": "漏补一块就沉船，鲨鱼游过；补好就扬帆，下一关船变大、洞更多。",
+      "difficulty": "中",
+      "whyFitUA": "「补洞」类假玩法素材转化好，海洋和沉船画面紧张感强，蹭新上线内容。"
+    },
+    {
+      "id": "7",
+      "name": "节奏换道赛车（Beat Lane Racer）",
+      "inspiration": {
+        "text": "PLAVE 网页节奏赛车游戏",
+        "url": "https://x.com/yejunszone/status/2112450921246691775"
+      },
+      "coreGameplay": "三车道赛车，跟着节拍点左右换道吃音符、躲障碍。",
+      "adHook": "音乐卡点时赛车连续换道，音符被一串吃掉，连击数从 10 跳到 50。",
+      "failSuccessPoint": "错过节拍撞墙，出现「PIT STOP」警告；连击越高速度越快、画面越炫。",
+      "difficulty": "中",
+      "whyFitUA": "音乐加赛车双重爽感，粉丝自发吐槽「太难」本身就是挑战素材的方向。"
+    },
+    {
+      "id": "8",
+      "name": "弹弓连胜（Slingshot Streak）",
+      "inspiration": {
+        "text": "前 CIA 特工的愤怒的小鸟连胜梗",
+        "url": "https://x.com/charise_lee/status/2112677880371290464"
+      },
+      "coreGameplay": "拉弓瞄准，弹射小球击倒积木塔里的目标。",
+      "adHook": "一发命中底层支点，整座塔连锁倒塌。",
+      "failSuccessPoint": "打偏时塔纹丝不动，次数用完失败；一发清场显示「连胜 +1」。",
+      "difficulty": "低",
+      "whyFitUA": "弹弓物理是经典买量玩法，蹭梗做「前特工打了几年都过不去」的文案即可，避免 IP 和真人形象。"
+    },
+    {
+      "id": "9",
+      "name": "同色方块填格（Color Block Fill）",
+      "inspiration": {
+        "text": "独立开发者的同色方块网页游戏",
+        "url": "https://x.com/anulagarwal/status/2112411685919264814"
+      },
+      "coreGameplay": "把随机出现的彩色方块拖到格子里，同色相连就消除加分。",
+      "adHook": "最后一个方块落下，整片同色区域连锁消除，分数狂跳。",
+      "failSuccessPoint": "没地方放就游戏结束；大面积连消时有爆炸和连击音效。",
+      "difficulty": "低",
+      "whyFitUA": "方块类是最稳的休闲买量品类，这条帖子收藏率很高，说明玩法有吸引力。"
+    }
+  ],
+  "notes": [
+    "X 搜索不支持按点赞数过滤，结果按相关性排序，再人工挑选高互动的帖子。",
+    "部分热点和热梗只有 X 新闻聚合页（x.com/i/trending），没有单帖数据，已在 stats 中注明。",
+    "视频内容没有逐条观看，玩法描述来自帖子文字和新闻聚合摘要。",
+    "已避开 10-20 期出现过的选题与梗（如谐音图谜、低能量餐盘、打砖块、Steam 新品节）。",
+    "涉及 EA、任天堂、Angry Birds、真人等的选题，素材需泛化，避免侵权。"
+  ]
+}
