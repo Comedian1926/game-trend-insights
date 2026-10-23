@@ -1,0 +1,400 @@
+{
+  "date": "2026-10-23",
+  "dataWindow": "2026-10-22 09:00 至 10-23 09:00（北京时间），部分热梗与浏览器小游戏帖起于 10-21 晚",
+  "source": "X 新闻聚合（search_news）、全球趋势和帖子搜索（Grok Bot 公共 X 只读访问）",
+  "memes": [
+    {
+      "title": "「Never seen someone laugh dick first」",
+      "description": "一段聊天时笑到整个人往前冲的短视频被配上「从没见过有人笑得 dick first」等文案刷屏，主帖近 50 万赞、500 多万曝光；衍生还有「invisible rope」版配文，属于纯肢体喜剧梗。",
+      "links": [
+        {
+          "label": "原帖",
+          "url": "https://x.com/hoIysaintwest/status/2113008540629774789",
+          "stats": "48.2 万赞 / 2.85 万转 / 1,223 回复 / 559.8 万曝光"
+        },
+        {
+          "label": "衍生配文",
+          "url": "https://x.com/prezoh/status/2113289408149622808",
+          "stats": "4,092 赞 / 50 转 / 3.6 万曝光"
+        },
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2113181914177601546",
+          "stats": "聚合页，无单帖数据"
+        }
+      ],
+      "playableAngle": "「笑到前冲」：按住笑声条，角色会越笑越往前倾，停在安全线内过关；冲过头就撞桌翻车。适合做前 3 秒肢体夸张的假玩法素材。"
+    },
+    {
+      "title": "「how Pinterest sees me」四宫格",
+      "description": "在 Pinterest 分别搜 tattoo / outfit / aesthetic / idol，截取第一条拼成四宫格，标题写「how Pinterest sees me」。算法画像梗，准确得让人尖叫，和「if you see this do it」锁屏挑战同一波自我展览潮。",
+      "links": [
+        {
+          "label": "示例帖",
+          "url": "https://x.com/kaatalixo/status/2113340212243775510",
+          "stats": "22 赞 / 2 引用 / 425 曝光"
+        },
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2113366468423499924",
+          "stats": "聚合页，无单帖数据"
+        }
+      ],
+      "playableAngle": "「算法看我」：四格里各滑一张卡片配对（纹身、穿搭、氛围、偶像），配对越离谱分数越高；可做成开屏人设挑战素材。"
+    },
+    {
+      "title": "「Knee Bee Land」猜国家谐音谜",
+      "description": "图里是两个膝盖、一只蜜蜂和一块草地，问「哪个国家？」答案是 New Zealand（knee-bee-land）。帖主写「一开始没看懂，现在笑停不下来」，评论区全是猜错成 Namibia / Netherlands 的人。",
+      "links": [
+        {
+          "label": "原帖",
+          "url": "https://x.com/vibeswithme34/status/2113180650723230097",
+          "stats": "106 赞 / 40 转 / 106 回复 / 7.3 万曝光"
+        },
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2113279735585439801",
+          "stats": "聚合页，无单帖数据"
+        }
+      ],
+      "playableAngle": "「看图猜地名」：拖图标拼谐音（膝+蜂+地），拼对跳下一关，拼错弹出离谱国名；适合短平快解谜广告。"
+    },
+    {
+      "title": "DotoDoya「拇指摔跤排位危险警告」",
+      "description": "主播 DotoDoya 一边夸 Switch Sports Resort 的拇指摔跤「后悔怀疑任天堂」，一边发「WARNING：我要上排位抢你分」仿官方警告图，当天成了客厅体育梗图模板。",
+      "links": [
+        {
+          "label": "排位警告帖",
+          "url": "https://x.com/DotoDoya/status/2113352810473382385",
+          "stats": "3,232 赞 / 151 转 / 49 回复 / 5.0 万曝光"
+        },
+        {
+          "label": "拇指摔跤安利",
+          "url": "https://x.com/DotoDoya/status/2113357220180295682",
+          "stats": "796 赞 / 12 转 / 1.4 万曝光"
+        }
+      ],
+      "playableAngle": "开屏用「官方警告」字体写「此人拇指极危」，点进就是拇指相扑小游戏；文案本身就能当素材钩子。"
+    },
+    {
+      "title": "「if you see this do it」锁屏四件套",
+      "description": "看到就跟：晒 profile、lockscreen、last song、Pinterest。整晚链式引用，和 Pinterest 四宫格一起构成「晒数字人设」热潮。",
+      "links": [
+        {
+          "label": "示例帖",
+          "url": "https://x.com/cassie__star/status/2113386344932360639",
+          "stats": "5 赞 / 2 引用 / 157 曝光"
+        },
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2113295350614135091",
+          "stats": "聚合页，无单帖数据"
+        }
+      ],
+      "playableAngle": "「人设四格拼图」：限时把四张截图拖进正确格子，拼完解锁下一关；可当社交裂变挑战页。"
+    },
+    {
+      "title": "Xbox 360 + MW2 + 多力多滋客厅怀旧照",
+      "description": "一张昏暗房间里 Xbox 360、Modern Warfare 2、多力多滋和山露的照片，把人拉回 2010 年通宵联机；X 新闻聚合成「2010 客厅设置」怀旧潮，评论区换游戏盒和止汗喷雾笑话。",
+      "links": [
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2113428896263925924",
+          "stats": "聚合页，无单帖数据"
+        },
+        {
+          "label": "360 仪表盘怀旧帖",
+          "url": "https://x.com/mdaman010/status/2113144863457993120",
+          "stats": "99 赞 / 9 转 / 3.3 万曝光"
+        }
+      ],
+      "playableAngle": "「还原 2010 客厅」：拖手柄、光盘、零食摆到正确位置，摆错就跳出「巧克力味止汗喷雾」吐槽；怀旧点很强。"
+    },
+    {
+      "title": "「I'm so sorry」童年照打脸挑战",
+      "description": "先用 AI/滤镜把童年万圣节照美成高定，再一张张揭底写「Ok sorry，其实头发是黄的」「抱歉裙子没拖地」，英文版接在西语「perdón」之后继续火。",
+      "links": [
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2112739597918818689",
+          "stats": "聚合页，无单帖数据"
+        }
+      ],
+      "playableAngle": "「美颜揭底」：左右滑保留滤镜版或真相版，真相越多分越高；适合做「假宣传→真相」式广告叙事。"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "1",
+      "name": "拇指相扑（Thumb Pin）",
+      "reason": "Switch Sports Resort 首日就被主播当成「最好玩」的项目刷屏，动作单一（压拇指）、失败画面夸张，HTML5 三天能出可玩广告；排位警告梗还能直接当地推文案。"
+    },
+    {
+      "id": "2",
+      "name": "宝可梦全垒打（Poke Slugger）",
+      "reason": "ALL-22 SLUGGER 浏览器小游戏首发帖近 78 万曝光，玩法就是「时机条挥棒」，和买量假玩法高度同构，且「用巨大树怪球棒轰全垒打」视觉钩子极强。"
+    },
+    {
+      "id": "3",
+      "name": "巴拉蒂爆单（Baratie Rush）",
+      "reason": "海贼王 × Kairosoft 餐厅模拟今日上线，尾田手写信上热搜；把「接单炒菜上菜」压成 3 秒循环，IP 感强又不用做完整经营系统。"
+    }
+  ],
+  "hotTopics": [
+    {
+      "title": "《Nintendo Switch Sports Resort》发售，拇指摔跤成客厅梗",
+      "description": "Switch 2 独占体感体育今日上线，12 项运动里新增拇指摔跤和滑板；主播 DotoDoya 从「想黑」变成「拇指摔跤是有史以来最好玩的东西」，并放出排位危险警告图。",
+      "links": [
+        {
+          "label": "拇指摔跤安利",
+          "url": "https://x.com/DotoDoya/status/2113357220180295682",
+          "stats": "796 赞 / 12 转 / 1.4 万曝光"
+        },
+        {
+          "label": "排位警告",
+          "url": "https://x.com/DotoDoya/status/2113352810473382385",
+          "stats": "3,232 赞 / 151 转 / 5.0 万曝光"
+        },
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2113255303315939387",
+          "stats": "聚合页，无单帖数据"
+        }
+      ]
+    },
+    {
+      "title": "《ONE PIECE: Grand Gourmet》上线，尾田手写信助攻",
+      "description": "Kairosoft 海贼餐厅模拟今日登陆 Switch / Steam / 手游；尾田分享「当年听电台吹开罗软件，现在自己求试玩被拒」的手写短讯，粉丝账号 pewpiece 一条破 10 万曝光。",
+      "links": [
+        {
+          "label": "尾田讯息转载",
+          "url": "https://x.com/pewpiece/status/2113182495135105365",
+          "stats": "4,808 赞 / 375 转 / 10.2 万曝光"
+        },
+        {
+          "label": "官方预热",
+          "url": "https://x.com/onepiece_games/status/2113163463719600560",
+          "stats": "892 赞 / 158 转 / 1.5 万曝光"
+        },
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2113197115556188652",
+          "stats": "聚合页，无单帖数据"
+        }
+      ]
+    },
+    {
+      "title": "《Final Fantasy Resonance》HD-2D 首作全球发售",
+      "description": "以《BRAVE EXVIUS》故事线重制的首款 HD-2D 最终幻想今日多平台上线，Metacritic 口碑不错；玩家晒 TGS 复古包装盒、开箱和开荒直播。",
+      "links": [
+        {
+          "label": "复古包装晒图",
+          "url": "https://x.com/nakagawa_chiya/status/2113217421280690221",
+          "stats": "275 赞 / 8 转 / 5,008 曝光"
+        },
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2112876479680073785",
+          "stats": "聚合页，无单帖数据"
+        }
+      ]
+    },
+    {
+      "title": "浏览器宝可梦棒球 ALL-22 SLUGGER 爆火",
+      "description": "开发者 Cole 放出免费浏览器作：用皮卡丘轰全垒打、超梦投球、球棒是巨大树怪；首发帖近 78 万曝光，隔天又宣布全世代宝可梦可玩。",
+      "links": [
+        {
+          "label": "首发帖",
+          "url": "https://x.com/ColeThereum/status/2112999834722439599",
+          "stats": "4,767 赞 / 279 转 / 117 回复 / 77.9 万曝光"
+        },
+        {
+          "label": "全世代更新",
+          "url": "https://x.com/ColeThereum/status/2113156082256523690",
+          "stats": "325 赞 / 15 转 / 5.5 万曝光"
+        },
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2113074809072402809",
+          "stats": "聚合页，无单帖数据"
+        }
+      ]
+    },
+    {
+      "title": "独立作《Dispatch》一年破 500 万玩家，宣布上手机",
+      "description": "调度超级英雄上班的职场喜剧独立游戏周年庆：500 万玩家、Deluxe 新模式、12 月手游，以及洛杉矶演唱会；Wario64 等大号跟转。",
+      "links": [
+        {
+          "label": "Wario64 转述",
+          "url": "https://x.com/Wario64/status/2113290812603949364",
+          "stats": "964 赞 / 59 转 / 9.5 万曝光"
+        },
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2113287489003876486",
+          "stats": "聚合页，无单帖数据"
+        }
+      ]
+    },
+    {
+      "title": "Steam 新品节 AI demo 泛滥，「NO AI」成标签战",
+      "description": "本届 Next Fest 超 8000 个 demo，独立开发者抱怨 AI 资源淹没手工项目；有人发「手作无 AI 却在会场哭」的梗图，也有工作室集体打 {NO AI} 标签互相置顶。",
+      "links": [
+        {
+          "label": "手作无 AI 梗图",
+          "url": "https://x.com/podopriguez/status/2112911737557283262",
+          "stats": "552 赞 / 57 转 / 7.0 万曝光"
+        },
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2112817857235239363",
+          "stats": "聚合页，无单帖数据"
+        }
+      ]
+    },
+    {
+      "title": "《Need for Speed: Most Wanted》网页复刻流传",
+      "description": "粉丝把 2005 年竞速经典搬进浏览器、支持联机，玩家晒 Chrome 里飙车截图，口号是「GTA 6 还没出，先在网页里当最通缉」。",
+      "links": [
+        {
+          "label": "浏览器实机",
+          "url": "https://x.com/rxhit05/status/2113360454894686475",
+          "stats": "5 赞 / 439 曝光"
+        },
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2113282171951804703",
+          "stats": "聚合页，无单帖数据"
+        }
+      ]
+    },
+    {
+      "title": "Xbox 360 客厅怀旧照带动 2010 通宵回忆",
+      "description": "一张 MW2 + 多力多滋 + 山露的 360 客厅照在 X 上勾出大波「那年联机」回复，和 PS5X360 仪表盘模组同一天刷怀旧。",
+      "links": [
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2113428896263925924",
+          "stats": "聚合页，无单帖数据"
+        },
+        {
+          "label": "360 仪表盘模组",
+          "url": "https://x.com/BrinoTk/status/2113108695567479183",
+          "stats": "358 赞 / 28 转 / 1.0 万曝光"
+        }
+      ]
+    }
+  ],
+  "ideas": [
+    {
+      "id": "1",
+      "name": "拇指相扑（Thumb Pin）",
+      "inspiration": {
+        "text": "Switch Sports Resort 拇指摔跤被主播狂夸 + 排位警告梗图",
+        "url": "https://x.com/DotoDoya/status/2113357220180295682"
+      },
+      "coreGameplay": "双拇指对顶：左右滑压对方拇指，蓄力过满会自己弹飞；先压住 3 秒获胜。",
+      "adHook": "前 3 秒：两只夸张卡通手怼在一起，字幕「WARNING：拇指危险」，手指一滑对方直接贴桌。",
+      "failSuccessPoint": "失败：自己的拇指被压扁发出「啵」的一声；爽点：连胜弹出仿官方「排位掠夺者」徽章。",
+      "difficulty": "低",
+      "whyFitUA": "单一手势、胜负一眼懂、失败画面天然好笑，客厅体育热度在，文案可直接借「排位警告」。"
+    },
+    {
+      "id": "2",
+      "name": "宝可梦全垒打（Poke Slugger）",
+      "inspiration": {
+        "text": "免费浏览器作 ALL-22 SLUGGER：巨大树怪球棒轰全垒打",
+        "url": "https://x.com/ColeThereum/status/2112999834722439599"
+      },
+      "coreGameplay": "时机条点按挥棒：绿区安打、金区全垒打；换「打者」只换皮肤和特效。",
+      "adHook": "前 3 秒：巨大树干球棒抡圆，皮卡丘形状的球飞出球场砸中记分牌。",
+      "failSuccessPoint": "失败：挥空跌倒、球砸中自己；爽点：全垒打慢镜头 + 观众席爆炸彩带。",
+      "difficulty": "低",
+      "whyFitUA": "和成熟买量「时机条」同构，视觉差异化靠巨棒和可爱打者，浏览器原作已证明点击欲望。"
+    },
+    {
+      "id": "3",
+      "name": "巴拉蒂爆单（Baratie Rush）",
+      "inspiration": {
+        "text": "ONE PIECE Grand Gourmet 上线 + 尾田手写信",
+        "url": "https://x.com/pewpiece/status/2113182495135105365"
+      },
+      "coreGameplay": "点击锅炒菜，拖到对应客人：饥饿条见底就掀桌；连对同色单触发「黄金配方」。",
+      "adHook": "前 3 秒：厨房铃狂响，路飞张嘴「肉——」，玩家把牛排甩进盘子刚好接住。",
+      "failSuccessPoint": "失败：客人掀桌、厨师帽子着火；爽点：爆单时金币雨 + 「完璧」印章。",
+      "difficulty": "中",
+      "whyFitUA": "接单/上菜是经典假经营钩子，海贼热度做皮肤就有点击，不必做完整模拟。"
+    },
+    {
+      "id": "4",
+      "name": "英雄派单（Hero Dispatch Desk）",
+      "inspiration": {
+        "text": "Dispatch 破 500 万并官宣手游",
+        "url": "https://x.com/Wario64/status/2113290812603949364"
+      },
+      "coreGameplay": "屏幕下方滑出事件卡，把英雄图标拖到匹配事件；属性错配就团灭。",
+      "adHook": "前 3 秒：警报红灯，三张灾难卡飞来，玩家一把把「激光眼」拖到「外星人入侵」上秒清。",
+      "failSuccessPoint": "失败：派错人，城市变成焦土表情包；爽点：正确派单连击「PERFECT SHIFT」。",
+      "difficulty": "低",
+      "whyFitUA": "拖拽匹配极适合试玩广告，职场喜剧语气好做失败吐槽字幕。"
+    },
+    {
+      "id": "5",
+      "name": "人工筛货（No AI Stamp）",
+      "inspiration": {
+        "text": "Steam 新品节 AI demo 泛滥，开发者互打 NO AI 标签",
+        "url": "https://x.com/podopriguez/status/2112911737557283262"
+      },
+      "coreGameplay": "传送带上滑过封面：左滑扔进「AI 垃圾」，右滑盖「NO AI」章；漏判扣心。",
+      "adHook": "前 3 秒：一堆塑料感封面冲来，玩家盖章「NO AI」时印章发出清脆「咔」。",
+      "failSuccessPoint": "失败：误伤手工游戏，作者哭着举牌；爽点：连盖 10 个金色印章解锁「人类制作」招牌。",
+      "difficulty": "低",
+      "whyFitUA": "左右滑是买量最稳手势，行业情绪梗新鲜，失败吐槽自带传播点。"
+    },
+    {
+      "id": "6",
+      "name": "最通缉闯卡（Blacklist Dash）",
+      "inspiration": {
+        "text": "NFS Most Wanted 网页复刻流传",
+        "url": "https://x.com/rxhit05/status/2113360454894686475"
+      },
+      "coreGameplay": "单指左右躲路障和警车，撞上就进「逮捕进度」；捡氮气可短暂无敌。",
+      "adHook": "前 3 秒：红蓝灯贴屁股，玩家一滑钻进巷子，通缉星掉一颗。",
+      "failSuccessPoint": "失败：被撞翻，警察拍引擎盖；爽点：连续甩尾清星，黑名单名次往上跳。",
+      "difficulty": "中",
+      "whyFitUA": "无尽跑酷壳 + 警察追逐视觉，怀旧车型皮肤好换量。"
+    },
+    {
+      "id": "7",
+      "name": "2010 客厅摆摊（Couch Setup）",
+      "inspiration": {
+        "text": "Xbox 360 + MW2 + 零食的怀旧客厅照刷屏",
+        "url": "https://x.com/i/trending/2113428896263925924"
+      },
+      "coreGameplay": "限时把主机、手柄、光盘、多力多滋、汽水拖到虚线框；放错触发吐槽气泡。",
+      "adHook": "前 3 秒：漆黑房间只亮一台老主机，玩家把绿色手柄「咔」地扣上，联机音效响起。",
+      "failSuccessPoint": "失败：放上「巧克力味止汗喷雾」，角色捂鼻倒下；爽点：摆齐后电视闪出「PARTY JOINED」。",
+      "difficulty": "低",
+      "whyFitUA": "拖拽摆放成本极低，怀旧情绪强，失败文案可做成系列素材。"
+    },
+    {
+      "id": "8",
+      "name": "晶核护卫（Crystal Guard）",
+      "inspiration": {
+        "text": "Final Fantasy Resonance HD-2D 发售，晶体与红龙视觉刷屏",
+        "url": "https://x.com/i/trending/2112876479680073785"
+      },
+      "coreGameplay": "点按召唤幻影挡在晶体前，划线把怪物引开；晶体血空即失败。",
+      "adHook": "前 3 秒：晶体碎裂倒计时，玩家点出金色幻影一刀挡下黑气。",
+      "failSuccessPoint": "失败：世界褪色成灰；爽点：完美格挡触发 HD-2D 闪白与「RESONANCE」。",
+      "difficulty": "中",
+      "whyFitUA": "塔防/格挡混合仍是单核操作，像素风卖相差、制作量可控。"
+    }
+  ],
+  "notes": [
+    "互动数据来自 X 公共只读接口的 public_metrics（赞/转/回复/曝光），采集于 2026-10-23 上午北京时间。",
+    "已避开 10-20～10-22 已推选题（请假溜号、赤脚过乐高、烤箱小猪等）与重复热梗（let's recreate、Tate McRae 家庭主妇等）。",
+    "BioWare 关闭、Project Gridiron、Deadlock Nurse Harrow 等昨日已覆盖话题今日不再作主热点。",
+    "「I'm so sorry」童年照挑战以 X 新闻聚合页为准，当日未抓到可核验的高互动原帖。"
+  ]
+}
