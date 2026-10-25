@@ -1,0 +1,409 @@
+{
+  "date": "2026-10-25",
+  "dataWindow": "2026-10-24 01:00 至 10-25 09:00（北京时间），部分热点帖起于 10-22～10-23",
+  "source": "X 新闻聚合（search_news）、全球/美国趋势和帖子搜索（Grok Bot 公共 X 只读访问）",
+  "memes": [
+    {
+      "title": "「WHY IS MY ENTIRE TIMELINE WINSTON OVERWATCH」",
+      "description": "时间线突然被《守望先锋》猩猩科学家 Winston（梗里常写成 Winton Overwat）刷屏：吐槽、夸赞、配图雪豹爪全变成「致敬 Winston」的文案接力。有人喊「整个 TL 都是 Winston」，有人笑说这是 Overwatch 近年最好的产物。",
+      "links": [
+        {
+          "label": "原帖",
+          "url": "https://x.com/SkarlonYGO/status/2114065560891805739",
+          "stats": "182 赞 / 13 转 / 4 回复 / 2,942 曝光"
+        },
+        {
+          "label": "另一条刷屏感叹",
+          "url": "https://x.com/maydidherbest/status/2113884164403658842",
+          "stats": "26 赞 / 3 回复 / 468 曝光"
+        },
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2114155590167507152",
+          "stats": "聚合页，无单帖数据"
+        }
+      ],
+      "playableAngle": "「猩猩护盾」：点一下张开泡泡罩挡住弹幕吐槽，罩破了就变「Winton」字幕；适合做保护/连击假玩法。"
+    },
+    {
+      "title": "「I don't have a photosensitive memory」谐音接龙",
+      "description": "经典句「人人都有 photographic memory，只是有人没胶卷」被拆成 photo- 谐音接龙：photosensitive、photogenic、photosynthesis、photon torpedo……一句接一句，比拼谁的科学词更离谱。",
+      "links": [
+        {
+          "label": "photosensitive 原帖",
+          "url": "https://x.com/Dave_Parke/status/2114088321769185313",
+          "stats": "46 赞 / 11 引用 / 5 回复 / 3,045 曝光"
+        },
+        {
+          "label": "photogenic 接力",
+          "url": "https://x.com/jacktogon/status/2114080936585576492",
+          "stats": "32 赞 / 6 引用 / 3 回复 / 2,025 曝光"
+        },
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2114133220421755160",
+          "stats": "聚合页，无单帖数据"
+        }
+      ],
+      "playableAngle": "「词根连击」：屏幕弹出 photo- 词根，限时点选正确后缀拼成新梗；点错就「胶卷曝光失败」。低成本文字梗玩法。"
+    },
+    {
+      "title": "「I AM PREGNANT」孕肚侧拍被当成中枪",
+      "description": "一张孕肚侧拍（妊娠纹+角度）被朋友当成屁股中枪，慌张回「OMG you got shot！」；对方回「I AM PREGNANT」。光学错觉+短信截图结构，继续在时间线复制。",
+      "links": [
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2114073537996521731",
+          "stats": "聚合页，无单帖数据；当日搜索未稳定抓到可核验高互动原帖图"
+        }
+      ],
+      "playableAngle": "「错觉翻牌」：左右滑判断图是「中枪」还是「怀孕」；滑错弹出夸张短信；适合做 3 秒误判钩子。"
+    },
+    {
+      "title": "「six things I love」六件最爱接力",
+      "description": "列出六件日常爱好（猫、奶茶、角色、甜点……）再点名朋友接着写。低门槛链式互动，周末时间线大量出现，偏二次元与游戏圈。",
+      "links": [
+        {
+          "label": "示例帖",
+          "url": "https://x.com/Adva_Sus/status/2113719367154229352",
+          "stats": "17 赞 / 4 引用 / 766 曝光"
+        },
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2113692020170719698",
+          "stats": "聚合页，无单帖数据"
+        }
+      ],
+      "playableAngle": "「六格填空」：拖图标进六个格子组成「我的最爱」，填满触发分享卡；偏轻社交素材。"
+    },
+    {
+      "title": "任天堂「They grow up so fast...」",
+      "description": "任天堂美服发《时之笛》Switch 2 预热帖，配「孩子长得真快」文案，1 万+ 赞；评论区一边怀念童年一边倒计时 11 月 5 日。",
+      "links": [
+        {
+          "label": "原帖",
+          "url": "https://x.com/NintendoAmerica/status/2114069413955571756",
+          "stats": "1.04 万赞 / 903 转 / 82 回复 / 17.5 万曝光"
+        }
+      ],
+      "playableAngle": "「一键长大」：按住角色从小孩滑到成人，松手定格；定错年龄进错迷宫。怀旧钩子强。"
+    },
+    {
+      "title": "Cheesecake Factory 上趋势",
+      "description": "美国趋势出现 Cheesecake Factory：有人认真聊「它算不算高级餐厅」，有人纯刷店名玩梗；和周末球赛趋势挤在一起，属于无厘头话题热度。",
+      "links": [
+        {
+          "label": "趋势搜索",
+          "url": "https://x.com/search?q=Cheesecake%20Factory",
+          "stats": "美国趋势词，无单帖数据"
+        },
+        {
+          "label": "讨论帖示例",
+          "url": "https://x.com/ferald_gord/status/2114127592907530487",
+          "stats": "15 赞 / 310 曝光"
+        }
+      ],
+      "playableAngle": "「菜单赛跑」：在夸张金色菜单里点到指定甜品再结账；点错就弹出「这不算米其林」吐槽。"
+    },
+    {
+      "title": "AI 雪豹伸爪「paws at you」",
+      "description": "一张毛茸茸雪豹幼崽伸爪特写刷屏，评论区「能盯着你看吗」；随后被指认为 AI 生成，但互动仍在继续，属于「先心动再打假」型图梗。",
+      "links": [
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2113987136043016614",
+          "stats": "聚合页，无单帖数据"
+        }
+      ],
+      "playableAngle": "「伸爪接住」：爪拍过来时点接，连击越高越可爱；接空显示「AI 生成失败」。可与 Winston 护盾做皮肤变体。"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "1",
+      "name": "一键长大（Grow Up Fast）",
+      "reason": "任天堂美服单帖 1.04 万赞、17.5 万曝光，文案「They grow up so fast」自带怀旧钩子；玩法可压成「按住滑年龄条」，3 秒懂，失败进错时之笛迷宫，HTML5 好做。"
+    },
+    {
+      "id": "2",
+      "name": "岛王冠冲刺（Island Crown Rush）",
+      "reason": "Switch Sports Resort 发售后官帖持续推 Island Crown 排位，欧服时间线帖近 4,400 赞；「冲分夺冠」挑战感天然适合假玩法广告，动作单一、家庭向买量稳。"
+    },
+    {
+      "id": "3",
+      "name": "绝壁互拉（Cliff Pull）",
+      "reason": "PEAK 主机版话题与 PlayStation 官帖（约 2,300 赞、百万级曝光）叠加热度；「拉队友上悬崖 / 松手掉下去」一眼懂，失败画面喜剧感强，适合做背叛/合作双钩子素材。"
+    }
+  ],
+  "hotTopics": [
+    {
+      "title": "任天堂欧服晒 Wii Sports 时间线：How many have you played?",
+      "description": "Switch Sports Resort 发售后两天，欧服贴出从 Wii Sports 到新作的系列时间线，问粉丝玩过几部；评论区一边数作品一边吐槽「被遗忘的 Wii Sports Club」。",
+      "links": [
+        {
+          "label": "Nintendo Europe 原帖",
+          "url": "https://x.com/NintendoEurope/status/2113963719948472714",
+          "stats": "4,382 赞 / 308 转 / 126 回复 / 14.1 万曝光"
+        },
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2114002851496382831",
+          "stats": "聚合页，无单帖数据"
+        }
+      ]
+    },
+    {
+      "title": "任天堂美服「They grow up so fast...」预热《时之笛》Switch 2",
+      "description": "配童年成长感文案预热 11 月 5 日 Switch 2 版《塞尔达传说：时之笛》，单帖破万赞；同线程还链到正式预告帖。",
+      "links": [
+        {
+          "label": "原帖",
+          "url": "https://x.com/NintendoAmerica/status/2114069413955571756",
+          "stats": "1.04 万赞 / 903 转 / 82 回复 / 17.5 万曝光"
+        },
+        {
+          "label": "正式预告帖",
+          "url": "https://x.com/NintendoAmerica/status/2113707026131902537",
+          "stats": "1.41 万赞 / 1,829 转 / 146 回复 / 54.2 万曝光"
+        }
+      ]
+    },
+    {
+      "title": "Nintendo Switch Sports Resort：冲 Island Crown",
+      "description": "美服官推「Climb the ranks and claim the Island Crown」，强调 12 项运动与排位；纽约/旧金山店面也办试玩活动。",
+      "links": [
+        {
+          "label": "NintendoAmerica 原帖",
+          "url": "https://x.com/NintendoAmerica/status/2113782525617164569",
+          "stats": "1,486 赞 / 106 转 / 29 回复 / 16.9 万曝光"
+        },
+        {
+          "label": "Nintendo Store 试玩活动",
+          "url": "https://x.com/NintendoStoreUS/status/2113994220302426113",
+          "stats": "116 赞 / 11 转 / 6 回复 / 6,917 曝光"
+        }
+      ]
+    },
+    {
+      "title": "《FINAL FANTASY RESONANCE》发售后官方艺术图持续刷屏",
+      "description": "Square Enix HD-2D 新作 10 月 22 日多平台上线，官方连发「I day / II days since launch」画师图，Steam 峰值与好评话题仍在发酵；欧服也在推 Switch 版试玩。",
+      "links": [
+        {
+          "label": "FinalFantasy「II days」艺术图",
+          "url": "https://x.com/FinalFantasy/status/2113918597064221062",
+          "stats": "4,321 赞 / 823 转 / 34 回复 / 6.4 万曝光"
+        },
+        {
+          "label": "PlayStation 发售帖",
+          "url": "https://x.com/PlayStation/status/2113331310626508950",
+          "stats": "2,209 赞 / 190 转 / 385 回复 / 111 万曝光"
+        },
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2113586148908138610",
+          "stats": "聚合页，无单帖数据"
+        }
+      ]
+    },
+    {
+      "title": "GTA VI 倒计时：还有 25 天",
+      "description": "粉丝与追踪账号刷「25 DAYS LEFT」，夹杂预下载 11 月 12 日、兰博基尼官方发 GTA 风照片等猜测；倒计时本身成了日常仪式帖。",
+      "links": [
+        {
+          "label": "倒计时示例",
+          "url": "https://x.com/SynthPotato/status/2114113016807735730",
+          "stats": "471 赞 / 19 转 / 2 回复 / 1.03 万曝光"
+        },
+        {
+          "label": "兰博基尼联动猜测",
+          "url": "https://x.com/theftsgrand/status/2114034701757284845",
+          "stats": "212 赞 / 9 转 / 11 回复 / 1.14 万曝光"
+        },
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2114037788005859418",
+          "stats": "聚合页，无单帖数据"
+        }
+      ]
+    },
+    {
+      "title": "Tim Sweeney 称 Steam AI 披露政策「abhorrent」",
+      "description": "Epic CEO 批评强制 AI 披露会变成「给仇恨团练靶子的政治声明」，主帖近 2,000 赞、64 万曝光；次日仍在回复串里加码。宫本茂同期谈 AI 是工具的采访也被转发对比。",
+      "links": [
+        {
+          "label": "Sweeney 原帖",
+          "url": "https://x.com/TimSweeneyEpic/status/2113639717690638483",
+          "stats": "1,949 赞 / 74 转 / 962 回复 / 64.0 万曝光"
+        },
+        {
+          "label": "后续回复",
+          "url": "https://x.com/TimSweeneyEpic/status/2114090264000446639",
+          "stats": "675 赞 / 36 转 / 60 回复 / 1.26 万曝光"
+        },
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2113720973971050808",
+          "stats": "聚合页，无单帖数据"
+        }
+      ]
+    },
+    {
+      "title": "Steam Next Fest 末周末：#ScreenshotSaturday 互推",
+      "description": "展会进入尾声（至 10 月 26 日），独立开发者按传统晒进度图、求试玩与愿望单；有帖专门喊「先看别人的游戏再丢自己的链接」。",
+      "links": [
+        {
+          "label": "互推召集帖",
+          "url": "https://x.com/Satior420/status/2114003647495340410",
+          "stats": "50 赞 / 12 转 / 38 回复 / 1,108 曝光"
+        },
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2113863368788656259",
+          "stats": "聚合页，无单帖数据"
+        }
+      ]
+    },
+    {
+      "title": "《Phantom Blade Zero》本周数字版上线倒计时",
+      "description": "武侠动作新作锁定 10 月 28 日（美西）PS5/PC 数字发售，「66 天洗清冤屈」设定与预告片话题继续；中国区营销声量也被外媒提到。",
+      "links": [
+        {
+          "label": "Push Square 报道帖",
+          "url": "https://x.com/pushsquare/status/2113306914222195004",
+          "stats": "169 赞 / 19 转 / 7,174 曝光"
+        },
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2113813787170259332",
+          "stats": "聚合页，无单帖数据"
+        }
+      ]
+    }
+  ],
+  "ideas": [
+    {
+      "id": "1",
+      "name": "一键长大（Grow Up Fast）",
+      "inspiration": {
+        "text": "任天堂美服《时之笛》预热帖：They grow up so fast...",
+        "url": "https://x.com/NintendoAmerica/status/2114069413955571756"
+      },
+      "coreGameplay": "按住滑条让林克从小孩滑到大人，松手定格；年龄对才能进对门，滑过头进错迷宫。",
+      "adHook": "前 3 秒：小孩林克眨眼，字幕 They grow up so fast，手指一划瞬间长高。",
+      "failSuccessPoint": "失败：变成错误年龄卡在门缝；爽点：完美成年推开时之门，三角力量闪一下。",
+      "difficulty": "低",
+      "whyFitUA": "单一滑动、怀旧强钩子、失败画面喜剧，HTML5 一天能出可玩广告。"
+    },
+    {
+      "id": "2",
+      "name": "岛王冠冲刺（Island Crown Rush）",
+      "inspiration": {
+        "text": "Switch Sports Resort 官推冲 Island Crown 排位",
+        "url": "https://x.com/NintendoAmerica/status/2113782525617164569"
+      },
+      "coreGameplay": "左右躲障碍、连点完成迷你运动（投球/滑板），15 秒内冲到王冠分数线。",
+      "adHook": "前 3 秒：王冠倒计时 3-2-1，角色冲上无湖岛跑道，字幕 CLAIM THE CROWN。",
+      "failSuccessPoint": "失败：掉进海里王冠飞走；爽点：压线夺冠烟花+排位升一档。",
+      "difficulty": "低",
+      "whyFitUA": "家庭运动题材稳、操作短平快，假挑战「你能拿王冠吗」CTR 测法清晰。"
+    },
+    {
+      "id": "3",
+      "name": "绝壁互拉（Cliff Pull）",
+      "inspiration": {
+        "text": "PEAK 主机版上线：合作爬山，队友能拉也能松手",
+        "url": "https://x.com/PlayStation/status/2113314827418644512"
+      },
+      "coreGameplay": "按住拉队友上悬崖，时机条满松手固定；拉太慢掉下去，乱松手「背叛」队友。",
+      "adHook": "前 3 秒：悬崖边一只手伸过来，字幕 DON'T LET GO，下一秒手滑。",
+      "failSuccessPoint": "失败：双双坠崖表情包；爽点：连拉三人登顶插旗。",
+      "difficulty": "低",
+      "whyFitUA": "合作/背板双钩子，物理感强，买量文案「你朋友会不会松手」天然传播。"
+    },
+    {
+      "id": "4",
+      "name": "标签躲避（Label Dodge）",
+      "inspiration": {
+        "text": "Tim Sweeney 批评 Steam AI 披露会喂给仇恨团练",
+        "url": "https://x.com/TimSweeneyEpic/status/2113639717690638483"
+      },
+      "coreGameplay": "左右滑动躲开飞来的「AI 生成」大红标签，点到「Ship」按钮过关。",
+      "adHook": "前 3 秒：商店页面被巨大 AI 标签砸中，开发者血条掉一半。",
+      "failSuccessPoint": "失败：商店页被撕成「hate mob」弹幕；爽点：完美躲开标签，游戏一键上架放烟花。",
+      "difficulty": "低",
+      "whyFitUA": "行业热议话题转成躲避玩法，操作极简，适合做「开发者自嘲」向素材测试。"
+    },
+    {
+      "id": "5",
+      "name": "水晶护航（Crystal Escort）",
+      "inspiration": {
+        "text": "FF Resonance 发售后官方水晶主题艺术图",
+        "url": "https://x.com/FinalFantasy/status/2113918597064221062"
+      },
+      "coreGameplay": "拖动飞艇绕开暗黑触手，护送水晶到神殿；水晶血量归零即失败。",
+      "adHook": "前 3 秒：HD-2D 风水晶碎裂倒计时，飞艇冲进画面。",
+      "failSuccessPoint": "失败：水晶碎成像素渣；爽点：八颗水晶全亮，队伍合影闪白。",
+      "difficulty": "中",
+      "whyFitUA": "视觉辨识度高、拖拽单一、JRPG 滤镜利于素材差异化。"
+    },
+    {
+      "id": "6",
+      "name": "倒数闯关（Countdown Dash）",
+      "inspiration": {
+        "text": "GTA VI 25 天倒计时刷屏",
+        "url": "https://x.com/SynthPotato/status/2114113016807735730"
+      },
+      "coreGameplay": "在倒计时日历上左右跳格子躲警察光柱，到达「Day 0」开香槟。",
+      "adHook": "前 3 秒：巨大 25 砸在棕榈树街上，字幕 DAYS LEFT。",
+      "failSuccessPoint": "失败：被拖进「再等一年」加载圈；爽点：撞破 Day 0 彩带，跑车冲出。",
+      "difficulty": "低",
+      "whyFitUA": "倒计时本身是强钩子，挑战关卡短，适合事件营销窗口。"
+    },
+    {
+      "id": "7",
+      "name": "截图冲榜（Screenshot Climb）",
+      "inspiration": {
+        "text": "Steam Next Fest 末周末 #ScreenshotSaturday 互推",
+        "url": "https://x.com/Satior420/status/2114003647495340410"
+      },
+      "coreGameplay": "限时给其他独立游戏截图点赞/愿望单，攒热度条；自己的图被埋了就失败。",
+      "adHook": "前 3 秒：愿望单数字狂跳，字幕 LIKE OTHERS FIRST。",
+      "failSuccessPoint": "失败：被 AI demo 海淹没；爽点：热度条满，自己的封面冲上推荐。",
+      "difficulty": "中",
+      "whyFitUA": "社区互推情绪强，玩法像「假经营」，容易做进度条爽感。"
+    },
+    {
+      "id": "8",
+      "name": "66 日洗冤（66-Day Clear）",
+      "inspiration": {
+        "text": "Phantom Blade Zero：66 天内洗清冤屈的武侠设定",
+        "url": "https://x.com/i/trending/2113813787170259332"
+      },
+      "coreGameplay": "点按弹反刀光，连斩清掉「冤案进度条」；误触则天数-1。",
+      "adHook": "前 3 秒：日历贴着 66，刀光一闪字幕 CLEAR YOUR NAME。",
+      "failSuccessPoint": "失败：天数归零被押走；爽点：完美弹反清条，红名变白。",
+      "difficulty": "中",
+      "whyFitUA": "动作反馈爽、目标数字清晰，适合「还能撑几天」挑战文案。"
+    },
+    {
+      "id": "9",
+      "name": "谐音抢答（Rebus Rush）",
+      "inspiration": {
+        "text": "DON'T SAY IT TOO FAST 谐音图谜继续传播",
+        "url": "https://x.com/i/trending/2113941334503424233"
+      },
+      "coreGameplay": "看图选正确谐音词，说太快（点太快）反而判错；要卡在「刚好读懂」的节奏。",
+      "adHook": "前 3 秒：耳朵+2+戒指，大红警告 DON'T SAY IT TOO FAST。",
+      "failSuccessPoint": "失败：字幕变成乱七八糟的谐音；爽点：答对「earring」彩带炸开。",
+      "difficulty": "低",
+      "whyFitUA": "纯图文梗转化成本极低，前 3 秒停顿感适合信息流广告。"
+    }
+  ],
+  "notes": [
+    "互动数据来自 X 公共只读接口的 public_metrics（赞/转/回复/曝光），采集于 2026-10-25 上午北京时间。",
+    "已避开 10-20～10-24 已推选题（窗外一眼、机舱破网、拇指相扑、烤箱小猪、赤脚过乐高等）与重复热梗（Switch 2 飞机 Wi-Fi、Pinterest 四宫格、eye+4+chair、Tate McRae 等）。",
+    "今日刻意不把「拇指摔跤」做成选题，以免与 10-23「拇指相扑」撞车；Sports Resort 改为 Island Crown 冲分向。",
+    "孕肚错觉梗、AI 雪豹、部分谐音图谜以 X 新闻聚合页为准，当日搜索未稳定抓到可核验的高互动原帖图。",
+    "PEAK PlayStation 发售帖日期为 10-22，但仍在近几日主机版讨论热度内，作选题灵感并注明来源。"
+  ]
+}
