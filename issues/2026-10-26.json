@@ -1,0 +1,393 @@
+{
+  "date": "2026-10-26",
+  "dataWindow": "北京时间 2026-10-25 09:00 至 2026-10-26 09:00（约最近 24 小时；个别仍在发酵的帖可略早于窗口）",
+  "source": "Grok Bot 内置公共 X 只读：search_news、search_posts_all、get_trends_by_woeid、get_posts_by_id(s)",
+  "memes": [
+    {
+      "title": "「Get X past this first」原声通关挑战",
+      "description": "有人夸某游戏 OST 是历史最佳，评论区立刻甩出另一首高燃曲 + 文案「Get [游戏] past this first」逼你先听完再下结论。这周轮到 Pizza Tower：夸 Pizza Tower 原声的帖被连环引用，配上 It's Pizza Time / Unexpectancy 等片段刷屏。",
+      "links": [
+        {
+          "label": "Pizza Tower 版高赞接力",
+          "url": "https://x.com/ChamyaouLikeCat/status/2114343896469889039",
+          "stats": "712 赞 / 158 转 / 18 回复 / 1.2 万曝光"
+        },
+        {
+          "label": "模板源流（Deltarune 版）",
+          "url": "https://x.com/QuaneilousDookZ/status/2113493395523981329",
+          "stats": "365 赞 / 69 转 / 81 引用 / 8.0 万曝光"
+        }
+      ],
+      "playableAngle": "假玩法：屏幕中央是「本周 OST 擂台」，玩家按节奏点按钮给曲目「通关进度条」；进度条被对面曲目反压就失败，适合做听感挑战广告。"
+    },
+    {
+      "title": "「hes getting the call from valve」Deadlock 入队来电",
+      "description": "一张（或一段）看起来要接神秘电话的表情包/动图，配文「他接到 Valve 电话了，要被加进 Deadlock」。Deadlock 本周仍在邀请制高峰，粉丝用「Valve 来电入队」玩梗刷屏。",
+      "links": [
+        {
+          "label": "高赞原帖",
+          "url": "https://x.com/big_guy_demo/status/2114361246690525216",
+          "stats": "1.77 万赞 / 925 转 / 13 回复 / 35.6 万曝光"
+        },
+        {
+          "label": "被引用动图原帖",
+          "url": "https://x.com/naobeano/status/2114327261067518020",
+          "stats": "2,442 赞 / 172 转 / 11 回复 / 28.9 万曝光"
+        }
+      ],
+      "playableAngle": "前 3 秒来电全屏：滑接听=随机英雄入队成功；滑拒接=英雄失落离场。极适合假玩法买量。"
+    },
+    {
+      "title": "「we used to get our periods at the same time」同步经期怀旧",
+      "description": "配上闺蜜/明星合影，文案「我们以前经期都是同步的 💔」，引发大量跟发：有人当真回忆同步周期，有人纯玩梗吐槽痛经与合拍。科学上多半是巧合，但模板传播很快。",
+      "links": [
+        {
+          "label": "高赞跟发",
+          "url": "https://x.com/tppsupreme/status/2114090269771698604",
+          "stats": "1.12 万赞 / 1,126 转 / 50 回复 / 12.4 万曝光"
+        },
+        {
+          "label": "另一条高赞",
+          "url": "https://x.com/lionessenced/status/2114406520322662466",
+          "stats": "5,518 赞 / 424 转 / 43 回复 / 9.8 万曝光"
+        }
+      ],
+      "playableAngle": "两名角色血条/能量条需要滑到同一相位才算同步；错相位就「失联」失败，可做成轻度连线解谜素材。"
+    },
+    {
+      "title": "「the ava / the owner」头像 vs 真人对照",
+      "description": "左栏精修头像（二次元/滤镜），右栏日常自拍，只写 the ava 和 the owner。印尼发起后在多语圈扩散，笑点是「网上人设 vs 线下本人」的落差，不带审判。",
+      "links": [
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2114084920507376001",
+          "stats": "新闻故事（头像对照链式挑战）"
+        },
+        {
+          "label": "跟发示例",
+          "url": "https://x.com/serigalabelacu/status/2114328746559947000",
+          "stats": "14 赞 / 381 曝光"
+        }
+      ],
+      "playableAngle": "翻牌配对：把夸张头像拖到对应真人卡；配对错就「人设崩了」抖动，适合 3 秒钩子广告。"
+    },
+    {
+      "title": "「back from a cod break」瞄准片打外挂嫌疑",
+      "description": "玩家 siina5_ 发「休完 COD 假回来了」附超稳瞄准片，370 万曝光下评论两极：一边喊 aimbot，一边说是 Voltaic 类练枪成果；本人反复声明从不作弊，整条讨论成了「看片判外挂」现场。",
+      "links": [
+        {
+          "label": "原帖",
+          "url": "https://x.com/siina5_/status/2113815063991562689",
+          "stats": "2,046 赞 / 75 转 / 804 回复 / 427 引用 / 370 万曝光"
+        },
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2114215877016990132",
+          "stats": "新闻故事（作弊指控 vs 技术辩护）"
+        }
+      ],
+      "playableAngle": "看短片滑动投票「外挂 / 技术」；投错弹「证据不足」或「误伤大神」，爽点在快速站队与反转。"
+    },
+    {
+      "title": "「Big big big Michael Michael」MJ 口头禅洗脑",
+      "description": "底特律创作者 Looze Cannon 用迈克尔·杰克逊 impersonation 自由说唱，钩子句「they call me big big big big Michael Michael」被全网复读，甚至发行成单曲；时间线上大量只发这一句的刷屏帖。",
+      "links": [
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2114187162606510524",
+          "stats": "新闻故事（口头禅刷屏）"
+        },
+        {
+          "label": "复读示例",
+          "url": "https://x.com/ChanelMurder/status/2114417090513830387",
+          "stats": "16 赞 / 8 转 / 1,129 曝光"
+        }
+      ],
+      "playableAngle": "节奏点击：按「big」叠层，第四下必须打出「Michael Michael」连击；错拍角色摔倒，适合短视频感素材。"
+    },
+    {
+      "title": "日本区「发食物就召唤狸猫」链式梗",
+      "description": "日文时间线流行：有人晒美食，评论区和引用立刻刷狸猫图「召唤更多狸」，越叠越多像仪式。被总结为当下日区最火的动物梗之一。",
+      "links": [
+        {
+          "label": "英文圈介绍帖",
+          "url": "https://x.com/springflowerjia/status/2114379039192257024",
+          "stats": "17 赞 / 2 转 / 8 回复 / 574 曝光"
+        }
+      ],
+      "playableAngle": "点食物图标召唤狸；召唤过量会把餐桌挤翻（失败），刚好三只狸排队=通关，视觉钩子强。"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "1",
+      "name": "砖堆磁吸（Brick Magnet）",
+      "reason": "Never Sort By Color 预告片已有数百万次曝光，玩法是「磁吸手套吸同类积木」一眼能懂；无失败状态原作可改成广告版限时挑战，制作成本低、演示视频天然好看。"
+    },
+    {
+      "id": "2",
+      "name": "阀门来电（Valve Call）",
+      "reason": "Deadlock「Valve 来电入队」帖近 1.8 万赞、35 万曝光，滑动接听/拒接是买量广告最经典手势；英雄入队瞬间有强反馈，易做成 HTML5 假玩法。"
+    },
+    {
+      "id": "3",
+      "name": "通关原声（Past This First）",
+      "reason": "「Get X past this first」是本周跨圈模板，节奏点按即可；借 Pizza Tower 高燃段落做前 3 秒钩子，失败/通关都适合配表情包字幕，投放测素材成本极低。"
+    }
+  ],
+  "hotTopics": [
+    {
+      "title": "Deadlock：Valve 来电梗 + 邀请制高峰仍在发酵",
+      "description": "Deadlock 在 City Never Sleeps 更新后 Steam 峰值仍被热议；X 上「接到 Valve 电话要被加进 Deadlock」表情包/动图爆火，玩家一边玩梗一边晒英雄与段位。",
+      "links": [
+        {
+          "label": "Valve 来电高赞帖",
+          "url": "https://x.com/big_guy_demo/status/2114361246690525216",
+          "stats": "1.77 万赞 / 925 转 / 35.6 万曝光"
+        },
+        {
+          "label": "X 新闻：Deadlock 深度羁绊",
+          "url": "https://x.com/i/trending/2114502027548172645",
+          "stats": "新闻故事（峰值与社群）"
+        }
+      ]
+    },
+    {
+      "title": "《Phantom Blade Zero》评测预热：肾上腺素与 GOTY 候选声",
+      "description": "发售倒计时（约 10/28–29）进入预载周，日区评测「手脚发抖」说法被转发，YouTube 已排「Another GOTY Contender」类标题；武侠动作与酷炫镜头继续刷屏。",
+      "links": [
+        {
+          "label": "日评发抖说法帖",
+          "url": "https://x.com/Play4Index/status/2114287394031603837",
+          "stats": "503 赞 / 39 转 / 3.8 万曝光"
+        },
+        {
+          "label": "评测档期讨论",
+          "url": "https://x.com/GermanStrands/status/2114465479498633320",
+          "stats": "481 赞 / 29 转 / 1.6 万曝光"
+        },
+        {
+          "label": "X 新闻：预载与发售",
+          "url": "https://x.com/i/trending/2113813787170259332",
+          "stats": "新闻故事"
+        }
+      ]
+    },
+    {
+      "title": "COD 瞄准片：休赛归来还是外挂？",
+      "description": "siina5_ 一条「back from a cod break」瞄准片冲到约 370 万曝光，评论区撕裂成作弊指控与练枪粉；当事人持续否认开挂，话题进入「看片判罪」阶段。",
+      "links": [
+        {
+          "label": "原帖",
+          "url": "https://x.com/siina5_/status/2113815063991562689",
+          "stats": "2,046 赞 / 804 回复 / 427 引用 / 370 万曝光"
+        },
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2114215877016990132",
+          "stats": "新闻故事"
+        }
+      ]
+    },
+    {
+      "title": "Marvel Rivals「Path to Doomsday」活动翻车梗",
+      "description": "对标复联电影的限时模式（尤其 50 人打灭霸等）被吐槽卡顿、敌人无反馈、肝活动没乐趣；情报号用表情包总结「大家怎么谈论这活动」，近 5 千赞。",
+      "links": [
+        {
+          "label": "社群反应汇总帖",
+          "url": "https://x.com/RivalsAssembled/status/2114440138499768413",
+          "stats": "5,317 赞 / 237 转 / 8.8 万曝光"
+        },
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2114463226918318272",
+          "stats": "新闻故事"
+        }
+      ]
+    },
+    {
+      "title": "Pizza Tower 原声挑战模板「Get it past this first」",
+      "description": "有人吹 Pizza Tower OST 吊打 Toby Fox，立刻被「Get Pizza Tower past this first」+ 高燃片段连环引用，形成本周游戏音乐圈刷屏格式。",
+      "links": [
+        {
+          "label": "高赞接力帖",
+          "url": "https://x.com/ChamyaouLikeCat/status/2114343896469889039",
+          "stats": "712 赞 / 158 转 / 1.2 万曝光"
+        },
+        {
+          "label": "X 新闻：OST 对比战",
+          "url": "https://x.com/i/trending/2114485598056780283",
+          "stats": "新闻故事"
+        }
+      ]
+    },
+    {
+      "title": "独立作《Never Sort By Color》：砖山整理预告刷屏",
+      "description": "#ScreenshotSaturday / #ShowMeSunday 里，独游作者 Bryan Livingston 持续推「按零件磁吸整理积木山、别按颜色」的 cozy 模拟；官方称 Indie Game Joe 转发的预告片已破数百万次观看，11/10 Steam 发售。",
+      "links": [
+        {
+          "label": "作者谈 320 万次观看",
+          "url": "https://x.com/BryanLivingston/status/2114358568522850565",
+          "stats": "1 赞 / 24 曝光（作者自述数据）"
+        },
+        {
+          "label": "X 新闻：Screenshot Saturday",
+          "url": "https://x.com/i/trending/2114179267659522273",
+          "stats": "新闻故事"
+        }
+      ]
+    },
+    {
+      "title": "《Battlefield 3》发售 15 周年怀旧",
+      "description": "2011-10-25 发售满 15 年，玩家重晒 Frostbite 2、64 人战场与 Operation Metro；「蓝加载条」与破坏物理仍被当成「现在还没追上」的怀旧符号。",
+      "links": [
+        {
+          "label": "15 周年纪念帖",
+          "url": "https://x.com/hrplays7/status/2114390940173689172",
+          "stats": "60 赞 / 9 转 / 1,126 曝光"
+        },
+        {
+          "label": "X 新闻聚合",
+          "url": "https://x.com/i/trending/2114401031505510475",
+          "stats": "新闻故事"
+        }
+      ]
+    },
+    {
+      "title": "The Game Bakers 恶搞：如果《Cairn》是手游",
+      "description": "工作室发「What if Cairn was a mobile game」短视频（并强调绝对不会做手游），用夸张 UI 和一指操作玩梗，独立圈子跟着转。",
+      "links": [
+        {
+          "label": "工作室原帖",
+          "url": "https://x.com/TheGameBakers/status/2114512484270743790",
+          "stats": "28 赞 / 1 转 / 770 曝光"
+        }
+      ]
+    }
+  ],
+  "ideas": [
+    {
+      "id": "1",
+      "name": "砖堆磁吸（Brick Magnet）",
+      "inspiration": {
+        "text": "《Never Sort By Color》磁吸手套整理积木山预告",
+        "url": "https://x.com/BryanLivingston/status/2114358568522850565"
+      },
+      "coreGameplay": "点住某色/某形状零件，同类积木被磁吸飞入手中；倒入对应抽屉，砖山高度下降。",
+      "adHook": "前 3 秒：镜头怼着一座摇摇欲坠的积木山，手指一点，整排零件「嗖」地飞进手套。",
+      "failSuccessPoint": "失败：吸错类导致抽屉爆炸；爽点：清空一层地板突然露出来，模型自动拼好闪金光。",
+      "difficulty": "低",
+      "whyFitUA": "单一磁吸操作、视觉冲击强、HTML5 易复刻；「整理强迫症」受众广，适合假玩法广告。"
+    },
+    {
+      "id": "2",
+      "name": "阀门来电（Valve Call）",
+      "inspiration": {
+        "text": "Deadlock「接到 Valve 入队电话」梗帖",
+        "url": "https://x.com/big_guy_demo/status/2114361246690525216"
+      },
+      "coreGameplay": "来电弹窗上滑接听 / 下滑拒接；接听后快速点选英雄技能槽完成「入队试炼」。",
+      "adHook": "前 3 秒：全屏绿色来电「VALVE」，震动音效，角色一脸懵。",
+      "failSuccessPoint": "失败：拒接三次英雄哭着离开；爽点：接听瞬间英雄披头纱入队，背景变 Deadlock 风格。",
+      "difficulty": "低",
+      "whyFitUA": "滑动接听是买量刚需手势，梗传播量已验证；可玩广告 1 天可出。"
+    },
+    {
+      "id": "3",
+      "name": "通关原声（Past This First）",
+      "inspiration": {
+        "text": "「Get Pizza Tower past this first」原声擂台模板",
+        "url": "https://x.com/ChamyaouLikeCat/status/2114343896469889039"
+      },
+      "coreGameplay": "跟随节奏点按，给己方曲目填「通关条」；对面曲目也会涨，先满者胜。",
+      "adHook": "前 3 秒：大字「best OST oat？」被另一条进度条反压，字幕 Get past this first。",
+      "failSuccessPoint": "失败：被对面曲目「盖帽」进度清零；爽点：最后一拍完美连击，对方条碎裂。",
+      "difficulty": "低",
+      "whyFitUA": "节奏点按零学习成本，模板本身就是挑战文案，适合 UGC 二创素材。"
+    },
+    {
+      "id": "4",
+      "name": "肾上腺素刀（Shake Blade）",
+      "inspiration": {
+        "text": "日评玩《Phantom Blade Zero》手脚发抖的说法",
+        "url": "https://x.com/Play4Index/status/2114287394031603837"
+      },
+      "coreGameplay": "屏幕抖动时在「肾上腺素」峰值点滑斩；过早或过晚都掉刀。",
+      "adHook": "前 3 秒：手持镜头狂抖 + 字幕「hands shaking」，一道刀光劈开 Boss。",
+      "failSuccessPoint": "失败：抖到看不清被反击；爽点：完美斩杀慢动作、字幕 GOTY？",
+      "difficulty": "中",
+      "whyFitUA": "武侠酷炫镜头适合竖屏广告；单一时机判定，试玩短、爽感强。"
+    },
+    {
+      "id": "5",
+      "name": "作弊审判（Aim Judge）",
+      "inspiration": {
+        "text": "COD「休赛归来」瞄准片引发外挂争论",
+        "url": "https://x.com/siina5_/status/2113815063991562689"
+      },
+      "coreGameplay": "看 2 秒瞄准短片，左滑「外挂」右滑「技术」；再给一条反转证据改判。",
+      "adHook": "前 3 秒：超稳爆头慢放，弹幕飞「CHEATER??」与「SKILL ISSUE」。",
+      "failSuccessPoint": "失败：误判后被「证据打脸」；爽点：连续三题判对解锁「鉴瓜大师」称号。",
+      "difficulty": "低",
+      "whyFitUA": "站队玩法天然带互动欲，争议话题 CTR 高，实现极简单。"
+    },
+    {
+      "id": "6",
+      "name": "末日路径（Doomsday Path）",
+      "inspiration": {
+        "text": "Marvel Rivals Path to Doomsday 翻车讨论",
+        "url": "https://x.com/RivalsAssembled/status/2114440138499768413"
+      },
+      "coreGameplay": "三岔路点选活动模式牌；踩中「卡顿 / 无反馈 Boss」牌扣血，选中「畅玩牌」前进。",
+      "adHook": "前 3 秒：灭霸大招卡住不动，玩家表情包裂开，字幕 Path to Doomsday。",
+      "failSuccessPoint": "失败：连续踩雷活动崩号；爽点：躲开坑模式冲到终点领免费喷漆。",
+      "difficulty": "低",
+      "whyFitUA": "选路+避坑是经典假玩法，可直接借活动吐槽热度做素材。"
+    },
+    {
+      "id": "7",
+      "name": "装机惊喜（Cairn Mobile）",
+      "inspiration": {
+        "text": "The Game Bakers「如果 Cairn 是手游」恶搞视频",
+        "url": "https://x.com/TheGameBakers/status/2114512484270743790"
+      },
+      "coreGameplay": "用夸张手游 UI 单指连点攀岩；能量条耗尽就掉下去，中途弹插页广告（玩笑）。",
+      "adHook": "前 3 秒：写实攀岩突然变成金光手游界面，大字 PLAY NOW。",
+      "failSuccessPoint": "失败：被假广告打断掉崖；爽点：关掉广告一气登顶解锁「NOT A MOBILE GAME」成就。",
+      "difficulty": "中",
+      "whyFitUA": "元梗「假装是烂手游」自带传播点，适合恶搞向买量测试。"
+    },
+    {
+      "id": "8",
+      "name": "蓝条冲刺（Blue Bar Dash）",
+      "inspiration": {
+        "text": "《Battlefield 3》15 周年怀旧与经典加载条",
+        "url": "https://x.com/hrplays7/status/2114390940173689172"
+      },
+      "coreGameplay": "在缓慢爬升的蓝色加载条上左右躲避障碍，条满入局；也可反向把条「加速灌满」。",
+      "adHook": "前 3 秒：熟悉的蓝加载条 + 老战场音效，字幕 15 YEARS。",
+      "failSuccessPoint": "失败：卡在 99% 爆炸；爽点：条满瞬间切到爆破场景，慢动作跳伞。",
+      "difficulty": "低",
+      "whyFitUA": "怀旧符号辨识度高，躲避玩法成熟，适合端游粉丝向素材。"
+    },
+    {
+      "id": "9",
+      "name": "头像拆穿（Ava Owner）",
+      "inspiration": {
+        "text": "「the ava / the owner」头像对照链式挑战",
+        "url": "https://x.com/i/trending/2114084920507376001"
+      },
+      "coreGameplay": "把华丽头像拖到正确的真人卡槽；拖错头像晃、人设条碎裂。",
+      "adHook": "前 3 秒：精致二次元头像翻面变素颜自拍，字幕 the owner。",
+      "failSuccessPoint": "失败：连续配错「网友逃走」；爽点：全对解锁「真实玩家」徽章。",
+      "difficulty": "低",
+      "whyFitUA": "社交梗可视化强，拖放操作适合试玩广告前 3 秒。"
+    }
+  ],
+  "notes": [
+    "互动数据来自帖子 public_metrics 快照（约 2026-10-26 09:00 北京时间查询），会随时间变化。",
+    "已避开 10/23–10/25 推过的选题名（如一键长大、岛王冠冲刺、绝壁互拉、窗外一眼等）与高度重复梗。",
+    "全球趋势当日以巴西选举/NFL 为主，游戏热点主要来自 search_news 与高互动原帖，而非全球趋势榜。",
+    "《Never Sort By Color》320 万观看为作者自述，作者帖本身曝光低，热点条目已标注。"
+  ]
+}
