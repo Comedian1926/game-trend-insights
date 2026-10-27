@@ -1,0 +1,379 @@
+{
+  "date": "2026-10-27",
+  "dataWindow": "北京时间 2026-10-26 09:00 至 2026-10-27 09:00（约最近 24 小时；个别仍在发酵的帖可略早于窗口）",
+  "source": "Grok Bot 内置公共 X 只读：search_news、search_posts_all、get_trends_by_woeid、get_posts_by_id(s)",
+  "memes": [
+    {
+      "title": "「campaigned all month only for Kane to quietly win」安静夺冠",
+      "description": "金球之夜 Yamal / Mbappé 整月造势，Harry Kane 却「quietly win」拿下 2026 Ballon d’Or。模板句「Lamine Yamal and Kylian Mbappe campaigned all month only for Harry Kane to quietly win」被大量复读，配上 Fabrizio 官宣图刷屏。",
+      "links": [
+        {
+          "label": "高赞复读（回复 Fabrizio）",
+          "url": "https://x.com/ChetuniHQ/status/2114853885550506317",
+          "stats": "678 赞 / 21 转 / 5 回复 / 3.7 万曝光"
+        },
+        {
+          "label": "Fabrizio 官宣图",
+          "url": "https://x.com/FabrizioRomano/status/2114853402412732809",
+          "stats": "16.1 万赞 / 1.57 万转 / 270 万曝光"
+        }
+      ],
+      "playableAngle": "两侧「造势条」狂涨，中间一条暗色进度条悄悄领先；玩家要点「安静输出」槽才能反超，吵闹点击反而掉分——前 3 秒钩子极强。"
+    },
+    {
+      "title": "「Harry Kane for World Peace」中立赢家",
+      "description": "球迷把 Kane 夺冠写成「给世界和平」的中立结局：既不是梅西/皇马粉撕逼，也不是 Mbappé/Yamal 阵营对线，大家集体喊「Kane for world peace」当作停火协议。",
+      "links": [
+        {
+          "label": "World Peace 跟发",
+          "url": "https://x.com/MinetteLontsie/status/2114868222516195331",
+          "stats": "引用跟发（#BallonDor）"
+        },
+        {
+          "label": "BREAKING 官宣",
+          "url": "https://x.com/FabrizioRomano/status/2114852369012031588",
+          "stats": "10.9 万赞 / 1.2 万转 / 293 万曝光"
+        }
+      ],
+      "playableAngle": "左右两派弹幕对冲，拖 Kane 徽章到中央「停火区」；两边同时安静=通关，偏一边就开战失败。"
+    },
+    {
+      "title": "「I'm coming / Am coming」FBI nice try",
+      "description": "尼日利亚梗：有人晒「从 Ikorodu 约的 OS 发来 I'm coming 而不是本地写法 Am coming」，结论是「FBI nice try」。语法太标准=卧底暴露，整晚被改写成 PalmPay / EFCC 等变体刷屏。",
+      "links": [
+        {
+          "label": "跟发示例",
+          "url": "https://x.com/tomzy207/status/2114817482259362038",
+          "stats": "4 赞 / 4 转 / 2 回复（链式复读）"
+        },
+        {
+          "label": "Operating System 谐音变体",
+          "url": "https://x.com/SenpaiFromLagos/status/2114728549051482276",
+          "stats": "26 赞 / 25 转 / 6 回复 / 394 曝光"
+        }
+      ],
+      "playableAngle": "聊天框二选一：点「Am coming」过关、点「I'm coming」触发 FBI 警报红光；可做成 3 秒识破卧底小游戏。"
+    },
+    {
+      "title": "「Profile / Lock screen / Last song」三件套自曝",
+      "description": "链式挑战：晒头像、锁屏、最近在听的歌（有时再加 Pinterest），用三件套「自曝审美」。时间线大量跟发，笑点在落差与过度统一的人设。",
+      "links": [
+        {
+          "label": "高赞跟发",
+          "url": "https://x.com/schizothotep/status/2114779312301748419",
+          "stats": "90 赞 / 2 引用 / 7 回复 / 1,602 曝光"
+        },
+        {
+          "label": "另一条跟发",
+          "url": "https://x.com/pokebow1s/status/2114556044278214705",
+          "stats": "33 赞 / 1 引用 / 1,221 曝光"
+        }
+      ],
+      "playableAngle": "翻牌配对：把头像/锁屏/歌单拖到同一人设栏；风格冲突就「人设崩了」抖动，适合短视频感素材。"
+    },
+    {
+      "title": "「Loading User Data」Steam 卡死循环",
+      "description": "10/26 Steam 客户端大面积卡在 Loading User Data，进不去库。情报号与玩家截图齐飞，文案直接复读那行加载字，成了当天的「进不去游戏」统一表情包。",
+      "links": [
+        {
+          "label": "高赞故障通报",
+          "url": "https://x.com/Pirat_Nation/status/2114708743275372555",
+          "stats": "6,366 赞 / 475 转 / 261 回复 / 83.6 万曝光"
+        },
+        {
+          "label": "玩家求助帖",
+          "url": "https://x.com/Martin_Coo/status/2114693989295407548",
+          "stats": "65 赞 / 28 回复 / 1.6 万曝光"
+        }
+      ],
+      "playableAngle": "假加载条永远卡在 99%，玩家疯狂点击「Retry」才能把条撞破进库；超时就弹「Valve hasn't said」失败字幕。"
+    },
+    {
+      "title": "「Brutal reality of making 500K on Steam」到手惨案",
+      "description": "独立开发者晒「Steam 做了约 50 万营收，税+分成后到手只剩约 7 万」的分账图，标题 Brutal reality。近 2 百万曝光下评论区一边心疼一边吵平台抽成，成了当天独立圈金句模板。",
+      "links": [
+        {
+          "label": "原帖",
+          "url": "https://x.com/aeejazkhan/status/2114678076458291511",
+          "stats": "1.22 万赞 / 255 转 / 782 回复 / 196 万曝光"
+        },
+        {
+          "label": "作者跟帖：平台抽成吐槽",
+          "url": "https://x.com/aeejazkhan/status/2114728600683602222",
+          "stats": "134 赞 / 111 回复 / 15.1 万曝光"
+        }
+      ],
+      "playableAngle": "营收数字飞涨，玩家要在税/分成/发行费「斧头」落下前把钱拖进「到手袋」；拖慢就被砍成两位数，视觉钩子极狠。"
+    },
+    {
+      "title": "「What can beat TLOU for $9」廉价吊打榜",
+      "description": "有人发「花 9 美元能吊打 The Last of Us 的游戏系列」配图征集，评论区变成廉价神作大战；虽略早于窗口，10/26 仍被新闻与引用继续发酵。",
+      "links": [
+        {
+          "label": "原帖",
+          "url": "https://x.com/justnyxs/status/2114444885029691691",
+          "stats": "571 赞 / 135 引用 / 452 回复 / 28.7 万曝光"
+        }
+      ],
+      "playableAngle": "把低价神作卡牌砸向 TLOU 盾牌；伤害够就「$9 WIN」，砸错流派盾反弹失败，适合对比向假玩法。"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "1",
+      "name": "到手劫匪（Take-Home Cut）",
+      "reason": "「Steam 50 万到手 7 万」帖近 1.2 万赞、196 万曝光，数字落差本身就是钩子；拖拽躲斧头/抽成的假玩法一天可出，独立开发者与买量受众重合高。"
+    },
+    {
+      "id": "2",
+      "name": "加载撞破（Data Load Bash）",
+      "reason": "Steam「Loading User Data」故障帖 83 万曝光，文案统一、截图即素材；把假加载条做成点击撞破，失败/成功反馈清晰，HTML5 成本极低。"
+    },
+    {
+      "id": "3",
+      "name": "安静夺冠（Quietly Win）",
+      "reason": "金球「quietly win」模板跨圈传播，造势条 vs 暗进度是天然对抗 UI；非游戏梗也能直接借流量测素材 CTR。"
+    }
+  ],
+  "hotTopics": [
+    {
+      "title": "独立开发者晒 Steam「50 万营收到手约 7 万」",
+      "description": "aeejazkhan 发「Brutal reality of making 500K on Steam」分账图，展示平台分成与税费后的到手金额；近 196 万曝光下独立圈热议抽成与「更好平台」提议。",
+      "links": [
+        {
+          "label": "原帖",
+          "url": "https://x.com/aeejazkhan/status/2114678076458291511",
+          "stats": "1.22 万赞 / 255 转 / 782 回复 / 196 万曝光"
+        },
+        {
+          "label": "作者跟帖",
+          "url": "https://x.com/aeejazkhan/status/2114728600683602222",
+          "stats": "134 赞 / 111 回复 / 15.1 万曝光"
+        }
+      ]
+    },
+    {
+      "title": "Steam 大面积卡在「Loading User Data」",
+      "description": "10/26 多地玩家客户端卡死在 Loading User Data，进不了游戏库；商店页尚可访问，Valve 未立即说明原因，Pirat_Nation 等情报号与玩家求助帖同步刷屏。",
+      "links": [
+        {
+          "label": "故障通报",
+          "url": "https://x.com/Pirat_Nation/status/2114708743275372555",
+          "stats": "6,366 赞 / 475 转 / 83.6 万曝光"
+        },
+        {
+          "label": "玩家吐槽",
+          "url": "https://x.com/Bigfootpool/status/2114704271266705785",
+          "stats": "53 赞 / 3 回复 / 3,623 曝光"
+        }
+      ]
+    },
+    {
+      "title": "《银河护卫队》五周年，Switch 2 版倒计时 10 天",
+      "description": "官方纪念发售五周年，并预告约 10 天后登陆 Nintendo Switch 2；粉丝向感谢帖近 5 千赞，老玩家与新主机观众同时被点名。",
+      "links": [
+        {
+          "label": "官方周年帖",
+          "url": "https://x.com/GOTGTheGame/status/2114828372123721757",
+          "stats": "4,947 赞 / 579 转 / 132 回复 / 6.7 万曝光"
+        }
+      ]
+    },
+    {
+      "title": "《Sonic Dream Team》安卓非官方移植流出",
+      "description": "Mobile Games Network 报道玩家社区把 Apple Arcade 独占的 Sonic Dream Team 非官方移植到 Android；「等官方不如自己动手」讨论升温。",
+      "links": [
+        {
+          "label": "报道原帖",
+          "url": "https://x.com/MobileGamesNET/status/2114761661378941063",
+          "stats": "2,333 赞 / 247 转 / 130 引用 / 14.7 万曝光"
+        }
+      ]
+    },
+    {
+      "title": "Golden Joystick 2026「年度终极游戏」12 提名公布",
+      "description": "公开投票开启，名单含 Resident Evil Requiem、Phantom Blade Zero、007 First Light、Pokémon Pokopia、Forza Horizon 6 等；投票约至 10/30，11/11 伦敦揭晓。",
+      "links": [
+        {
+          "label": "提名列表帖",
+          "url": "https://x.com/Genki_JPN/status/2114746642503205152",
+          "stats": "390 赞 / 41 转 / 64 回复 / 5.1 万曝光"
+        },
+        {
+          "label": "生化提名庆祝",
+          "url": "https://x.com/kathyanhy/status/2114726759757189479",
+          "stats": "223 赞 / 45 转 / 2,818 曝光"
+        }
+      ]
+    },
+    {
+      "title": "恐怖新作《Giggleland》Steam 发售",
+      "description": "约 6 小时、8 章的第一人称心理恐怖（废弃游乐园找父亲）正式上线，约 $17.99；恐怖情报号与配音演员同日推送，Vtuber 素材联动上线。",
+      "links": [
+        {
+          "label": "发售通报",
+          "url": "https://x.com/Fantime_Horror/status/2114825749006029237",
+          "stats": "348 赞 / 56 转 / 6,084 曝光"
+        },
+        {
+          "label": "另一条发售帖",
+          "url": "https://x.com/mascotmassacre/status/2114830470651543849",
+          "stats": "214 赞 / 30 转 / 5,528 曝光"
+        }
+      ]
+    },
+    {
+      "title": "《FINAL FANTASY Type-0》15 周年官方贺图",
+      "description": "Square Enix 官方账号用 Rem & Machina 插画庆祝 Type-0 发售 15 年，并征集 Class Zero 最爱队员与名场面。",
+      "links": [
+        {
+          "label": "官方贺图",
+          "url": "https://x.com/FinalFantasy/status/2114735502335295666",
+          "stats": "2,413 赞 / 489 转 / 4.7 万曝光"
+        }
+      ]
+    },
+    {
+      "title": "《Loftia》Next Fest 收官，EA 约一周后上线",
+      "description": "开发组感谢 Steam Next Fest 试玩反馈，宣布 Early Access 约一周后（11/3）正式开放，并放出 EA 内容概览页。",
+      "links": [
+        {
+          "label": "官方收官帖",
+          "url": "https://x.com/loftiadev/status/2114775089799663915",
+          "stats": "574 赞 / 89 转 / 23 引用 / 8,810 曝光"
+        },
+        {
+          "label": "EA 内容概览跟帖",
+          "url": "https://x.com/loftiadev/status/2114775965461307586",
+          "stats": "28 赞 / 2 转 / 1,176 曝光"
+        }
+      ]
+    }
+  ],
+  "ideas": [
+    {
+      "id": "1",
+      "name": "到手劫匪（Take-Home Cut）",
+      "inspiration": {
+        "text": "独立开发者「Steam 50 万营收到手约 7 万」分账图",
+        "url": "https://x.com/aeejazkhan/status/2114678076458291511"
+      },
+      "coreGameplay": "营收金币往上飞，玩家左右拖「到手袋」躲开税/分成/发行费斧头；接到袋里才算分。",
+      "adHook": "前 3 秒：大字 $560,000 闪金，下一刀砍成 $73,000，字幕 Brutal reality。",
+      "failSuccessPoint": "失败：斧头砍空袋子只剩两位数；爽点：完美躲开三刀，袋口金光「DEV KEEP」。",
+      "difficulty": "低",
+      "whyFitUA": "数字落差即钩子，左右躲避成熟；独立开发者话题与买量受众重合，CTR 测素材成本低。"
+    },
+    {
+      "id": "2",
+      "name": "加载撞破（Data Load Bash）",
+      "inspiration": {
+        "text": "Steam「Loading User Data」大面积卡死",
+        "url": "https://x.com/Pirat_Nation/status/2114708743275372555"
+      },
+      "coreGameplay": "假加载条卡在 99%，狂点/滑动撞击才能把条撞碎进库；连点过慢会超时。",
+      "adHook": "前 3 秒：熟悉的 Steam 蓝窗 + Loading User Data… 永远转圈。",
+      "failSuccessPoint": "失败：超时弹 Valve hasn't said；爽点：条碎瞬间库列表弹开，游戏图标飞入。",
+      "difficulty": "低",
+      "whyFitUA": "故障截图即素材，单点操作零学习成本，适合假玩法广告前 3 秒。"
+    },
+    {
+      "id": "3",
+      "name": "安静夺冠（Quietly Win）",
+      "inspiration": {
+        "text": "金球「campaigned all month / quietly win」模板",
+        "url": "https://x.com/ChetuniHQ/status/2114853885550506317"
+      },
+      "coreGameplay": "两侧吵闹造势条会吸走点击；玩家要点中间暗色「安静输出」槽悄悄超车。",
+      "adHook": "前 3 秒：两边喇叭狂响，中间一条灰条无声涨到 100%，字幕 quietly win。",
+      "failSuccessPoint": "失败：被造势声浪盖过进度清零；爽点：暗条率先满格，礼炮却只给中间人。",
+      "difficulty": "低",
+      "whyFitUA": "跨圈梗流量大，对抗 UI 一眼能懂，适合非游戏向买量测试。"
+    },
+    {
+      "id": "4",
+      "name": "语法识破（Am Coming）",
+      "inspiration": {
+        "text": "尼日利亚「I'm coming / Am coming · FBI nice try」梗",
+        "url": "https://x.com/tomzy207/status/2114817482259362038"
+      },
+      "coreGameplay": "聊天气泡二选一：点本地写法过关，点「太标准」英文触发卧底警报。",
+      "adHook": "前 3 秒：对话框弹出 I'm coming，大红印 FBI NICE TRY。",
+      "failSuccessPoint": "失败：选错三轮被铐走；爽点：连破卧底解锁「Street Grammar」徽章。",
+      "difficulty": "低",
+      "whyFitUA": "二选一极短、文案自带笑点，适合信息流前 3 秒钩子。"
+    },
+    {
+      "id": "5",
+      "name": "银河五周（Guard Shift）",
+      "inspiration": {
+        "text": "《银河护卫队》五周年 + Switch 2 倒计时",
+        "url": "https://x.com/GOTGTheGame/status/2114828372123721757"
+      },
+      "coreGameplay": "把五名守护者拖进「新主机舱」站位；倒计时 10 秒内摆对齐才起飞。",
+      "adHook": "前 3 秒：五周年彩带落下，字幕 10 DAYS TO SWITCH 2。",
+      "failSuccessPoint": "失败：有人掉出舱门；爽点：全员就位舰船跃迁金光。",
+      "difficulty": "中",
+      "whyFitUA": "IP 辨识度高，拖放站位适合竖屏试玩广告。"
+    },
+    {
+      "id": "6",
+      "name": "强制移植（Force Port）",
+      "inspiration": {
+        "text": "Sonic Dream Team 安卓非官方移植",
+        "url": "https://x.com/MobileGamesNET/status/2114761661378941063"
+      },
+      "coreGameplay": "把「iOS 独占锁」零件敲碎，把 Sonic 图标拖进 Android 机壳；官方邮差会来抢回。",
+      "adHook": "前 3 秒：大锁 Apple Arcade，锤子一砸锁碎，字幕 UNOFFICIAL PORT。",
+      "failSuccessPoint": "失败：被官方邮差收走；爽点：机壳亮起 Android 绿，音速小子冲出。",
+      "difficulty": "中",
+      "whyFitUA": "「等不及官方」情绪强，敲锁+拖放视觉冲击适合挑战向素材。"
+    },
+    {
+      "id": "7",
+      "name": "摇杆投票（Joystick Vote）",
+      "inspiration": {
+        "text": "Golden Joystick 年度终极游戏 12 提名",
+        "url": "https://x.com/Genki_JPN/status/2114746642503205152"
+      },
+      "coreGameplay": "摇杆指向 12 提名卡之一快速投票；指向摇摆不定会「弃权失败」。",
+      "adHook": "前 3 秒：金色摇杆特写，提名卡飞入，字幕 UGotY？",
+      "failSuccessPoint": "失败：超时弃权；爽点：选定卡牌砸中奖杯火花。",
+      "difficulty": "低",
+      "whyFitUA": "投票手势即玩法，名单本身是热点，易做成 UGC 二创。"
+    },
+    {
+      "id": "8",
+      "name": "乐园寻声（Giggle Hunt）",
+      "inspiration": {
+        "text": "《Giggleland》废弃游乐园心理恐怖发售",
+        "url": "https://x.com/Fantime_Horror/status/2114825749006029237"
+      },
+      "coreGameplay": "在黑暗园区跟随声音光点滑动前进；走错摊位触发 jumpscare。",
+      "adHook": "前 3 秒：旋转木马吱呀作响，字幕 Well, howdy there！",
+      "failSuccessPoint": "失败：被吉祥物扑脸；爽点：找到信息亭亮灯解锁下一章。",
+      "difficulty": "中",
+      "whyFitUA": "恐怖钩子 CTR 高，单指跟随路径易做 HTML5 假玩法。"
+    },
+    {
+      "id": "9",
+      "name": "人设三件套（Profile Trio）",
+      "inspiration": {
+        "text": "Profile / Lock screen / Last song 链式自曝",
+        "url": "https://x.com/schizothotep/status/2114779312301748419"
+      },
+      "coreGameplay": "把头像、锁屏、歌单三张卡拖进同一人设框；风格冲突就碎裂。",
+      "adHook": "前 3 秒：三栏空白闪「Profile · Lock · Song」，错误搭配当场崩人设。",
+      "failSuccessPoint": "失败：连续崩三次「网友逃走」；爽点：全对解锁「真实玩家」贴纸。",
+      "difficulty": "低",
+      "whyFitUA": "社交梗可视化强，拖放适合信息流试玩前 3 秒。"
+    }
+  ],
+  "notes": [
+    "互动数据来自帖子 public_metrics 快照（约 2026-10-27 09:00 北京时间查询），会随时间变化。",
+    "已避开 10/24–10/26 推过的选题名（如砖堆磁吸、阀门来电、通关原声、一键长大、窗外一眼等）与高度重复梗（Deadlock、Winston、雪豹伸爪、谐音路牌等）。",
+    "全球趋势当日以金球奖/体育为主，游戏热点主要来自 search_news 与高互动原帖，而非全球趋势榜。",
+    "《Village in the Shade》今日发售，但 10/24 已做过评测向热点，本期仅作背景、不单列重复选题。",
+    "「I'm coming」原帖高赞源在窗口内难精确锁定，条目以链式复读帖+变体为准，未虚构数据。"
+  ]
+}
