@@ -1,0 +1,401 @@
+{
+  "date": "2026-10-28",
+  "dataWindow": "北京时间 2026-10-27 09:00 至 2026-10-28 09:00（约最近 24 小时；个别仍在发酵的帖可略早于窗口）",
+  "source": "Grok Bot 内置公共 X 只读：search_news、search_posts_all、get_trends_by_woeid、get_posts_by_ids",
+  "memes": [
+    {
+      "title": "「双手插兜盯金球」Lewis-Skelly 凝视",
+      "description": "阿森纳青训 Myles Lewis-Skelly 在金球活动上双手插兜、睁大眼盯着 Ballon d’Or 奖杯的短视频爆火，被做成「练习 I'm just happy to be here 表情」「量一下能不能塞进头顶行李架」等复读模板。",
+      "links": [
+        {
+          "label": "原视频（gazerjadon）",
+          "url": "https://x.com/gazerjadon/status/2114873525270151216",
+          "stats": "4783 赞 / 252 转 / 84 回复 / 100.6 万曝光"
+        },
+        {
+          "label": "跟发：hands in pockets",
+          "url": "https://x.com/scrollrepp/status/2115131677424894031",
+          "stats": "引用跟发"
+        }
+      ],
+      "playableAngle": "奖杯在眼前晃，双手必须插兜；嘴角上扬超过阈值就失败——前 3 秒「别笑崩」钩子极强。"
+    },
+    {
+      "title": "「Kiss Marry Kill」披萨薯条汉堡",
+      "description": "三选一食物局：披萨 / 薯条 / 汉堡（常配 In-N-Out 托盘图），大家认真争论 marry 薯条、kill 汉堡还是反过来；衍生出「美国人不会玩 kiss marry kill」吐槽和「离婚因为老公要杀汉堡」角色扮演。",
+      "links": [
+        {
+          "label": "美国人版吐槽",
+          "url": "https://x.com/Galagas1997/status/2114802827201761765",
+          "stats": "27 赞 / 1 转 / 410 曝光"
+        },
+        {
+          "label": "新闻聚合页",
+          "url": "https://x.com/i/trending/2114523708958052847",
+          "stats": "X News 梗专题"
+        }
+      ],
+      "playableAngle": "把三份快餐拖进 Kiss / Marry / Kill 三槽；拖错组合立刻「人设崩了」抖动，适合假玩法挑战广告。"
+    },
+    {
+      "title": "#ASongOrMovieForConfusion 片名改糊",
+      "description": "把经典歌名/电影名改成「困惑」谐音：Blazing Addles、Daze Of Thunder、Me myself and illusion、Stuck In The Muddle With You……标签挑战当天刷屏，拼的是一秒听懂的谐音笑点。",
+      "links": [
+        {
+          "label": "Blazing Addles",
+          "url": "https://x.com/fionajroberts1/status/2115006071659962494",
+          "stats": "10 赞 / 1 转 / 363 曝光"
+        },
+        {
+          "label": "Daze Of Thunder",
+          "url": "https://x.com/Noundela1/status/2115007859234636026",
+          "stats": "6 赞 / 1 转 / 312 曝光"
+        }
+      ],
+      "playableAngle": "字母块滑动改一个字母/音节，让片名变成「confused」版本；计时 3 秒出题，适合连关 playable。"
+    },
+    {
+      "title": "#DrenchGang 浸湿防线",
+      "description": "印第安纳大学防守球员把「everything drenched」喊成覆盖式防守黑话，球迷用紫色 #DrenchGang 刷屏，啤酒厂甚至预告紫色 Lager；Orlovsky 一脸问号反应也成了表情包素材。",
+      "links": [
+        {
+          "label": "新闻聚合页",
+          "url": "https://x.com/i/trending/2115153129058754729",
+          "stats": "X News 梗专题"
+        },
+        {
+          "label": "现场跟发示例",
+          "url": "https://x.com/3totheDome00/status/2115247404169810213",
+          "stats": "链式 #drenchgang 复读"
+        }
+      ],
+      "playableAngle": "手指滑动把半场「泼紫」盖住对手；漏一个人就失败——覆盖爽感与失败红闪都很适合买量前 3 秒。"
+    },
+    {
+      "title": "「AI 只会抄」Sakurai 金句复读",
+      "description": "Smash 制作人樱井政博称 AI 游戏大多只是复制已有系统与点子、难有真正 originality；Dexerto 转发后近 2.4 万赞，评论区拆成「工具 vs 作者」「战场吃鸡也是抄」对立复读。",
+      "links": [
+        {
+          "label": "Dexerto 高赞转发",
+          "url": "https://x.com/Dexerto/status/2115126363740889318",
+          "stats": "2.44 万赞 / 2923 转 / 426 回复 / 38 万曝光"
+        }
+      ],
+      "playableAngle": "把「复制层」贴纸一层层撕掉，露出唯一发光的「人类火花」；撕错成空白模板就失败。"
+    },
+    {
+      "title": "「离线单机该回归」热 take",
+      "description": "一句 Hot take：Offline, single player games need to make a comeback。破万赞，评论两极——有人狂推经典单机，有人回「它们从来没离开过」；成了反 live-service 情绪的当日口头禅。",
+      "links": [
+        {
+          "label": "原帖",
+          "url": "https://x.com/beautyskillz/status/2114965350630715462",
+          "stats": "1.06 万赞 / 816 转 / 369 回复 / 22.4 万曝光"
+        }
+      ],
+      "playableAngle": "切断一根根网线/关掉 Always Online 开关，角色才能走动；插着网就卡「Connecting…」。"
+    },
+    {
+      "title": "「Steam 全人类 vs Epic 全 AI」98.4% 一边倒",
+      "description": "NitroRad 设问：Steam 全人类作品 vs Epic 全 AI，只能选一个店？投票约 13.9 万、Steam 拿下约 98.4%，和 Tim Sweeney 骂 Steam AI 披露政策形成对照，持续被当梗图复读。",
+      "links": [
+        {
+          "label": "原投票帖",
+          "url": "https://x.com/NitroRad/status/2114475878981984381",
+          "stats": "6757 赞 / 656 转 / 404 回复 / 94.5 万曝光"
+        },
+        {
+          "label": "新闻聚合页",
+          "url": "https://x.com/i/trending/2114912575578366022",
+          "stats": "X News 游戏专题"
+        }
+      ],
+      "playableAngle": "传送带上游戏盒飞来，拖进「Human」架就得分、丢进「AI」架触发警报；前 3 秒分类钩子清晰。"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "3",
+      "name": "人类货架（Human Shelf）",
+      "reason": "98.4% 一边倒投票自带对抗情绪，拖拽分类 3 秒能看懂，假玩法挑战素材好做，和买量「选边站」文案天然契合。"
+    },
+    {
+      "id": "4",
+      "name": "钥匙卡锁死（Key Card Lock）",
+      "reason": "玩家情绪强（买了物理卡却永远要下载），单一操作「想翻成完整卡带却翻不过去」失败反馈直观，低成本 HTML5。"
+    },
+    {
+      "id": "7",
+      "name": "金球凝视（Trophy Stare）",
+      "reason": "视频梗画面极强：插兜、别笑、盯奖杯；规则一句话，适合竖屏前 3 秒钩子和「能撑几秒」挑战关。"
+    }
+  ],
+  "hotTopics": [
+    {
+      "title": "任天堂宣布 10/28 Indie World Showcase（约 15 分钟）",
+      "description": "Nintendo of America 官宣：北京时间今晚对应的 10/28 7am PT 播出新一期 Indie World，覆盖 Switch 2 与 Switch 独立游戏更新；粉丝讨论 Silksong DLC / Witchbrook 等是否会出现。",
+      "links": [
+        {
+          "label": "NintendoAmerica 官宣",
+          "url": "https://x.com/NintendoAmerica/status/2115081085373550827",
+          "stats": "1.35 万赞 / 1772 转 / 1070 引用 / 94.9 万曝光"
+        },
+        {
+          "label": "新闻聚合页",
+          "url": "https://x.com/i/trending/2115083127790129360",
+          "stats": "X News 游戏专题"
+        }
+      ]
+    },
+    {
+      "title": "《Phantom Blade Zero》登顶 Steam 畅销并报约 85 万预售",
+      "description": "发售前已压过 COD 等登顶 Steam 全球畅销；分析帖称预售约 85 万份（约 73.8% Steam / 26.2% PS5），大中华区占比高，10/29 全球上线、美区可更早开玩。",
+      "links": [
+        {
+          "label": "登顶 Steam 截图帖",
+          "url": "https://x.com/GermanStrands/status/2115039440959631830",
+          "stats": "2872 赞 / 192 转 / 6.7 万曝光"
+        },
+        {
+          "label": "85 万预售拆分",
+          "url": "https://x.com/superhys/status/2115137358840357324",
+          "stats": "556 赞 / 54 转 / 4.8 万曝光"
+        }
+      ]
+    },
+    {
+      "title": "樱井政博：AI 游戏难有真正 originality",
+      "description": "Smash 制作人表示 AI 生成作多为复用已有系统与点子，难企及人类作者的原创火花；Dexerto 转发近 2.4 万赞，和「Steam 人类 vs Epic AI」投票同温层发酵。",
+      "links": [
+        {
+          "label": "Dexerto",
+          "url": "https://x.com/Dexerto/status/2115126363740889318",
+          "stats": "2.44 万赞 / 2923 转 / 38 万曝光"
+        },
+        {
+          "label": "新闻聚合页",
+          "url": "https://x.com/i/trending/2115153133123100980",
+          "stats": "X News 游戏专题"
+        }
+      ]
+    },
+    {
+      "title": "「离线单机该回归」热 take 破万赞",
+      "description": "玩家喊话厌倦 always-online / live-service，呼吁离线单机回归；评论区一边共鸣一边反驳「单机从没消失」，话题登上游戏新闻摘要。",
+      "links": [
+        {
+          "label": "原帖",
+          "url": "https://x.com/beautyskillz/status/2114965350630715462",
+          "stats": "1.06 万赞 / 816 转 / 22.4 万曝光"
+        },
+        {
+          "label": "新闻聚合页",
+          "url": "https://x.com/i/trending/2115102771833688250",
+          "stats": "X News 游戏专题"
+        }
+      ]
+    },
+    {
+      "title": "Switch 2 Game-Key Card 据称无法再印完整卡带",
+      "description": "零售商称任天堂政策不让发行商把已发售的 Game-Key Card 再印成完整数据卡带；收藏党反弹，强调买前看清格式。",
+      "links": [
+        {
+          "label": "Nintendo Everything",
+          "url": "https://x.com/NinEverything/status/2115084861275033766",
+          "stats": "392 赞 / 43 转 / 47 引用 / 7.1 万曝光"
+        },
+        {
+          "label": "新闻聚合页",
+          "url": "https://x.com/i/trending/2114852213226930596",
+          "stats": "X News 游戏专题"
+        }
+      ]
+    },
+    {
+      "title": "人类 Steam vs AI Epic 投票续热（约 98.4%）",
+      "description": "NitroRad 投票仍被新闻与二创引用：Steam 全人类作品碾压 Epic 全 AI 假设店；叠 Tim Sweeney 批 Steam AI 披露政策，成「成分表」辩论符号。",
+      "links": [
+        {
+          "label": "原投票",
+          "url": "https://x.com/NitroRad/status/2114475878981984381",
+          "stats": "6757 赞 / 656 转 / 94.5 万曝光"
+        },
+        {
+          "label": "新闻聚合页",
+          "url": "https://x.com/i/trending/2114912575578366022",
+          "stats": "X News 游戏专题"
+        }
+      ]
+    },
+    {
+      "title": "Deadlock：City Never Sleeps 后社区仍「病态沉迷」",
+      "description": "Valve 邀请制英雄射击持续高并发讨论，新图/新英雄 Violet 与 UI mod、角色二创刷屏；新闻摘要捕捉「想一天 9 小时却只打得上 1 小时」的执迷感。",
+      "links": [
+        {
+          "label": "新闻聚合页",
+          "url": "https://x.com/i/trending/2115246079390498859",
+          "stats": "X News 游戏专题"
+        },
+        {
+          "label": "City Never Sleeps UI mod",
+          "url": "https://x.com/djs999/status/2114945963009716266",
+          "stats": "427 赞 / 72 转 / 4946 曝光"
+        }
+      ]
+    },
+    {
+      "title": "#TrailerTuesday：独立开发者互推预告片",
+      "description": "周二固定互推日，开发者在评论区丢预告/试玩链接换曝光与愿望单；新闻摘要称其延续 Reddit 传统、强化小团队直连玩家。",
+      "links": [
+        {
+          "label": "征集帖示例",
+          "url": "https://x.com/novabrand/status/2115005957713563743",
+          "stats": "27 赞 / 6 转 / 38 回复 / 867 曝光"
+        },
+        {
+          "label": "新闻聚合页",
+          "url": "https://x.com/i/trending/2115008875996828023",
+          "stats": "X News 游戏专题"
+        }
+      ]
+    }
+  ],
+  "ideas": [
+    {
+      "id": "1",
+      "name": "十五秒开箱（Indie Flash）",
+      "inspiration": {
+        "text": "任天堂 Indie World 约 15 分钟快闪发布会预热",
+        "url": "https://x.com/NintendoAmerica/status/2115081085373550827"
+      },
+      "coreGameplay": "竖屏传送带上快速划过独立游戏盒子，在倒计时内点「想要的」加入愿望单槽。",
+      "adHook": "前 3 秒大字「只有 15 秒！」+ 盒子飞过，手指必须狂划。",
+      "failSuccessPoint": "漏点神作=后悔红闪；连中隐藏款=烟花愿望单涨满。",
+      "difficulty": "低",
+      "whyFitUA": "发布会节奏本身就是短平快钩子，操作单一、易做假玩法挑战。"
+    },
+    {
+      "id": "2",
+      "name": "压过 COD（Chart Climb）",
+      "inspiration": {
+        "text": "Phantom Blade Zero 发售前登顶 Steam 畅销、压过 COD",
+        "url": "https://x.com/GermanStrands/status/2115039440959631830"
+      },
+      "coreGameplay": "连点「预购能量」把自家武侠刀尖往上顶，把 COD 图标顶出榜首。",
+      "adHook": "开场 Steam 榜 COD 第一，刀光一闪标题变成你的游戏冲顶。",
+      "failSuccessPoint": "松手就掉名次；稳住榜一 3 秒通关，掉下去播放「Almost…」。",
+      "difficulty": "低",
+      "whyFitUA": "对抗大作的爽点清晰，数字上涨反馈适合买量素材循环。"
+    },
+    {
+      "id": "3",
+      "name": "人类货架（Human Shelf）",
+      "inspiration": {
+        "text": "Steam 全人类 vs Epic 全 AI 一边倒投票",
+        "url": "https://x.com/NitroRad/status/2114475878981984381"
+      },
+      "coreGameplay": "传送带游戏盒拖进 Human / AI 货架；AI 盒要打标签才能上架。",
+      "adHook": "大字「98.4% 选这边」+ 左右货架对撞。",
+      "failSuccessPoint": "AI 盒混进 Human 架触发警报；连续正确分类解锁「成分表」勋章。",
+      "difficulty": "低",
+      "whyFitUA": "选边站情绪强，拖拽规则 1 秒懂，适合挑战关与对比文案。"
+    },
+    {
+      "id": "4",
+      "name": "钥匙卡锁死（Key Card Lock）",
+      "inspiration": {
+        "text": "Switch 2 Game-Key Card 据称无法再印完整卡带",
+        "url": "https://x.com/NinEverything/status/2115084861275033766"
+      },
+      "coreGameplay": "把薄「钥匙卡」翻面/塞进卡槽，试图变成完整卡带，但进度条永远卡在 Download。",
+      "adHook": "前 3 秒：实体卡插入→立刻弹「仍需下载 40GB」。",
+      "failSuccessPoint": "怎么翻都变不成完整卡=失败梗；偶然「破解翻面」成功则短暂通关再被政策拍回。",
+      "difficulty": "低",
+      "whyFitUA": "玩家痛点明确，失败即笑点，竖屏演示成本极低。"
+    },
+    {
+      "id": "5",
+      "name": "拔线开玩（Unplug Play）",
+      "inspiration": {
+        "text": "离线单机该回归热 take",
+        "url": "https://x.com/beautyskillz/status/2114965350630715462"
+      },
+      "coreGameplay": "滑动切断网线/关掉 Always Online 开关，角色才能前进；插着网就转圈 Connecting。",
+      "adHook": "角色卡在「Checking license…」，手指一拔线立刻开跑。",
+      "failSuccessPoint": "漏拔一根线=进度回滚；全拔通关进入安静单机夜景。",
+      "difficulty": "低",
+      "whyFitUA": "反 live-service 情绪可转化成清晰操作隐喻，钩子强。"
+    },
+    {
+      "id": "6",
+      "name": "撕掉复制层（Peel Copy）",
+      "inspiration": {
+        "text": "樱井：AI 游戏多为复制已有系统",
+        "url": "https://x.com/Dexerto/status/2115126363740889318"
+      },
+      "coreGameplay": "快速滑动撕掉一层层「Copy of Copy」贴纸，露出中间发光的 Original Spark。",
+      "adHook": "堆成山的同质化封面，手指一撕露出唯一不同的剪影。",
+      "failSuccessPoint": "撕到空白模板=「食えない」失败；留下火花=通关。",
+      "difficulty": "中",
+      "whyFitUA": "视觉对比强，和「人类原创」叙事贴合，适合品牌向试玩。"
+    },
+    {
+      "id": "7",
+      "name": "金球凝视（Trophy Stare）",
+      "inspiration": {
+        "text": "Lewis-Skelly 双手插兜盯金球视频梗",
+        "url": "https://x.com/gazerjadon/status/2114873525270151216"
+      },
+      "coreGameplay": "按住「插兜」键盯着奖杯，微笑条不能爆表；周围起哄越高越难忍。",
+      "adHook": "特写奖杯+双手口袋，字幕「别笑」。",
+      "failSuccessPoint": "笑崩/手离开口袋=失败重拍；撑到摄影师离开=通关。",
+      "difficulty": "低",
+      "whyFitUA": "表情控制类假玩法在短视频广告里转化稳定，规则一句话。"
+    },
+    {
+      "id": "8",
+      "name": "吻婚杀快餐（Food KMK）",
+      "inspiration": {
+        "text": "Kiss Marry Kill：披萨/薯条/汉堡三选一",
+        "url": "https://x.com/Galagas1997/status/2114802827201761765"
+      },
+      "coreGameplay": "把三份食物拖进 Kiss / Marry / Kill；每关换组合，限时投票。",
+      "adHook": "巨大托盘砸下，三个槽位发光等你拖。",
+      "failSuccessPoint": "和「大众民意」差太远出搞笑审判；全中解锁隐藏第四食物。",
+      "difficulty": "低",
+      "whyFitUA": "非游戏梗也能做玩法，话题日常、传播门槛低。"
+    },
+    {
+      "id": "9",
+      "name": "片名改糊（Title Muddle）",
+      "inspiration": {
+        "text": "#ASongOrMovieForConfusion 谐音改名挑战",
+        "url": "https://x.com/fionajroberts1/status/2115006071659962494"
+      },
+      "coreGameplay": "滑动替换一个音节，把片名改成「困惑」版本并在 3 秒内提交。",
+      "adHook": "Blazing Saddles → 空格闪烁等你改成 Addles。",
+      "failSuccessPoint": "改得不像=裁判摇头；神改获得观众笑声条。",
+      "difficulty": "中",
+      "whyFitUA": "文字谜题适合轻量 HTML5，关卡可量产。"
+    },
+    {
+      "id": "10",
+      "name": "浸湿覆盖（Drench Cover）",
+      "inspiration": {
+        "text": "印第安纳 #DrenchGang「everything drenched」防守黑话",
+        "url": "https://x.com/i/trending/2115153129058754729"
+      },
+      "coreGameplay": "手指滑动泼出紫色覆盖层，在倒计时内盖住所有进攻箭头。",
+      "adHook": "半场开洞漏人，紫色浪潮一刷全灭。",
+      "failSuccessPoint": "漏一人被达阵；全覆盖触发 DrenchGang 庆祝。",
+      "difficulty": "低",
+      "whyFitUA": "覆盖/涂抹操作是超休闲经典，颜色对比强、失败瞬间明显。"
+    }
+  ],
+  "notes": [
+    "避开 10/24–10/27 已推选题/梗：到手劫匪、Loading User Data、安静夺冠、Profile 三件套、阀门来电、通关原声等。",
+    "NitroRad 原投票发于 10/25，但 10/27–10/28 新闻与讨论仍在发酵，故收入本期热点与选题。",
+    "金球凝视原视频偏足球，按「今日热梗不限游戏」收录，并单独做成 playable 选题。",
+    "互动数据来自抓取时刻的 public_metrics，可能随后变化。"
+  ]
+}
