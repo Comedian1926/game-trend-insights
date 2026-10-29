@@ -1,0 +1,412 @@
+{
+  "date": "2026-10-29",
+  "dataWindow": "北京时间 2026-10-28 09:00 至 2026-10-29 09:00（约最近 24 小时；个别仍在发酵的帖可略早于窗口）",
+  "source": "Grok Bot 内置公共 X 只读：search_news、search_posts_all、get_trends_by_woeid",
+  "memes": [
+    {
+      "title": "「但你输给了 Talking Tom」Gacha 终极闭嘴句",
+      "description": "GamingonPhone Awards 2026 把「年度手游更新」颁给 Talking Tom Cat（打败原神 6.0、星铁、绝区零、鸣潮等），社区立刻发明万能结论文：所有 gacha 争论结尾必须加一句 but your game lost against Talking Tom Cat。",
+      "links": [
+        {
+          "label": "高赞金句帖（Notmdi）",
+          "url": "https://x.com/Notmdi/status/2115523451872063536",
+          "stats": "6759 赞 / 913 转 / 11 回复 / 5.17 万曝光"
+        },
+        {
+          "label": "颁奖梗图讨论（Scyrptor）",
+          "url": "https://x.com/Scyrptor/status/2115433801274773715",
+          "stats": "106 赞 / 6 转 / 19 回复 / 1.13 万曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2115476757495120219",
+          "stats": "Wuthering Waves 联动获奖 + Talking Tom 夺更新奖"
+        }
+      ],
+      "playableAngle": "玩家拖着华丽 gacha 角色冲向奖杯，一只复读猫突然从侧边截胡；前 3 秒「大作被汤姆教做人」反差钩子极强。"
+    },
+    {
+      "title": "*paws at you* can we doomscroll",
+      "description": "雪豹/猫爪伸出「*paws at you*」模板继续刷屏，今天和 doomscroll 绑在一起：一遍遍拍你问能不能一起刷手机到深夜，变成讨好式邀请复读。",
+      "links": [
+        {
+          "label": "doomscroll 复读帖",
+          "url": "https://x.com/dailygoldengun/status/2115391125062312376",
+          "stats": "932 赞 / 243 转 / 2 回复 / 4194 曝光"
+        },
+        {
+          "label": "X News：雪豹拍拍梗",
+          "url": "https://x.com/i/trending/2115005969017254259",
+          "stats": "雪豹抬爪 meme 专题"
+        }
+      ],
+      "playableAngle": "手指不断被软爪拍开，必须滑到指定 App 才能「答应一起刷」；拒太多次爪会委屈红闪，答应太快则陷入无限滚动失败。"
+    },
+    {
+      "title": "小猴躺床刷手机 Doomscroll",
+      "description": "一只小猴子瘫在白床单上双手握手机死盯屏幕的短视频爆火，14 小时破百万播放，大家狂打「下班后的我」「凌晨 2 点还在刷」字幕，绿幕版也被拿去二创。",
+      "links": [
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2115430446075121982",
+          "stats": "约 14 小时破百万播放（新闻汇总）"
+        }
+      ],
+      "playableAngle": "竖屏：手指想关手机，猴子爪死死按住刷新；成功关机算通关，刷过头就天亮失败——假玩法「戒手机挑战」很适合买量。"
+    },
+    {
+      "title": "Dumpster Gang「一定是男娘画的」",
+      "description": "任天堂 Indie World 放出浣熊帮派 Dumpster Gang 预告后，一条「这角色绝对是 men likers 设计的吧」配预告截图破两千赞，把垃圾场浣熊瞬间变成外貌讨论模因。",
+      "links": [
+        {
+          "label": "高赞吐槽帖",
+          "url": "https://x.com/MisterEagleman/status/2115452809277776241",
+          "stats": "2373 赞 / 100 转 / 31 回复 / 2.47 万曝光"
+        }
+      ],
+      "playableAngle": "拖角色去翻垃圾桶做任务，但路过镜子会触发「外貌鉴定」打断；鉴定失败就羞耻抖动，适合搞笑假挑战广告。"
+    },
+    {
+      "title": "狗狗唱中文 / AI 狗说唱",
+      "description": "柯基/宠物跟唱中文歌、以及 AI 给狗套上中文说唱《因果》的短视频在 X 上疯传，尼日利亚用户用皮钦英语配文「听英文受够了，改听中文」，公交车上笑出声的二创不断。",
+      "links": [
+        {
+          "label": "X News：狗狗中文二重唱",
+          "url": "https://x.com/i/trending/2115503718854488098",
+          "stats": "中国歌 + 狗叫同步梗"
+        },
+        {
+          "label": "X News：AI 狗说唱",
+          "url": "https://x.com/i/trending/2115558912967737468",
+          "stats": "《因果》AI 狗 rap 专题"
+        }
+      ],
+      "playableAngle": "点按让狗咬准节拍字，错拍字幕变「英文废了」；连对爆出中文金句，节奏游戏买量钩子清晰。"
+    },
+    {
+      "title": "亚马逊丢件变万圣套装",
+      "description": "把被偷的亚马逊订单截图发出来，祝「小偷万圣节穿成整套」：蜘蛛侠面具+背心、假发+妆、球星球衣等，包丢焦虑被改写成整活模板。",
+      "links": [
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2115546888048943135",
+          "stats": "丢件万圣节服装梗"
+        }
+      ],
+      "playableAngle": "把散落包裹拖进「小偷换装槽」拼出完整万圣造型；缺一件就失败——合成/排序玩法，节日素材友好。"
+    },
+    {
+      "title": "救狗还是救明星（救生艇二选一）",
+      "description": "暴风雨里 Taylor Swift、Drake 等名人伸手抓救生艇，旁边一只金毛淡定狗刨，配文 Who would you save？评论几乎一边倒「当然救狗」，变成宠物优先价值观模因。",
+      "links": [
+        {
+          "label": "带狗回应帖",
+          "url": "https://x.com/LFleezy23/status/2115271177518399666",
+          "stats": "42 赞 / 9 转 / 16 回复 / 929 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2115180996249477133",
+          "stats": "名人 vs 狗救生艇困境"
+        }
+      ],
+      "playableAngle": "3 秒内把绳子甩向狗；甩向明星立刻「道德审判」红闪失败——选择挑战式广告极易理解。"
+    },
+    {
+      "title": "Vince 表情三连配三部曲",
+      "description": "Vince McMahon 经典三格表情（平静→兴奋→震惊）被拿来匹配游戏三部曲：第二部最爽、第三部撕裂粉丝。质量效应等成高频答案，怀旧吵架持续。",
+      "links": [
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2115291385037492225",
+          "stats": "三部曲 vs Vince 表情辩论"
+        }
+      ],
+      "playableAngle": "把三张封面拖进平静/兴奋/震惊三格；拖错「粉圈爆炸」；排序+表情反馈很适合短 playable。"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "1",
+      "name": "垃圾桶突击（Dumpster Raid）",
+      "reason": "Indie World 刚出的浣熊合作沙盒视觉钩子极强，翻桶、躲灭鼠员、单一滑动/点击就能拍成假玩法广告；社区外貌梗还能当第二层笑点。"
+    },
+    {
+      "id": "2",
+      "name": "推币爆炸（Coin Blast）",
+      "reason": "Raccoin 把推币机和卡组爆裂结合，前 3 秒「塞币→连锁掉落→TNT」自带爽感；HTML5 易仿，失败时币全掉下的红闪很适合买量。"
+    },
+    {
+      "id": "3",
+      "name": "汤姆截胡课（Tom Hijack）",
+      "reason": "Talking Tom 夺更新奖是当天最上头的游戏梗，反差叙事（华丽大作被复读猫截胡）一眼能懂，拖拽/打断类操作极轻，适合快速出素材测 CTR。"
+    }
+  ],
+  "hotTopics": [
+    {
+      "title": "任天堂 Indie World：Dumpster Gang / Raccoin / Threads of Time 等约 23 款",
+      "description": "10/28 Indie World 约 15 分钟塞进二十多款独立作：浣熊合作 Dumpster Gang（Switch 2，2027.3）、推币卡组 Raccoin Chaos Max（11/10）、Chrono Trigger 味 JRPG Threads of Time（2027 夏）、Witchbrook 定档 2027.1.28 等，社区高光清单刷屏。",
+      "links": [
+        {
+          "label": "Dumpster Gang 高赞讨论",
+          "url": "https://x.com/MisterEagleman/status/2115452809277776241",
+          "stats": "2373 赞 / 100 转 / 31 回复 / 2.47 万曝光"
+        },
+        {
+          "label": "X News：浣熊与独立作合集",
+          "url": "https://x.com/i/trending/2115460763393388977",
+          "stats": "Indie World 浣熊乱斗专题"
+        },
+        {
+          "label": "X News：Witchbrook + Threads of Time",
+          "url": "https://x.com/i/trending/2115083127790129360",
+          "stats": "定档与时间 RPG 专题"
+        }
+      ]
+    },
+    {
+      "title": "Talking Tom 击败原神等获「年度手游更新」",
+      "description": "GamingonPhone Awards 2026 把 Mobile Game Update of the Year 颁给 Talking Tom Cat（2025.10 更新），力压原神 6.0、星铁、绝区零、鸣潮；同时鸣潮×电锯人联动拿下年度 IP 联动。嘲讽与「汤姆开课」meme 同步爆发。",
+      "links": [
+        {
+          "label": "万能结论文高赞帖",
+          "url": "https://x.com/Notmdi/status/2115523451872063536",
+          "stats": "6759 赞 / 913 转 / 5.17 万曝光"
+        },
+        {
+          "label": "X News 颁奖专题",
+          "url": "https://x.com/i/trending/2115476757495120219",
+          "stats": "IP 联动奖 + 更新奖"
+        }
+      ]
+    },
+    {
+      "title": "Tim Sweeney 再批 Steam「社交围墙花园」",
+      "description": "Epic CEO 称 Valve 多年来用 Steamworks 把 PC 游戏锁进社交围墙，阻碍跨 iOS/安卓/主机/其他商店互通；对话围绕 30% 抽成与「一周 vibe code 出替代品」争论继续升温。",
+      "links": [
+        {
+          "label": "高互动转发摘要",
+          "url": "https://x.com/gabefollower/status/2115583327713296735",
+          "stats": "818 赞 / 17 转 / 70 回复 / 4.68 万曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2115488418859995350",
+          "stats": "Sweeney vs Steam 围墙"
+        }
+      ]
+    },
+    {
+      "title": "《Phantom Blade Zero》上线在即，预售破百万量级",
+      "description": "武侠动作新作今日（美西 10/29 19:00）登陆 PS5/PC；Game Informer 9.5、官方与社区晒终结技合集，预售/预购数据被传破百万档，发售日氛围拉满。",
+      "links": [
+        {
+          "label": "PlayStation UK 终结技合集",
+          "url": "https://x.com/PlayStationUK/status/2115443917298798988",
+          "stats": "201 赞 / 20 转 / 38 回复 / 2.06 万曝光"
+        },
+        {
+          "label": "Shuhei Yoshida 转发评测",
+          "url": "https://x.com/yosp/status/2115318376646230410",
+          "stats": "1242 赞 / 91 转 / 16 回复 / 3.22 万曝光"
+        },
+        {
+          "label": "X News 发售专题",
+          "url": "https://x.com/i/trending/2115074581882917348",
+          "stats": "全球发售与预售数据"
+        }
+      ]
+    },
+    {
+      "title": "Free Fire 印度版解禁回归应用商店",
+      "description": "Garena 推出印度独立包 Free Fire India（安卓/iOS），配套排灯节活动、本地服务器、未成年人时长与家长控制；与 BGMI 的「卡通 vs 写实」互怼梗同步出现。",
+      "links": [
+        {
+          "label": "回归说明帖",
+          "url": "https://x.com/FaizanRoyalTech/status/2115350996650238192",
+          "stats": "社区通报帖"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2115325414759649464",
+          "stats": "三年禁令后回归"
+        }
+      ]
+    },
+    {
+      "title": "Raccoin：推币机 × 卡组 Roguelike 登 Switch 2",
+      "description": "Doraccoon / Playstack 的 Raccoin: Chaos Max Edition 定档 11/10 登 Switch 2，Steam 已获 Very Positive；150 币种/道具、金钱树与 TNT 等夸张反馈，Indie World 后「最爱宣布」声不少。",
+      "links": [
+        {
+          "label": "X News：Chaos Max 专题",
+          "url": "https://x.com/i/trending/2115476758539501615",
+          "stats": "Switch 2 版与试玩"
+        },
+        {
+          "label": "「最爱宣布」反应",
+          "url": "https://x.com/ultronverse/status/2115449626866417675",
+          "stats": "推币机最爱宣布"
+        }
+      ]
+    },
+    {
+      "title": "Higgsfield Playable：提示词生成可玩广告/手游",
+      "description": "Higgsfield 上线 Playable：丢玩法视频/截图/提示即可生成浏览器可玩手游，Enterprise 可导出 AppLovin/Unity/Meta 等网络的 playable 广告文件；引发「假广告终于能一键成真」讨论。",
+      "links": [
+        {
+          "label": "官方发布帖",
+          "url": "https://x.com/higgsfield/status/2115528864340525176",
+          "stats": "283 赞 / 136 转 / 19 回复 / 2.80 万曝光"
+        }
+      ]
+    },
+    {
+      "title": "Roblox 测试已有游戏的浏览器直玩",
+      "description": "Roblox 开始测试对已拥有游戏通过 play.roblox.com 链接在浏览器加载完整客户端体验，创作者称像 Flash 时代；配合此前 RDC 提到的更易分享入口。",
+      "links": [
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2115277530219290922",
+          "stats": "浏览器游玩测试"
+        }
+      ]
+    }
+  ],
+  "ideas": [
+    {
+      "id": "1",
+      "name": "垃圾桶突击（Dumpster Raid）",
+      "inspiration": {
+        "text": "Indie World 浣熊合作沙盒 Dumpster Gang",
+        "url": "https://x.com/MisterEagleman/status/2115452809277776241"
+      },
+      "coreGameplay": "滑动让浣熊钻进垃圾桶搜刮，点按翻盖躲避灭鼠员探照灯。",
+      "adHook": "前 3 秒：一只超帅浣熊从垃圾袋弹出，字幕「任务：翻光整条街」。",
+      "failSuccessPoint": "被手电筒罩住立刻「抓走」红闪；连翻三个桶爆出金币雨。",
+      "difficulty": "低",
+      "whyFitUA": "单一滑动/点击、强角色钩子、失败抓捕反馈清晰，HTML5 易仿合作沙盒广告。"
+    },
+    {
+      "id": "2",
+      "name": "推币爆炸（Coin Blast）",
+      "inspiration": {
+        "text": "Raccoin 推币机 + 卡组 Roguelike",
+        "url": "https://x.com/i/trending/2115476758539501615"
+      },
+      "coreGameplay": "点按塞币，划出卡牌触发 TNT/金钱树等连锁，把平台边缘的币推下去计分。",
+      "adHook": "前 3 秒特写：一枚发光币落下，整排硬币多米诺坠入奖池。",
+      "failSuccessPoint": "推太猛自己的大奖币掉下失败；连锁爆炸清台则全屏金币。",
+      "difficulty": "中",
+      "whyFitUA": "街机即时爽感 + 轻卡组选择，视觉爆炸适合竖屏假玩法，制作量可控。"
+    },
+    {
+      "id": "3",
+      "name": "汤姆截胡课（Tom Hijack）",
+      "inspiration": {
+        "text": "Talking Tom 赢下年度手游更新、社区「输给汤姆」金句",
+        "url": "https://x.com/Notmdi/status/2115523451872063536"
+      },
+      "coreGameplay": "拖着华丽角色冲向奖杯，及时侧滑躲开复读猫的截胡爪；被拍中就变成汤姆声线。",
+      "adHook": "前 3 秒：史诗过场突然被汤姆探头「你说什么？」打断。",
+      "failSuccessPoint": "被截胡播放滑稽复读失败；连续三次躲开并夺杯则「大作毕业」。",
+      "difficulty": "低",
+      "whyFitUA": "梗本身带流量与反差笑点，操作只需躲/拖，非常适合挑战式买量素材。"
+    },
+    {
+      "id": "4",
+      "name": "围墙越狱（Garden Break）",
+      "inspiration": {
+        "text": "Sweeney 批 Steam 社交围墙花园",
+        "url": "https://x.com/gabefollower/status/2115583327713296735"
+      },
+      "coreGameplay": "在绿色「Steamworks 墙」里点按拆砖，把好友头像拖到墙外其它平台图标上。",
+      "adHook": "前 3 秒：好友气泡撞墙弹回，大字「跨平台？门都没有」。",
+      "failSuccessPoint": "拖错平台头像被墙吸回；拆出通道全员冲出撒花。",
+      "difficulty": "低",
+      "whyFitUA": "行业争论视觉化成推墙解谜，规则一眼懂，适合讽刺向假玩法。"
+    },
+    {
+      "id": "5",
+      "name": "链接即玩（Tap to Boot）",
+      "inspiration": {
+        "text": "Roblox 浏览器直玩测试",
+        "url": "https://x.com/i/trending/2115277530219290922"
+      },
+      "coreGameplay": "在聊天流里点蓝色链接，立刻进入迷你关；若点到假链接则跳广告地狱。",
+      "adHook": "前 3 秒：聊天里闪过「点我就玩」，无需下载条伪装进度。",
+      "failSuccessPoint": "点错进「请安装 2GB」失败页；点对 1 秒进关并通关短挑战。",
+      "difficulty": "低",
+      "whyFitUA": "元梗「免下载」本身就是买量卖点，点按即玩与 playable 形态同构。"
+    },
+    {
+      "id": "6",
+      "name": "假广告成真（Ad Becomes Game）",
+      "inspiration": {
+        "text": "Higgsfield Playable 一键生成可玩广告",
+        "url": "https://x.com/higgsfield/status/2115528864340525176"
+      },
+      "coreGameplay": "先玩夸张假广告关（画线救宠物等），通关后无缝揭示「这就是真游戏第一关」并继续同一操作。",
+      "adHook": "前 3 秒经典假玩法：画线挡刺，字幕「和商店页一点都不像」。",
+      "failSuccessPoint": "假关失败直接商店跳转恐吓；假关通关无缝衔成真关带来反转爽感。",
+      "difficulty": "中",
+      "whyFitUA": "直接玩梗「广告不像游戏」，玩家会为了看反转点下去，CTR 叙事完整。"
+    },
+    {
+      "id": "7",
+      "name": "爪巴刷屏（Paw Doom）",
+      "inspiration": {
+        "text": "*paws at you* can we doomscroll 复读",
+        "url": "https://x.com/dailygoldengun/status/2115391125062312376"
+      },
+      "coreGameplay": "软爪不断拍屏幕，玩家要在被拍歪前把手机滑向「睡觉」而不是「再刷一条」。",
+      "adHook": "前 3 秒：雪豹爪拍脸，字幕「再刷一条嘛」。",
+      "failSuccessPoint": "答应三次后天亮社死失败；坚决滑向闹钟则爪委屈缩回通关。",
+      "difficulty": "低",
+      "whyFitUA": "热梗动作单一、情感钩子强，竖屏滑动与短挑战完美匹配。"
+    },
+    {
+      "id": "8",
+      "name": "救狗绳（Dog Rope）",
+      "inspiration": {
+        "text": "救生艇：救狗还是救明星",
+        "url": "https://x.com/i/trending/2115180996249477133"
+      },
+      "coreGameplay": "甩绳救人：对准狗松开，对准名人则道德条暴跌。",
+      "adHook": "前 3 秒风暴海面，金毛淡定狗刨，名人伸手大喊。",
+      "failSuccessPoint": "救明星弹出「你怎么敢」弹幕墙；救狗立刻好评雨。",
+      "difficulty": "低",
+      "whyFitUA": "价值观二选一冲突强、操作仅瞄准松开，适合情绪向买量。"
+    },
+    {
+      "id": "9",
+      "name": "节庆解禁（Ban Lift）",
+      "inspiration": {
+        "text": "Free Fire 印度版回归",
+        "url": "https://x.com/i/trending/2115325414759649464"
+      },
+      "coreGameplay": "转动排灯节灯串解开锁链，在时长限制条耗尽前吃鸡短局。",
+      "adHook": "前 3 秒灰色「Banned」印章裂开，洒出彩灯与下载按钮。",
+      "failSuccessPoint": "超时被家长控制踢下线；灯串全亮并吃鸡则烟花。",
+      "difficulty": "中",
+      "whyFitUA": "回归叙事有情绪共鸣，解禁+限时双钩子适合节日素材。"
+    },
+    {
+      "id": "10",
+      "name": "三部曲表情（Trilogy Faces）",
+      "inspiration": {
+        "text": "Vince 三连表情配游戏三部曲辩论",
+        "url": "https://x.com/i/trending/2115291385037492225"
+      },
+      "coreGameplay": "把三张游戏封面拖进平静/兴奋/震惊三框，匹配社区「第二部封神」共识。",
+      "adHook": "前 3 秒 Vince 脸从冷静拉到夸张，封面飞入对应格。",
+      "failSuccessPoint": "把翻车作拖进兴奋格立刻被喷；全对解锁「终极粉圈和解」。",
+      "difficulty": "低",
+      "whyFitUA": "排序+表情反馈经典买量结构，怀旧 IP 辨识度高。"
+    }
+  ],
+  "notes": [
+    "全球趋势当日以足球/巴西政治/日语标签为主，游戏向信号主要来自 search_news 与高互动帖，而非 WOEID=1 趋势榜。",
+    "刻意避开 10/26–10/28 已推过的钥匙卡、人类货架、金球凝视、Sakurai AI 复读、Steam 到手惨案等选题与梗。",
+    "假广告成真 idea 文案中的操作需与真实商店页差异化时，注意合规，勿误导付费。"
+  ]
+}
