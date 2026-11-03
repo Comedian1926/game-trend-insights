@@ -1,0 +1,407 @@
+{
+  "date": "2026-11-03",
+  "dataWindow": "北京时间 2026-11-02 09:00 – 2026-11-03 09:00 前后约24小时（周一工作日晨报）",
+  "source": "X 公共搜索/新闻/全球趋势（Grok Bot 内置只读）",
+  "hotTopics": [
+    {
+      "title": "Steam 10 月近半新游披露用了 AI",
+      "description": "Dexerto 图表刷屏：2026 年 10 月 Steam 新游 AI 披露率达 49.9%（2024 年 1 月仅 1.7%），社区吵成「艺术盗窃 vs 独立救星」；Wendy's 顺势回怼「我们游戏是真人做的」。",
+      "links": [
+        {
+          "label": "Dexerto 原帖",
+          "url": "https://x.com/Dexerto/status/2117301155919208769",
+          "stats": "4.33 万 赞 / 1714 转 / 453 回复 / 125.29 万 曝光"
+        },
+        {
+          "label": "Wendy's「真人做的」回复",
+          "url": "https://x.com/Wendys/status/2117316162694562016",
+          "stats": "1491 赞 / 40 转 / 49 回复 / 5.67 万 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2117314833712574474",
+          "stats": "Steam AI 披露率冲到近五成（X News）"
+        }
+      ]
+    },
+    {
+      "title": "Wendy's 像素宝箱预热 WendyQuest（11.4 上线）",
+      "description": "Wendy's 官号宣布自研免费 RPG WendyQuest：Legend of the Four Corner Stones，11/4 上 Steam/iOS/Android，可赢真实食物；像素宝箱梗图与「真人做的」二连击成梗。",
+      "links": [
+        {
+          "label": "Wendy's 官宣原帖",
+          "url": "https://x.com/Wendys/status/2116276054184640895",
+          "stats": "7110 赞 / 541 转 / 404 回复 / 107.91 万 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2117354872966427092",
+          "stats": "WendyQuest 11.4 像素宝箱预热（X News）"
+        }
+      ]
+    },
+    {
+      "title": "GTA 6 倒计时进入两周内（约 16–17 天）",
+      "description": "11/19 发售、11/12 开始预下载，粉丝账号刷「16 days / 384 hours」倒计时图，讨论单人首发与联机等待；昨日「省钱学」余温仍在。",
+      "links": [
+        {
+          "label": "iGrandTheftAuto 倒计时",
+          "url": "https://x.com/iGrandTheftAuto/status/2117210117812961351",
+          "stats": "753 赞 / 50 转 / 14 回复 / 1.48 万 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2117408610343121355",
+          "stats": "GTA VI 16 天倒计时与单人首发争论（X News）"
+        }
+      ]
+    },
+    {
+      "title": "六大厂上线 Accessible Games 标签",
+      "description": "ESA 宣布 Nintendo、Xbox、EA、Ubisoft、Riot、Google/YouTube 在商店页采用统一无障碍标签（24 项特征），买前就能筛「无体感 / 色盲友好」等。",
+      "links": [
+        {
+          "label": "ESA 公告帖",
+          "url": "https://x.com/theESA/status/2117323911285428568",
+          "stats": "0 赞 / 0 转 / 0 回复 / 161 曝光（官方公告，互动偏低）"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2117361069639569563",
+          "stats": "Accessible Games Initiative 标签落地（X News）"
+        }
+      ]
+    },
+    {
+      "title": "Borderlands 系列破 1 亿套，撒金钥匙庆祝",
+      "description": "Gearbox 宣布系列销量破 1 亿，放出跨 BL1–BL4 的 SHiFT 金钥匙码（每作 20 把，11/16 到期），社区刷「17 年的战利品」。",
+      "links": [
+        {
+          "label": "MentalMars 金钥匙码帖",
+          "url": "https://x.com/mentalmars/status/2117334712280592838",
+          "stats": "256 赞 / 28 转 / 1 回复 / 1.08 万 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2117383436214407273",
+          "stats": "Borderlands 1 亿套 + 金钥匙码（X News）"
+        }
+      ]
+    },
+    {
+      "title": "《影之刃零》首发三天破 400 万套余温",
+      "description": "S-Game 武侠动作 RPG 继续霸榜讨论与钥匙抽奖；Steam 峰值曾破 83 万在线，被拿来和《黑神话》首发对比。",
+      "links": [
+        {
+          "label": "dannysimass 钥匙抽奖",
+          "url": "https://x.com/dannysimass/status/2117292609278296403",
+          "stats": "290 赞 / 237 转 / 213 回复 / 5943 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2116500666864541762",
+          "stats": "Phantom Blade Zero 72 小时 400 万套（X News）"
+        }
+      ]
+    },
+    {
+      "title": "Godzilla 乱斗 Remastered 今日上线",
+      "description": "2002 年《Destroy All Monsters Melee》UE5 重制今日登陆 PS5 / Xbox / Switch 2 / PC，12 只怪兽城市乱斗 + 联机；评测中等偏怀旧。",
+      "links": [
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2117262245822619945",
+          "stats": "Godzilla Remastered 11/3 发售倒计时（X News）"
+        },
+        {
+          "label": "LiloWORLD 11 月发售日历",
+          "url": "https://x.com/liloworldgames/status/2117226420791279734",
+          "stats": "14 赞 / 7 转 / 1 回复 / 705 曝光"
+        }
+      ]
+    },
+    {
+      "title": "独立开发者发售日被 Steam 钥匙骗子围攻",
+      "description": "Lavapotion 晒出发售五小时内收到的大量虚假 Steam key 索取邮件，独立开发者集体共鸣「骗子闻味就来」。",
+      "links": [
+        {
+          "label": "Lavapotion 原帖",
+          "url": "https://x.com/Lavapotion/status/2117223859598344373",
+          "stats": "137 赞 / 4 转 / 37 回复 / 8990 曝光"
+        }
+      ]
+    }
+  ],
+  "ideas": [
+    {
+      "id": "1",
+      "name": "AI 打假机（AI Audit）",
+      "inspiration": {
+        "text": "Dexerto「49.9% Steam 新游披露 AI」图表 + Wendy's「made by people!!」",
+        "url": "https://x.com/Dexerto/status/2117301155919208769"
+      },
+      "coreGameplay": "左右滑：封面/截图是「AI 味」还是「人手」；连对加分，错判扣信任条。",
+      "adHook": "前 3 秒：图表数字从 1.7% 飙到 49.9%，字幕「你能闻出 AI 味吗？」",
+      "failSuccessPoint": "错判→商店页弹出「AI Disclosure」红章；连对→「Made by People」金章炸裂。",
+      "difficulty": "低",
+      "whyFitUA": "当天最大争议话题，判断题 1 秒上手；素材可无限换封面，适合 A/B。"
+    },
+    {
+      "id": "2",
+      "name": "宝箱开盲（Chest Drop）",
+      "inspiration": {
+        "text": "Wendy's 像素宝箱预热 WendyQuest，11.4 上线可赢真实食物",
+        "url": "https://x.com/Wendys/status/2116276054184640895"
+      },
+      "coreGameplay": "点按时开像素宝箱，停在甜区得「真·薯条券」，偏早/偏晚开出「冻牛肉/湿薯条」诅咒。",
+      "adHook": "前 3 秒：森林里的 11.4 宝箱心跳闪烁，手指悬停「现在开？」",
+      "failSuccessPoint": "偏了→糊薯条糊屏；正中→菜单道具喷出 + 连锁开箱。",
+      "difficulty": "低",
+      "whyFitUA": "品牌像素风本身就是钩子，时机条玩法成熟，3 秒懂、失败画面好笑。"
+    },
+    {
+      "id": "3",
+      "name": "倒计时拆弹（Day Fuse）",
+      "inspiration": {
+        "text": "GTA 6「16 days / 384 hours」倒计时刷屏",
+        "url": "https://x.com/iGrandTheftAuto/status/2117210117812961351"
+      },
+      "coreGameplay": "在倒计时数字归零前，左右划掉干扰事项（加班/聚会/剧透），保住「发售日空窗」。",
+      "adHook": "前 3 秒：大字「16 DAYS」在滴答，日历被会议邀请砸过来。",
+      "failSuccessPoint": "漏掉一项→「请假被拒」爆炸；全清→预下载进度条拉满。",
+      "difficulty": "低",
+      "whyFitUA": "倒计时本身有紧迫感，假挑战「你能撑到发售吗」天然适合买量片头。"
+    },
+    {
+      "id": "4",
+      "name": "金钥开箱（Key Rush）",
+      "inspiration": {
+        "text": "Borderlands 破 1 亿套，撒跨系列金钥匙庆祝",
+        "url": "https://x.com/mentalmars/status/2117334712280592838"
+      },
+      "coreGameplay": "连点/滑动插入金钥匙，在宝箱爆炸前对齐正确色槽，连开出紫/橙装。",
+      "adHook": "前 3 秒：一串钥匙码飞入屏幕，字幕「20 把金钥匙，你开得出橙吗？」",
+      "failSuccessPoint": "插错槽→箱子变成白装笑话；连开橙→loot 雨+伤害数字蹦高。",
+      "difficulty": "中",
+      "whyFitUA": "开箱上瘾是验证过的买量母题；金钥匙视觉强、失败反馈清晰。"
+    },
+    {
+      "id": "5",
+      "name": "标签配对（Access Match）",
+      "inspiration": {
+        "text": "六大厂落地 Accessible Games 统一标签",
+        "url": "https://x.com/i/trending/2117361069639569563"
+      },
+      "coreGameplay": "把需求卡（色盲/单手/无体感）拖到对应商店标签上，匹配成功解锁试玩关。",
+      "adHook": "前 3 秒：模糊商店页，玩家喊「这个支持色盲模式吗？」标签飞入。",
+      "failSuccessPoint": "配错→屏幕变全红/控件锁死；全对→「Discover more ways to play」通关章。",
+      "difficulty": "低",
+      "whyFitUA": "拖拽配对极简，题材正向少见，适合做差异化钩子与品牌好感。"
+    },
+    {
+      "id": "6",
+      "name": "三刀清屏（Blade Three）",
+      "inspiration": {
+        "text": "《影之刃零》首发破 400 万套、武侠连斩切片刷屏",
+        "url": "https://x.com/i/trending/2116500666864541762"
+      },
+      "coreGameplay": "三次滑动完成「起手-破防-终结」连斩，节奏对上敌人破绽才算完美。",
+      "adHook": "前 3 秒：BOSS 举刀，字幕「三刀之内能斩吗？」",
+      "failSuccessPoint": "节奏歪→被弹反倒地；完美三刀→镜头慢放碎甲。",
+      "difficulty": "中",
+      "whyFitUA": "三输入封顶，广告片可直接切原片节奏；失败重试欲强。"
+    },
+    {
+      "id": "7",
+      "name": "巨兽踩城（Kaiju Stomp）",
+      "inspiration": {
+        "text": "Godzilla Destroy All Monsters Melee Remastered 今日发售",
+        "url": "https://x.com/i/trending/2117262245822619945"
+      },
+      "coreGameplay": "点按时机踩塌楼块、躲开导弹；连踩触发城市连锁倒塌。",
+      "adHook": "前 3 秒：哥斯拉脚掌压下来，小车逃窜，字幕「别踩空」。",
+      "failSuccessPoint": "踩空→摔进坑被嘲；连踩→摩天楼多米诺+分数爆炸。",
+      "difficulty": "低",
+      "whyFitUA": "巨物破坏视觉钩子极强，单点操作，HTML5 粒子好做。"
+    },
+    {
+      "id": "8",
+      "name": "钥匙诈骗识破（Scam Spot）",
+      "inspiration": {
+        "text": "独立开发者发售日晒虚假 Steam key 索取邮件",
+        "url": "https://x.com/Lavapotion/status/2117223859598344373"
+      },
+      "coreGameplay": "快速点掉钓鱼邮件（错域名/催促语气），只放行真合作请求。",
+      "adHook": "前 3 秒：收件箱爆炸「Please send Steam keys!!」，字幕「你能拦下骗子吗？」",
+      "failSuccessPoint": "点错→钥匙被骗走红闪；全拦→发售日仪表盘变绿。",
+      "difficulty": "低",
+      "whyFitUA": "独立开发者真实痛点，点选判断极快，适合做系列每日关卡。"
+    },
+    {
+      "id": "9",
+      "name": "圆梗谐音（Round Pun）",
+      "inspiration": {
+        "text": "#ASongOrMovieForAnythingRound 把歌名/片名改成圆形主题",
+        "url": "https://x.com/DazzDzatron/status/2117188077890548086"
+      },
+      "coreGameplay": "给出原名，从三个谐音改写里点出最「圆」的那个；连对解锁更难题。",
+      "adHook": "前 3 秒：「Wish You Were ___」空格闪烁，选项 Sphere/Here/Fear。",
+      "failSuccessPoint": "选错→唱片变成椭圆笑话；连对→唱盘旋转加分雨。",
+      "difficulty": "低",
+      "whyFitUA": "文字梗互动强、制作成本极低，可日更题库做留存。"
+    },
+    {
+      "id": "10",
+      "name": "情绪步行（Doom Walk）",
+      "inspiration": {
+        "text": "「every distance is walkable if you've lost your will to live」爆帖",
+        "url": "https://x.com/chiggiiiii/status/2117141833713356910"
+      },
+      "coreGameplay": "按住前进，左右躲情绪障碍（账单/闹钟/已读不回）；走得越远步数越高。",
+      "adHook": "前 3 秒：字幕原句落下，角色机械迈步，计步器狂跳。",
+      "failSuccessPoint": "撞上障碍→瘫坐重来；破纪录→「19,000 steps」烟花。",
+      "difficulty": "低",
+      "whyFitUA": "原帖近 20 万赞，情绪共鸣强；按住前进是最熟的假玩法模板。"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "1",
+      "name": "AI 打假机（AI Audit）",
+      "reason": "当天最大游戏舆论（Dexerto 单帖 4.3 万赞 / 125 万曝光），判断题一秒懂，封面素材可无限换，和 Wendy's「真人做的」形成现成广告话术。"
+    },
+    {
+      "id": "2",
+      "name": "宝箱开盲（Chest Drop）",
+      "reason": "Wendy's 官帖破百万曝光，像素宝箱+时机条是经典买量结构，品牌感强但玩法可原创皮肤落地。"
+    },
+    {
+      "id": "3",
+      "name": "情绪步行（Doom Walk）",
+      "reason": "全站最大非游戏梗（近 20 万赞 / 236 万曝光），按住前进模板转化稳定，文案可直接借原句做字幕钩子。"
+    }
+  ],
+  "memes": [
+    {
+      "title": "「every distance is walkable…」",
+      "description": "一句「如果你已失去活下去的意志，每一段路都走得动」引爆共情转发，评论区刷晒万步数与崩溃散步故事，成了当天最大情绪梗。",
+      "links": [
+        {
+          "label": "chiggiiiii 原帖",
+          "url": "https://x.com/chiggiiiii/status/2117141833713356910",
+          "stats": "19.76 万 赞 / 2.60 万 转 / 171 回复 / 236.57 万 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2117268951940161767",
+          "stats": "情绪低谷可步行距离（X News）"
+        }
+      ],
+      "playableAngle": "按住前进的「情绪步行」假玩法：躲账单/闹钟障碍，破纪录弹步数烟花。"
+    },
+    {
+      "title": "Fuck / Marry / Kill：意面·米饭·土豆",
+      "description": "把经典 FMK 问卷套在三种主食上，引用回复破六百，评论区认真站队「娶土豆、睡意面、杀米饭」。",
+      "links": [
+        {
+          "label": "PhillyBeardBul 原帖",
+          "url": "https://x.com/PhillyBeardBul/status/2117329971068973159",
+          "stats": "1033 赞 / 41 转 / 200 回复 / 613 引用 / 18.31 万 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2117389201628958993",
+          "stats": "主食 FMK 站队战（X News）"
+        }
+      ],
+      "playableAngle": "三选一拖拽投票小游戏，可换成武器/主角/关卡主题做系列素材。"
+    },
+    {
+      "title": "Wendy's「made by people!!」",
+      "description": "在 Steam AI 披露率刷屏时，Wendy's 回复 Dexerto「我们游戏是真人做的!!」，把品牌预热变成对 AI 浪潮的阴阳嘲讽。",
+      "links": [
+        {
+          "label": "Wendy's 回复帖",
+          "url": "https://x.com/Wendys/status/2117316162694562016",
+          "stats": "1491 赞 / 40 转 / 49 回复 / 5.67 万 曝光"
+        },
+        {
+          "label": "Dexerto AI 图表原帖",
+          "url": "https://x.com/Dexerto/status/2117301155919208769",
+          "stats": "4.33 万 赞 / 1714 转 / 125.29 万 曝光"
+        }
+      ],
+      "playableAngle": "「AI vs 人手」对照打分局，通关章写成 Made by People。"
+    },
+    {
+      "title": "#ASongOrMovieForAnythingRound",
+      "description": "挑战把歌名/片名改成「圆形」主题：Never mind the bollock、Wish You Were Sphere 等谐音段子刷标签。",
+      "links": [
+        {
+          "label": "DazzDzatron 示例帖",
+          "url": "https://x.com/DazzDzatron/status/2117188077890548086",
+          "stats": "13 赞 / 1 转 / 4 回复 / 392 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2117194070120382773",
+          "stats": "圆形主题歌名片名谐音挑战（X News）"
+        }
+      ],
+      "playableAngle": "谐音三选一问答，题库可日更，适合轻量文字 playable。"
+    },
+    {
+      "title": "牛奶箱挑战怀旧回潮",
+      "description": "2021 牛奶箱叠高攀爬挑战切片再被翻出，评论「那一年根本不真实」「记得有人椎骨折吗」，危险挑战复古成梗。",
+      "links": [
+        {
+          "label": "the_moral_abc 怀旧帖",
+          "url": "https://x.com/the_moral_abc/status/2117025703971746033",
+          "stats": "27 赞 / 0 转 / 3 回复 / 944 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2117192820268171644",
+          "stats": "Milk Crate Challenge 切片回流（X News）"
+        }
+      ],
+      "playableAngle": "叠箱平衡攀爬（注意做成卡通无真实伤害提示），失败摔下是笑点。"
+    },
+    {
+      "title": "Steam AI 披露率图表震惊",
+      "description": "「10 月近半新游披露 AI」折线/柱状图本身成了梗图模板，被引用讨论独立游戏质量与 Wendy's 阴阳。",
+      "links": [
+        {
+          "label": "Dexerto 原帖",
+          "url": "https://x.com/Dexerto/status/2117301155919208769",
+          "stats": "4.33 万 赞 / 1714 转 / 453 回复 / 125.29 万 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2117314833712574474",
+          "stats": "Steam AI 披露冲到 49.9%（X News）"
+        }
+      ],
+      "playableAngle": "让玩家「拖动年份看披露率暴涨」的互动图表关，通关后进入打假小游戏。"
+    },
+    {
+      "title": "Tomorrow is Election Day",
+      "description": "美国趋势榜刷「Tomorrow is Election Day」，投票日前夜的倒计时复读与政治梗图并行（非游戏，但全站可见）。",
+      "links": [
+        {
+          "label": "美国趋势（Election Day）",
+          "url": "https://x.com/search?q=Tomorrow%20is%20Election%20Day",
+          "stats": "美国 WOEID 趋势榜上榜（tweet_count 未返回）"
+        }
+      ],
+      "playableAngle": "可借「倒计时选票投放」做成非政治皮肤的时机条小游戏（避开真实候选人）。"
+    }
+  ],
+  "notes": [
+    "今日全球趋势被 WWE Raw、日语话题（文化の日）和美国选举前夜霸屏；游戏侧主战场是 Steam AI 披露、WendyQuest、GTA 6 倒计时、无障碍标签与 Borderlands 1 亿套。",
+    "已避开 10/30–11/02 已推选题/梗（方块入槽、慢读猜球星、黑手党变装、伸爪求摸、弯臂比心、GTA 省钱学、toxic yuri 等）。",
+    "ESA 官方公告帖互动极低，无障碍话题以 X News 专题为主链；Godzilla / Queen's Domain 等高互动原帖不足时已如实用专题链接。",
+    "互动数据来自 X public_metrics，抓取时间约北京时间 2026-11-03 09:05。",
+    "涉及 Wendy's / Borderlands / Godzilla 等品牌或 IP 的选题，落地素材请用原创皮肤与原创角色。"
+  ]
+}
