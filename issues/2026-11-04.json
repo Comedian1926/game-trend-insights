@@ -1,0 +1,391 @@
+{
+  "date": "2026-11-04",
+  "dataWindow": "北京时间 2026-11-03 09:00 – 2026-11-04 09:00 前后约24小时（周二工作日晨报）",
+  "source": "X 公共搜索/新闻/全球趋势（Grok Bot 内置只读）",
+  "hotTopics": [
+    {
+      "title": "itch.io 大规模清理 AI 灌水游戏并上线 No AI 筛选",
+      "description": "平台一口气删掉约数 TB 低质量 AI 生成「垃圾游」，并扩展披露过滤器（含 No AI 搜索）；日媒与独立圈一边欢呼一边争论「slop」标签。",
+      "links": [
+        {
+          "label": "电ファミ 报道帖",
+          "url": "https://x.com/denfaminicogame/status/2117550841800622468",
+          "stats": "1427 赞 / 473 转 / 20 回复 / 20.00 万 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2117477007378506020",
+          "stats": "itch.io 清 AI 灌水 + No AI 筛选（X News）"
+        }
+      ]
+    },
+    {
+      "title": "「Steam 把资本主义玩到坏掉」锁库梗爆火",
+      "description": "前 Epic 动画工程师 Kiaran Ritchie 吐槽 Steam 用户被库/好友/习惯锁死，Pirat_Nation 转述「他们把资本主义玩得太好以至于坏掉了」近 2.7 万赞。",
+      "links": [
+        {
+          "label": "Pirat_Nation 原帖",
+          "url": "https://x.com/Pirat_Nation/status/2117347261902365165",
+          "stats": "2.74 万 赞 / 895 转 / 2215 回复 / 167.15 万 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2117441450002550800",
+          "stats": "前 Epic 工程师谈 Steam 锁库（X News）"
+        }
+      ]
+    },
+    {
+      "title": "WendyQuest 今日正式上线（11/4）",
+      "description": "Wendy's 自研免费像素 RPG WendyQuest：Legend of the Four Corner Stones 按计划今天登陆 Steam/iOS/Android；官号昨晚用「像素 Wendy 打机甲怪」预热。",
+      "links": [
+        {
+          "label": "Wendy's 上线日预热",
+          "url": "https://x.com/Wendys/status/2117697405810569229",
+          "stats": "383 赞 / 52 转 / 64 回复 / 4.94 万 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2117354872966427092",
+          "stats": "WendyQuest 11.4 像素宝箱上线（X News）"
+        }
+      ]
+    },
+    {
+      "title": "GTA VI 倒计时约 15–16 天，请假/装病话题再起",
+      "description": "11/19 发售进入两周内；帖子刷「牛奶保质期都比发售晚」与请假调查（约 1/5 打工人考虑请假，半数装病）。Kai Cenat 则预告从 11/5 起开 GTA 3→5 马拉松。",
+      "links": [
+        {
+          "label": "X News：Kai Cenat 马拉松",
+          "url": "https://x.com/i/trending/2117450474475454882",
+          "stats": "Kai Cenat 发售前 GTA 马拉松计划（X News）"
+        },
+        {
+          "label": "X News：倒计时余温",
+          "url": "https://x.com/i/trending/2117192820360466811",
+          "stats": "GTA VI 约两周倒计时与请假潮（X News）"
+        },
+        {
+          "label": "DuvalVice「牛奶保质期」梗",
+          "url": "https://x.com/DuvalVice/status/2117748651003121683",
+          "stats": "1 赞 / 0 转 / 0 回复 / 105 曝光"
+        }
+      ]
+    },
+    {
+      "title": "《Hyperspace Neptunia: Unlimited》宣布 2027 登陆欧美",
+      "description": "Idea Factory Intl 官宣十年后再出主线，PS4/PS5/Switch/Switch2/Steam 同步规划；粉丝狂欢与「Xbox 又没了」情绪并存，单帖破 6000 赞。",
+      "links": [
+        {
+          "label": "Idea Factory Intl 官宣",
+          "url": "https://x.com/IdeaFactoryIntl/status/2117661127697949138",
+          "stats": "6065 赞 / 1390 转 / 260 回复 / 18.68 万 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2117678425036968262",
+          "stats": "Neptunia 2027 欧美多平台官宣（X News）"
+        }
+      ]
+    },
+    {
+      "title": "《时之笛》Switch 2 重制明日发售，缺 Master Quest 惹议",
+      "description": "11/5 发售的 Ocarina of Time Switch 2 重制被早玩党指出没有 Master Quest 高难模式；画面/配音/新操作获赞，但重玩价值成争论点。",
+      "links": [
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2117732211227259028",
+          "stats": "时之笛重制缺 Master Quest（X News）"
+        },
+        {
+          "label": "X News：明日发售倒计时",
+          "url": "https://x.com/i/trending/2115598448875442176",
+          "stats": "Ocarina of Time Switch 2 11/5 发售（X News）"
+        }
+      ]
+    },
+    {
+      "title": "游戏梯队图再起争吵（Goated→Garbage）",
+      "description": "玩家把 RDR2 等放进 Goated、把多款热门丢进 Garbage，评论区互喷；X News 跟进成当天榜单争吵热点。",
+      "links": [
+        {
+          "label": "Oiarjunrathore Rockstar 榜",
+          "url": "https://x.com/Oiarjunrathore/status/2117662058967974286",
+          "stats": "87 赞 / 10 转 / 19 回复 / 1.12 万 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2117678428270850457",
+          "stats": "游戏梯队图 Goated vs Garbage（X News）"
+        }
+      ]
+    },
+    {
+      "title": "Weird Days: Dark Tales 怪异独立展在 Steam 开幕",
+      "description": "Warm Light / DarkCocooning 主办的怪异恐怖独立展 live 至 11/9，多款 demo+折扣，独立开发者互相安利「怪但暖」作品。",
+      "links": [
+        {
+          "label": "Hungry Horrors 参展帖",
+          "url": "https://x.com/clumsybeargames/status/2117527947892371872",
+          "stats": "11 赞 / 3 转 / 2 回复 / 205 曝光"
+        },
+        {
+          "label": "WorkbenchEnt 展会帖",
+          "url": "https://x.com/WorkbenchEnt/status/2117681556814696863",
+          "stats": "6 赞 / 3 转 / 1 回复 / 82 曝光"
+        }
+      ]
+    }
+  ],
+  "ideas": [
+    {
+      "id": "1",
+      "name": "垃圾扫荡（Slop Sweep）",
+      "inspiration": {
+        "text": "itch.io 清掉 TB 级 AI 灌水 + No AI 筛选",
+        "url": "https://x.com/denfaminicogame/status/2117550841800622468"
+      },
+      "coreGameplay": "左右滑：把「AI 味封面」扫进焚化炉，把「人手味」留在货架；连对升温 No AI 徽章。",
+      "adHook": "前 3 秒：货架瞬间堆满相同脸的 AI 封面，字幕「数 TB 垃圾，你扫得完吗？」",
+      "failSuccessPoint": "扫错人手作→误杀警告闪红；连对→焚化炉喷「No AI」金章。",
+      "difficulty": "低",
+      "whyFitUA": "当天独立圈最大新闻，判断滑只需 1 秒；封面素材可无限换，适合假玩法广告。"
+    },
+    {
+      "id": "2",
+      "name": "锁库孤岛（Library Lock）",
+      "inspiration": {
+        "text": "Pirat_Nation「Steam 把资本主义玩坏了」锁库梗",
+        "url": "https://x.com/Pirat_Nation/status/2117347261902365165"
+      },
+      "coreGameplay": "拖动锁链/折扣锚，试图把游戏库拖离 Steam 岛；锚越拖越重，最终弹回孤岛。",
+      "adHook": "前 3 秒：玩家拖着 500 款库冲向 Epic 渡船，锁链一收整人弹回 Steam 码头。",
+      "failSuccessPoint": "挣脱失败→「Wishlist 已锁定」弹窗；短暂挣脱→渡船立刻沉没，爽感来自反讽。",
+      "difficulty": "中",
+      "whyFitUA": "近 2.7 万赞高共鸣梗，拖拽失败即笑点，天然适合「假挑战」买量。"
+    },
+    {
+      "id": "3",
+      "name": "机甲汉堡战（Mech Burger）",
+      "inspiration": {
+        "text": "Wendy's「像素 Wendy 打 MechMonster」+ WendyQuest 上线日",
+        "url": "https://x.com/Wendys/status/2117697405810569229"
+      },
+      "coreGameplay": "节奏点：在进度条上点「甩堡/格挡/大招」，打掉机甲怪血条换真实优惠券动画。",
+      "adHook": "前 3 秒：像素 Wendy 举着汉堡锤砸向巨型 MechMonster，字幕「今天上线，你会打吗？」",
+      "failSuccessPoint": "QTE 失败→被机甲烤焦；连击满→汉堡爆炸清场+券码烟花。",
+      "difficulty": "低",
+      "whyFitUA": "品牌上线日热度，节奏点玩法秒懂；可换皮成任意食物 RPG 买量。"
+    },
+    {
+      "id": "4",
+      "name": "请假条滑轨（Sick Slip）",
+      "inspiration": {
+        "text": "GTA VI 发售前请假/装病与 Kai Cenat 马拉松",
+        "url": "https://x.com/i/trending/2117450474475454882"
+      },
+      "coreGameplay": "把「病假条」沿桌缝滑进老板门缝，躲开路过同事的视线；时机窗越来越窄。",
+      "adHook": "前 3 秒：日历标红 Nov 19，手指捏着假条，字幕「装病还是正式请假？」",
+      "failSuccessPoint": "被撞见→HR 弹窗；滑进→立刻切到 Vice City 载入条假成功。",
+      "difficulty": "低",
+      "whyFitUA": "倒计时+职场共情双钩子，滑轨操作适合竖屏假玩法。"
+    },
+    {
+      "id": "5",
+      "name": "女神跳轴（Goddess Hop）",
+      "inspiration": {
+        "text": "Hyperspace Neptunia: Unlimited 2027 欧美官宣",
+        "url": "https://x.com/IdeaFactoryIntl/status/2117661127697949138"
+      },
+      "coreGameplay": "点按在平行时间轴之间跳跃，收集女神碎片，躲开「十年空白」黑洞。",
+      "adHook": "前 3 秒：时间轴写着 2016→2026 大空白，角色一跳跨进 2027，字幕「等了十年！」",
+      "failSuccessPoint": "跳空→掉进「系列完结」深渊；连跳成功→卡带实体金光。",
+      "difficulty": "中",
+      "whyFitUA": "官宣破 6000 赞，时间跳跃视觉强，适合短钩子广告。"
+    },
+    {
+      "id": "6",
+      "name": "高难失落（Quest Missing）",
+      "inspiration": {
+        "text": "时之笛 Switch 2 重制缺 Master Quest",
+        "url": "https://x.com/i/trending/2117732211227259028"
+      },
+      "coreGameplay": "在重制菜单里拖拽「Master Quest」拼图块装回去；装错镜子世界就翻面。",
+      "adHook": "前 3 秒：菜单亮起却缺一块「Master Quest」，字幕「你能补上吗？」",
+      "failSuccessPoint": "拼错→地牢布局乱码；拼对→镜像海拉鲁闪金。",
+      "difficulty": "中",
+      "whyFitUA": "发售前夜争议点，拼图/镜像视觉一眼懂，怀旧买量友好。"
+    },
+    {
+      "id": "7",
+      "name": "假粉雷达（Larp Radar）",
+      "inspiration": {
+        "text": "Kai Cenat GTA 马拉松与聊天室装熟/怀旧争议",
+        "url": "https://x.com/i/trending/2117450474475454882"
+      },
+      "coreGameplay": "左右滑判定弹幕是「真资深」还是「装熟 LARP」；连续识破提升主播信任条。",
+      "adHook": "前 3 秒：弹幕刷屏「我从小玩到大」，雷达闪红「LARP?」，字幕「你分得清吗？」",
+      "failSuccessPoint": "误杀真粉→聊天室炸锅；连对→主播扔出「REAL ONE」徽章。",
+      "difficulty": "低",
+      "whyFitUA": "直播圈高热梗，判断滑=经典买量模板，文案可日更。"
+    },
+    {
+      "id": "8",
+      "name": "咖啡馆坐错（Cafe Seat）",
+      "inspiration": {
+        "text": "Flovaai 高级咖啡馆 POV「第一次去不知道怎么坐」",
+        "url": "https://x.com/Flovaai/status/2117466712597839938"
+      },
+      "coreGameplay": "拖角色坐到正确座位/姿势，躲开侍应生与邻桌的审判目光。",
+      "adHook": "前 3 秒：镜头推近空桌与一堆刀叉，字幕「坐错就社死」",
+      "failSuccessPoint": "坐错→全场侧目+尴尬音效；坐对→咖啡拉花烟花。",
+      "difficulty": "低",
+      "whyFitUA": "社死喜剧钩子强，拖放坐姿易做 HTML5，非游戏梗也能买量。"
+    },
+    {
+      "id": "9",
+      "name": "学猴捂脸（Study Facepalm）",
+      "inspiration": {
+        "text": "studsyun 学习猴 GIF 爆帖",
+        "url": "https://x.com/studsyun/status/2117440926024884418"
+      },
+      "coreGameplay": "按住捂脸躲避飞来的试卷/deadline；松手就被打中，坚持越久分越高。",
+      "adHook": "前 3 秒：猴子捂脸 GIF 循环，试卷雨砸来，字幕「还能撑几秒？」",
+      "failSuccessPoint": "松手→满分试卷砸脸；撑满→「今天不学了」烟花逃课。",
+      "difficulty": "低",
+      "whyFitUA": "近 9.5 万赞超大梗，按住=最稳买量手势，素材即原 GIF。"
+    },
+    {
+      "id": "10",
+      "name": "死或看完（Die or Watch）",
+      "inspiration": {
+        "text": "巴西梗「morrer ou assistir」（死还是看完这部番）",
+        "url": "https://x.com/strobelitej/status/2117301701967515829"
+      },
+      "coreGameplay": "左右滑：面对超长番/坑番选「死」或「看完」；选看完则进入快速刷集小游戏。",
+      "adHook": "前 3 秒：屏幕写「morrer ou assistir One Piece?」，两个大按钮砸下。",
+      "failSuccessPoint": "选死→墓碑+「理智保全」；选看完却刷不动→黑眼圈 debuff 叠满。",
+      "difficulty": "低",
+      "whyFitUA": "二选一挑战全球通用，IP 名可换，适合短视频假结局广告。"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "1",
+      "name": "垃圾扫荡（Slop Sweep）",
+      "reason": "itch.io 清 AI 是当天独立圈头条，判断滑一秒上手，和昨日「AI 打假」错开玩法（扫进焚化炉 vs 闻味），素材可日更。"
+    },
+    {
+      "id": "2",
+      "name": "锁库孤岛（Library Lock）",
+      "reason": "单帖近 2.7 万赞 / 167 万曝光，拖拽失败即笑点，反讽感强，适合做成「假挑战」竖屏广告。"
+    },
+    {
+      "id": "3",
+      "name": "学猴捂脸（Study Facepalm）",
+      "reason": "全站最大视觉梗（约 9.5 万赞 / 212 万曝光），按住捂脸模板转化稳，非游戏也能导流小游戏。"
+    }
+  ],
+  "memes": [
+    {
+      "title": "学习猴捂脸 GIF",
+      "description": "studsyun 发的猴子戴耳机写作业再捂脸崩溃 GIF 一夜爆到近 9.5 万赞 / 2 万转，评论区全是期末、ddl、摸鱼共鸣，成了当天最大视觉梗。",
+      "links": [
+        {
+          "label": "studsyun 原帖",
+          "url": "https://x.com/studsyun/status/2117440926024884418",
+          "stats": "9.49 万 赞 / 2.03 万 转 / 242 回复 / 212.51 万 曝光"
+        }
+      ],
+      "playableAngle": "按住捂脸躲试卷雨的「Study Facepalm」假玩法；松手即被 ddl 砸中。"
+    },
+    {
+      "title": "morrer ou assistir（死还是看完）",
+      "description": "巴西区连环挑战：配视频问「死还是看完 XX 番？」原帖近 3800 赞、近 1500 转，One Piece/Solo Leveling 等二创刷屏。",
+      "links": [
+        {
+          "label": "strobelitej 原帖",
+          "url": "https://x.com/strobelitej/status/2117301701967515829",
+          "stats": "3777 赞 / 1485 转 / 50 回复 / 6.97 万 曝光"
+        },
+        {
+          "label": "lemoriemo One Piece 二创",
+          "url": "https://x.com/lemoriemo/status/2117393226978181445",
+          "stats": "44 赞 / 23 转 / 4 回复 / 3504 曝光"
+        }
+      ],
+      "playableAngle": "左右滑「死/看完」二选一，选看完进入刷集耐力条。"
+    },
+    {
+      "title": "高级咖啡馆第一次怎么坐",
+      "description": "Flovaai 发咖啡馆 POV：第一次去高级店不知道坐哪、刀叉怎么摆，评论区集体社死共鸣。",
+      "links": [
+        {
+          "label": "Flovaai 原帖",
+          "url": "https://x.com/Flovaai/status/2117466712597839938",
+          "stats": "1385 赞 / 85 转 / 32 回复 / 15.77 万 曝光"
+        }
+      ],
+      "playableAngle": "拖角色坐对座位/姿势，坐错全场侧目——社死喜剧买量钩子。"
+    },
+    {
+      "title": "Steam 把资本主义玩坏了",
+      "description": "围绕 Steam 锁库/锁折扣的吐槽帖，一句「他们把资本主义玩得太好以至于坏掉了」近 2.7 万赞，成了 PC 玩家黑话梗。",
+      "links": [
+        {
+          "label": "Pirat_Nation 原帖",
+          "url": "https://x.com/Pirat_Nation/status/2117347261902365165",
+          "stats": "2.74 万 赞 / 895 转 / 2215 回复 / 167.15 万 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2117441450002550800",
+          "stats": "前 Epic 工程师谈 Steam 锁库（X News）"
+        }
+      ],
+      "playableAngle": "拖库逃离 Steam 孤岛却被锁链弹回的「Library Lock」。"
+    },
+    {
+      "title": "itch.io 清 AI 垃圾游",
+      "description": "平台删 TB 级 AI 灌水并上 No AI 筛选，独立开发者转发庆祝/争论误杀，变成「AI 垃圾」识别梗。",
+      "links": [
+        {
+          "label": "电ファミ 报道帖",
+          "url": "https://x.com/denfaminicogame/status/2117550841800622468",
+          "stats": "1427 赞 / 473 转 / 20 回复 / 20.00 万 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2117477007378506020",
+          "stats": "itch.io 清 AI 灌水 + No AI 筛选（X News）"
+        }
+      ],
+      "playableAngle": "左右滑把 AI 封面扫进焚化炉的「Slop Sweep」。"
+    },
+    {
+      "title": "我带来一种「像素 Wendy 打机甲」的能量",
+      "description": "Wendy's 官号用「I bring a kind of pixelated Wendy fighting a MechMonster energy」预热 WendyQuest 上线日，品牌抽象文案再一次出圈。",
+      "links": [
+        {
+          "label": "Wendy's 原帖",
+          "url": "https://x.com/Wendys/status/2117697405810569229",
+          "stats": "383 赞 / 52 转 / 64 回复 / 4.94 万 曝光"
+        }
+      ],
+      "playableAngle": "节奏点打机甲怪的「Mech Burger」；可换皮成任意品牌食物英雄。"
+    },
+    {
+      "title": "等了十年的女神（Neptunia 回归）",
+      "description": "主线隔十年官宣 2027 欧美版，粉丝又哭又笑，「终于来了 / Xbox 又没了」两极刷屏。",
+      "links": [
+        {
+          "label": "Idea Factory Intl 官宣",
+          "url": "https://x.com/IdeaFactoryIntl/status/2117661127697949138",
+          "stats": "6065 赞 / 1390 转 / 260 回复 / 18.68 万 曝光"
+        }
+      ],
+      "playableAngle": "时间轴跳跃收集女神碎片的「Goddess Hop」。"
+    }
+  ],
+  "notes": "避开昨日已推：AI Audit / Chest Drop / Day Fuse / Doom Walk / Key Rush 等。今日主线是 itch.io 清 AI、Steam 锁库梗、WendyQuest 上线日、GTA 请假/马拉松与 Neptunia 官宣；最大非游戏视觉梗是学习猴捂脸 GIF（约 9.5 万赞）。"
+}
