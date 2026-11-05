@@ -1,0 +1,396 @@
+{
+  "date": "2026-11-05",
+  "dataWindow": "北京时间 2026-11-04 09:00 – 2026-11-05 09:00 前后约24小时（周四晨报）",
+  "source": "X 公共搜索/新闻/全球趋势（Grok Bot 内置只读）",
+  "hotTopics": [
+    {
+      "title": "Queen's Domain：两人小队 5 天卖出 10 万份",
+      "description": "复古奇幻 RPG《Queen's Domain》官号宣布不到五天销量破 10 万，两人开发组被冲爆；独立圈把「小团队也能爆」又刷了一遍。",
+      "links": [
+        {
+          "label": "QueensDomain_ 官宣",
+          "url": "https://x.com/QueensDomain_/status/2117972692238270566",
+          "stats": "5217 赞 / 446 转 / 185 回复 / 11.01 万 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2117718116469985323",
+          "stats": "Queen's Domain 两人5天10万份（X News）"
+        }
+      ]
+    },
+    {
+      "title": "24 小时 AI 做完整游戏 Sumiro 刷屏",
+      "description": "xikhar 用 Opus/Flux/Tripo/Three.js 等栈在 24 小时内做出可玩原作游戏并开帖拆工作流，「Anyone can make games now」成当日最大 AI×游戏争议帖。",
+      "links": [
+        {
+          "label": "xikhar 原帖",
+          "url": "https://x.com/xikhar/status/2117776295534997818",
+          "stats": "7631 赞 / 664 转 / 473 回复 / 105.16 万 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2117869599362514958",
+          "stats": "24h AI 游戏 Sumiro（X News）"
+        }
+      ]
+    },
+    {
+      "title": "PS 黑五同款不同价：航空公司定价进商店",
+      "description": "玩家对比发现同一款黑五游戏账号价差明显（Astro Bot 约 $33.59–$39.59），索尼未解释；「airline pricing」成 PS Store 吐槽黑话。",
+      "links": [
+        {
+          "label": "Pirat_Nation 原帖",
+          "url": "https://x.com/Pirat_Nation/status/2118072963195146656",
+          "stats": "1175 赞 / 153 转 / 118 回复 / 5.46 万 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2118097463198593204",
+          "stats": "PS 黑五同款不同价（X News）"
+        }
+      ]
+    },
+    {
+      "title": "开放世界梯队图再起战火",
+      "description": "Ke_1234k 一张「Open world games Rating」图近 22 万赞级讨论，评论区围殴 Elden Ring / Skyrim / Witcher 该不该进 S 档，典型梯队图燃料。",
+      "links": [
+        {
+          "label": "Ke_1234k 原帖",
+          "url": "https://x.com/Ke_1234k/status/2117996597808111733",
+          "stats": "2151 赞 / 103 转 / 206 回复 / 31.07 万 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2118142599596793937",
+          "stats": "Open-world tier list（X News）"
+        }
+      ]
+    },
+    {
+      "title": "Loftia solarpunk 温馨 MMO 冲上 Steam 前列",
+      "description": "Loftia 正式发售：建太阳能朋克家园、和朋友一起冒险；官号随后宣布跻身 Steam 当日前列，泰语区等也有跟帖。",
+      "links": [
+        {
+          "label": "loftiadev 发售帖",
+          "url": "https://x.com/loftiadev/status/2117684345767072056",
+          "stats": "2170 赞 / 449 转 / 46 回复 / 12.64 万 曝光"
+        },
+        {
+          "label": "loftiadev Steam 前列",
+          "url": "https://x.com/loftiadev/status/2118089280929370412",
+          "stats": "521 赞 / 56 转 / 14 回复 / 5559 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2117632113323262435",
+          "stats": "Loftia solarpunk EA（X News）"
+        }
+      ]
+    },
+    {
+      "title": "Steam 审核变慢 vs Roblox 秒过：平台效率之争",
+      "description": "The Verge 报道 Valve 承认审核可拖到约 12 个工作日；前 Roblox 相关人士对比「Steam 收入 3 倍、Roblox 日上架量高几个数量级却秒审」，评论区吵成一团。",
+      "links": [
+        {
+          "label": "JNavok 对比帖",
+          "url": "https://x.com/JNavok/status/2117777591201411428",
+          "stats": "252 赞 / 8 转 / 143 回复 / 17.45 万 曝光"
+        },
+        {
+          "label": "The Verge 报道",
+          "url": "https://x.com/verge/status/2117749465062785318",
+          "stats": "33 赞 / 1 转 / 8 回复 / 6.23 万 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2118083609642869166",
+          "stats": "Steam vs Roblox 审核/安全（X News）"
+        }
+      ]
+    },
+    {
+      "title": "AGDQ 2027 游戏名单出炉 + 开放提交",
+      "description": "Games Done Quick 官号喊「GO GO GO」公布 #AGDQ2027 名单，并开放至 11/11 的新游戏提交（2026-09-01 后发售可报）。",
+      "links": [
+        {
+          "label": "GamesDoneQuick 官宣",
+          "url": "https://x.com/GamesDoneQuick/status/2118029313295417738",
+          "stats": "182 赞 / 40 转 / 9 回复 / 5.12 万 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2118080196368646623",
+          "stats": "AGDQ 2027 名单（X News）"
+        }
+      ]
+    },
+    {
+      "title": "Deadlock 杀进 PC Gamer Top100，Dota 2 落榜",
+      "description": "PC Gamer 年度 Top100：未正式 1.0 的 Deadlock 排第 100，Dota 2 未进榜；粉丝又骄傲又被钓，「invite-only 也能进百强」成梗。",
+      "links": [
+        {
+          "label": "PolymarketDota2",
+          "url": "https://x.com/PolymarketDota2/status/2118040588864135245",
+          "stats": "168 赞 / 3 转 / 12 回复 / 1.05 万 曝光"
+        },
+        {
+          "label": "deadlock_8 摘要",
+          "url": "https://x.com/deadlock_8/status/2118018920057811349",
+          "stats": "138 赞 / 7 转 / 1 回复 / 5507 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2118107137847239016",
+          "stats": "Deadlock PC Gamer Top100（X News）"
+        }
+      ]
+    }
+  ],
+  "ideas": [
+    {
+      "id": "1",
+      "name": "十万份冲刺（100K Rush）",
+      "inspiration": {
+        "text": "Queen's Domain 两人小队 5 天破 10 万份",
+        "url": "https://x.com/QueensDomain_/status/2117972692238270566"
+      },
+      "coreGameplay": "左右滑把「买家」推进收银台，连对叠「两人小队」倍率；进度条冲到 100K。",
+      "adHook": "前 3 秒：柜台只坐两人，订单雨砸下，字幕「5 天 10 万，你顶得住吗？」",
+      "failSuccessPoint": "漏单→差评红灯；冲满→「100K COPIES」金章烟花。",
+      "difficulty": "低",
+      "whyFitUA": "独立圈最大励志数字，滑单模板一秒懂，适合假销量冲刺广告。"
+    },
+    {
+      "id": "2",
+      "name": "一日神作（Dayforge）",
+      "inspiration": {
+        "text": "xikhar 24 小时 AI 做完整可玩游戏",
+        "url": "https://x.com/xikhar/status/2117776295534997818"
+      },
+      "coreGameplay": "限时拖「模型砖」进流水线（文生图/3D/引擎），在倒计时归零前拼出可点「Play」按钮。",
+      "adHook": "前 3 秒：时钟写 24:00:00，零件飞入，字幕「Anyone can make games now？」",
+      "failSuccessPoint": "超时→半成品灰屏；点亮 Play→立即进 3 秒迷你关。",
+      "difficulty": "中",
+      "whyFitUA": "单帖破百万曝光，倒计时+流水线视觉强，争议本身就是钩子。"
+    },
+    {
+      "id": "3",
+      "name": "机票价签（Fare Tag）",
+      "inspiration": {
+        "text": "PS Store 黑五同款不同价 / airline pricing",
+        "url": "https://x.com/Pirat_Nation/status/2118072963195146656"
+      },
+      "coreGameplay": "快速点按翻开两张账号价签，选更低价那张；价差越缩窗口越短。",
+      "adHook": "前 3 秒：同一 Astro Bot 跳出 $33.59 / $39.59，字幕「同店同款，你买哪个？」",
+      "failSuccessPoint": "选贵→「你被动态定价了」红条；连对低价→登机牌式折扣券。",
+      "difficulty": "低",
+      "whyFitUA": "当天最易传播的商店梗，二选一价签=经典买量模板。"
+    },
+    {
+      "id": "4",
+      "name": "开放世界贴标（World Stickers）",
+      "inspiration": {
+        "text": "Ke_1234k 开放世界 Rating 梯队图",
+        "url": "https://x.com/Ke_1234k/status/2117996597808111733"
+      },
+      "coreGameplay": "把游戏封面拖到 S/A/B/C 格；拖错触发评论区弹幕嘲讽，拖对升「冷汗」特效。",
+      "adHook": "前 3 秒：空白梯队图+ Elden Ring 封面悬停，字幕「你敢贴 S 吗？」",
+      "failSuccessPoint": "贴错→弹幕「not open world」刷屏；全对→🥶 冰霜边框。",
+      "difficulty": "低",
+      "whyFitUA": "梯队图天然互动，拖放分级适合竖屏假玩法与 UGC 二创。"
+    },
+    {
+      "id": "5",
+      "name": "阳光小镇（Solar Town）",
+      "inspiration": {
+        "text": "Loftia solarpunk 发售冲 Steam 前列",
+        "url": "https://x.com/loftiadev/status/2117684345767072056"
+      },
+      "coreGameplay": "点按给屋顶装太阳能板，连线邻居电网；电满全镇亮灯。",
+      "adHook": "前 3 秒：灰扑扑小屋一装板就变绿洲，字幕「和朋友共建未来？」",
+      "failSuccessPoint": "断线→小镇停电；连满→Steam 榜单上升动画。",
+      "difficulty": "低",
+      "whyFitUA": "温馨视觉差异化，点按装板易做 HTML5，适合休闲买量。"
+    },
+    {
+      "id": "6",
+      "name": "审核赛道（Review Lane）",
+      "inspiration": {
+        "text": "Steam 审核数周 vs Roblox 秒过争议",
+        "url": "https://x.com/JNavok/status/2117777591201411428"
+      },
+      "coreGameplay": "左右滑：游戏包进「Steam 慢车道」或「Roblox 快车道」；快车道易塞垃圾需再扫雷。",
+      "adHook": "前 3 秒：两条传送带，一边塞车 12 天、一边秒过，字幕「你选哪边？」",
+      "failSuccessPoint": "全塞快车道→垃圾潮淹没；合理分流→双平台绿灯。",
+      "difficulty": "中",
+      "whyFitUA": "平台效率话题高共鸣，双车道对比一眼懂，适合开发者向买量。"
+    },
+    {
+      "id": "7",
+      "name": "速通席位（GDQ Seat）",
+      "inspiration": {
+        "text": "AGDQ 2027 名单公布并开放提交",
+        "url": "https://x.com/GamesDoneQuick/status/2118029313295417738"
+      },
+      "coreGameplay": "节奏点：在进度条上点「Split」，躲开掉帧与重置；冲进 GDQ 舞台灯。",
+      "adHook": "前 3 秒：大字 GO GO GO + 名单卷轴展开，字幕「你的 run 能上台吗？」",
+      "failSuccessPoint": "Miss→Reset 倒计时；Perfect split→捐赠条暴涨。",
+      "difficulty": "中",
+      "whyFitUA": "官方热帖+节奏点模板稳，慈善速通氛围适合短视频钩子。"
+    },
+    {
+      "id": "8",
+      "name": "未发售百强（Beta Hundred）",
+      "inspiration": {
+        "text": "Deadlock 未 1.0 却进 PC Gamer Top100",
+        "url": "https://x.com/PolymarketDota2/status/2118040588864135245"
+      },
+      "coreGameplay": "把「Invite Only」钥匙插进百强榜第 100 格；同时把落榜老将挡在门外。",
+      "adHook": "前 3 秒：榜单写 #100 Deadlock，旁白「还没正式发售？」",
+      "failSuccessPoint": "钥匙断→被踢回 Alpha；插稳→评论区「easy to bait」弹幕雨。",
+      "difficulty": "低",
+      "whyFitUA": "反差梗强，插钥匙动作简单，适合 Valve 粉向假玩法。"
+    },
+    {
+      "id": "9",
+      "name": "幻想别墅（Yam Villa）",
+      "inspiration": {
+        "text": "Yam（YC）AI 恋爱模拟：日均 3 小时",
+        "url": "https://x.com/shanzzh1/status/2117759259786297855"
+      },
+      "coreGameplay": "滑动描述卡片生成角色，拖进别墅约会场景；选对回复叠「3hrs/day」心形。",
+      "adHook": "前 3 秒：字幕「What is your wildest fantasy?」，别墅门打开。",
+      "failSuccessPoint": "回复翻车→角色冷场离场；连对→日活时钟停在 3:00+。",
+      "difficulty": "低",
+      "whyFitUA": "恋爱模拟钩子清晰，滑卡片+拖场景适合女性向买量素材。"
+    },
+    {
+      "id": "10",
+      "name": "五部通关锁（Penta Lock）",
+      "inspiration": {
+        "text": "Kai Cenat 开跑五部 GTA 马拉松、通关前不能下播",
+        "url": "https://x.com/Kaimafiaupdates/status/2118055063931498541"
+      },
+      "coreGameplay": "按顺序点亮 GTA III→VC→SA→IV→V 卡带；中途试图点「End Stream」会被锁回。",
+      "adHook": "前 3 秒：五个卡带锁住下播键，字幕「通关前别想下播」",
+      "failSuccessPoint": "强行下播→锁链弹回；五部全亮→烟花+马拉松完结条。",
+      "difficulty": "低",
+      "whyFitUA": "今日开跑热点，卡带点亮+下播锁视觉强，直播圈买量友好。"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "3",
+      "name": "机票价签（Fare Tag）",
+      "reason": "PS 黑五同款不同价是当天最易传播的商店梗，二选一价签一秒上手，和昨日「锁库孤岛」错开（比价 vs 拖库），素材可日更账号价差。"
+    },
+    {
+      "id": "2",
+      "name": "一日神作（Dayforge）",
+      "reason": "单帖约 105 万曝光，倒计时流水线视觉冲击强；「谁都能做游戏」争议本身就是点击诱饵，适合竖屏假挑战。"
+    },
+    {
+      "id": "4",
+      "name": "开放世界贴标（World Stickers）",
+      "reason": "梯队图近 31 万曝光+高回复，拖放分级是成熟买量模板，封面素材可无限换皮，UGC 二创友好。"
+    }
+  ],
+  "memes": [
+    {
+      "title": "航空公司定价进 PS Store",
+      "description": "同一黑五游戏不同账号看到不同价，玩家直接喊「airline pricing」；Astro Bot / Death Stranding 2 价差截图满天飞。",
+      "links": [
+        {
+          "label": "Pirat_Nation 原帖",
+          "url": "https://x.com/Pirat_Nation/status/2118072963195146656",
+          "stats": "1175 赞 / 153 转 / 118 回复 / 5.46 万 曝光"
+        }
+      ],
+      "playableAngle": "翻价签选低价的「Fare Tag」。"
+    },
+    {
+      "title": "Anyone can make games now",
+      "description": "24 小时 AI 做完整游戏帖破百万曝光，评论区在「酷」与「抢饭碗」之间互撕，成当日 AI×游戏口头禅。",
+      "links": [
+        {
+          "label": "xikhar 原帖",
+          "url": "https://x.com/xikhar/status/2117776295534997818",
+          "stats": "7631 赞 / 664 转 / 473 回复 / 105.16 万 曝光"
+        }
+      ],
+      "playableAngle": "限时拼流水线点亮 Play 的「Dayforge」。"
+    },
+    {
+      "title": "开放世界 Rating 🥶",
+      "description": "一张梯队图点燃评论区，大家争论谁算真正 open world、Elden Ring 该不该 S；「🥶‼️」成配图口癖。",
+      "links": [
+        {
+          "label": "Ke_1234k 原帖",
+          "url": "https://x.com/Ke_1234k/status/2117996597808111733",
+          "stats": "2151 赞 / 103 转 / 206 回复 / 31.07 万 曝光"
+        }
+      ],
+      "playableAngle": "拖封面贴 S/A/B/C 的「World Stickers」。"
+    },
+    {
+      "title": "Deadlock #100，Dota 2 落榜",
+      "description": "未正式发售的 Deadlock 挤进 PC Gamer Top100，Dota 2 没进；「invite-only 进百强 / 太好钓了」双线刷梗。",
+      "links": [
+        {
+          "label": "PolymarketDota2",
+          "url": "https://x.com/PolymarketDota2/status/2118040588864135245",
+          "stats": "168 赞 / 3 转 / 12 回复 / 1.05 万 曝光"
+        },
+        {
+          "label": "deadlock_8",
+          "url": "https://x.com/deadlock_8/status/2118018920057811349",
+          "stats": "138 赞 / 7 转 / 1 回复 / 5507 曝光"
+        }
+      ],
+      "playableAngle": "插 Invite 钥匙进第 100 格的「Beta Hundred」。"
+    },
+    {
+      "title": "Two types of friends",
+      "description": "「两种朋友」对比图继续翻红，饭圈/日常区都在配自己的左右对照图，模板简单好二创。",
+      "links": [
+        {
+          "label": "ranroxyrox 原帖",
+          "url": "https://x.com/ranroxyrox/status/2117906750003437595",
+          "stats": "1223 赞 / 89 转 / 0 回复 / 1.02 万 曝光"
+        }
+      ],
+      "playableAngle": "左右滑判定朋友类型，可换皮成游戏队友分类。"
+    },
+    {
+      "title": "通关前不能下播",
+      "description": "Kai Cenat 宣布连玩五部经典 GTA、通关前不能结束直播，粉丝把「Cannot end stream」当成锁播梗传播。",
+      "links": [
+        {
+          "label": "Kaimafiaupdates",
+          "url": "https://x.com/Kaimafiaupdates/status/2118055063931498541",
+          "stats": "181 赞 / 10 转 / 4 回复 / 9464 曝光"
+        }
+      ],
+      "playableAngle": "点亮五部卡带才能解锁下播的「Penta Lock」。"
+    },
+    {
+      "title": "Steam 审核要 12 个工作日",
+      "description": "Valve 承认审核可拖到约 12 个工作日，叠加 Roblox 秒过对比帖，独立开发者集体焦虑/吐槽「排队地狱」。",
+      "links": [
+        {
+          "label": "The Verge",
+          "url": "https://x.com/verge/status/2117749465062785318",
+          "stats": "33 赞 / 1 转 / 8 回复 / 6.23 万 曝光"
+        },
+        {
+          "label": "JNavok 对比",
+          "url": "https://x.com/JNavok/status/2117777591201411428",
+          "stats": "252 赞 / 8 转 / 143 回复 / 17.45 万 曝光"
+        }
+      ],
+      "playableAngle": "双车道分流的「Review Lane」。"
+    }
+  ],
+  "notes": "避开昨日已推：itch.io清AI、Steam锁库、WendyQuest、GTA请假/牛奶、Neptunia、时之笛缺MQ、Goated梯队、Weird Days 及对应选题/梗名。今日主线是 Queen's Domain 10万份、24h AI Sumiro、PS黑五动态定价、开放世界梯队图、Loftia、Steam/Roblox审核、AGDQ2027、Deadlock Top100；时之笛今日发售但互动帖偏弱故未单列热点。Yam 与 Kai 马拉松开跑作选题补充。"
+}
