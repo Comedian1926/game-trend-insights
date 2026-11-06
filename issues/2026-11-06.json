@@ -1,0 +1,386 @@
+{
+  "date": "2026-11-06",
+  "dataWindow": "北京时间 2026-11-05 09:00 – 2026-11-06 09:00 前后约24小时（周五晨报）",
+  "source": "X 公共搜索/新闻/全球趋势（Grok Bot 内置只读）",
+  "hotTopics": [
+    {
+      "title": "「下班只剩 47 分钟电」成人玩家共鸣帖爆火",
+      "description": "rizzle_xo 吐槽「盼了一天终于坐下，发现只剩大约 47 分钟精力」；评论区狂刷「上线聊两句就睡」「刚到 4 级就困」，成当日最大游戏圈共鸣帖。",
+      "links": [
+        {
+          "label": "rizzle_xo 原帖",
+          "url": "https://x.com/rizzle_xo/status/2118270923027419277",
+          "stats": "3.62 万赞 / 2882 转 / 183 回复 / 52.33 万曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2118431101891027153",
+          "stats": "Adult Gamers Post-Work Energy（X News）"
+        }
+      ]
+    },
+    {
+      "title": "Among Us 当内鬼焦虑帖破 7 万赞",
+      "description": "cocotresco 一句「以前恨当 imposter，焦虑爆棚」引出海量自白：有人直接坦白、有人挂机、有人连杀手局都怕；老游戏情绪又被翻出来。",
+      "links": [
+        {
+          "label": "cocotresco 原帖",
+          "url": "https://x.com/cocotresco/status/2118061671058977065",
+          "stats": "7.01 万赞 / 1.31 万转 / 176 回复 / 67.32 万曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2118252076627071091",
+          "stats": "Among Us Imposter Anxiety（X News）"
+        }
+      ]
+    },
+    {
+      "title": "Wendy's 出免费 15 小时像素 RPG，打 Boss 换真薯条",
+      "description": "《WendyQuest: Legend of the Four Corner Stones》上架 Steam/iOS/Android（美区）：打 Mech Corp、招 Baconator，通关主 Boss 可兑真食物码；Wario64 一条免费帖近 22 万曝光。",
+      "links": [
+        {
+          "label": "Wario64 免费帖",
+          "url": "https://x.com/Wario64/status/2117841859502620741",
+          "stats": "2360 赞 / 237 转 / 34 回复 / 22.50 万曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2118322547746128167",
+          "stats": "WendyQuest 真食物奖励（X News）"
+        }
+      ]
+    },
+    {
+      "title": "Rain World 团队《Airframe Ultra》悬停摩托战斗竞速发售",
+      "description": "Videocult 新作低多边形赛博朋克悬停摩托竞速上线 Steam/GOG，首发约 $9.74；官号「AIRFRAME ULTRA IS LIVE!!!!」和官号发售帖带动独立圈讨论。",
+      "links": [
+        {
+          "label": "Videocult 发售帖",
+          "url": "https://x.com/VideocultMedia/status/2118389720267067573",
+          "stats": "105 赞 / 19 转 / 4 回复 / 2854 曝光"
+        },
+        {
+          "label": "AirframeUltra 发售帖",
+          "url": "https://x.com/AirframeUltra/status/2118452063847711029",
+          "stats": "242 赞 / 25 转 / 2 回复 / 3145 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2118427433695355262",
+          "stats": "Airframe Ultra Launch（X News）"
+        }
+      ]
+    },
+    {
+      "title": "EA 一口气上架 25 款经典 PC：Road Rash / Theme Hospital 回归",
+      "description": "Steam/GOG/EA App 同步上线 25 款复刻，含 Road Rash 30 周年与多部 Wing Commander 周年版（修复 FMV），Theme Hospital、Ultima 系也在列，首发半价。",
+      "links": [
+        {
+          "label": "PCMR_LATAM 报道帖",
+          "url": "https://x.com/PCMR_LATAM/status/2118455253456585166",
+          "stats": "31 赞 / 6 转 / 1 回复 / 1305 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2118420614163870071",
+          "stats": "EA 25 Classics Restored（X News）"
+        }
+      ]
+    },
+    {
+      "title": "GTA VI 预下载约 212GB：玩家开始清库腾空间",
+      "description": "官方确认 11/10 起可预下载，体积约 212GB；玩家喊「删游戏还是买扩展盘」，前 WWE 选手等也加入「删库还是加盘」讨论。",
+      "links": [
+        {
+          "label": "DogManX31 预下载指南",
+          "url": "https://x.com/DogManX31/status/2118422740054982954",
+          "stats": "143 赞 / 19 转 / 3 回复 / 7250 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2118413816975479161",
+          "stats": "GTA VI Storage Crunch（X News）"
+        }
+      ]
+    },
+    {
+      "title": "独立开发者 #WishlistWednesday / #ShowcaseThursday 互推周",
+      "description": "周三愿望单、周四 Showcase 帖密集：开发者互贴 Steam 页、截图与试玩；同时有人吐槽 Steam 审核仍可拖到约 12 个工作日，社区互推成小团队曝光主渠道。",
+      "links": [
+        {
+          "label": "X News WishlistWednesday",
+          "url": "https://x.com/i/trending/2118182277717151876",
+          "stats": "Indie #WishlistWednesday（X News）"
+        },
+        {
+          "label": "X News ShowcaseThursday",
+          "url": "https://x.com/i/trending/2118322549272826348",
+          "stats": "Indie Showcase Thursday（X News）"
+        }
+      ]
+    },
+    {
+      "title": "Monster Energy「it's not that deep. crack a monster.」成全站梗",
+      "description": "品牌官号短句帖近 480 万曝光、4.8 万赞，二次创作涌入：怪物娘同人、双关段子、「restraining order」玩笑；游戏圈也跟着引用当减压口令。",
+      "links": [
+        {
+          "label": "MonsterEnergy 原帖",
+          "url": "https://x.com/MonsterEnergy/status/2118012916586676345",
+          "stats": "4.82 万赞 / 6530 转 / 1781 回复 / 474.78 万曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2118068702092386768",
+          "stats": "Crack a Monster（X News）"
+        }
+      ]
+    }
+  ],
+  "ideas": [
+    {
+      "id": "1",
+      "name": "电量倒计时（47 Min Drain）",
+      "inspiration": {
+        "text": "成人玩家「盼了一天只剩 47 分钟电」共鸣帖",
+        "url": "https://x.com/rizzle_xo/status/2118270923027419277"
+      },
+      "coreGameplay": "拖滑「精力条」给今晚想玩的关卡充电；时间走、精力掉，必须在归零前清完最短关。",
+      "adHook": "前 3 秒：闹钟响、沙发坐下，大字「47:00」开始闪烁倒计时。",
+      "failSuccessPoint": "精力空→直接黑屏「明天再说」；清完→「今晚通关」金章+夸张哈欠。",
+      "difficulty": "低",
+      "whyFitUA": "职场玩家超共鸣，倒计时+单一拖滑一眼懂，竖屏假挑战素材极好做。"
+    },
+    {
+      "id": "2",
+      "name": "卧底心跳（Imposter Pulse）",
+      "inspiration": {
+        "text": "Among Us 当内鬼焦虑帖破 7 万赞",
+        "url": "https://x.com/cocotresco/status/2118061671058977065"
+      },
+      "coreGameplay": "按住屏幕憋谎：会议提问时点选「合理借口」，心跳条别爆；被怀疑就甩锅/跑路。",
+      "adHook": "前 3 秒：红灯闪「YOU ARE THE IMPOSTER」，镜头怼到狂跳的心脏 UI。",
+      "failSuccessPoint": "心跳爆→直接被踢；顺利甩锅→全场安静+「SUS?」嘲讽音效。",
+      "difficulty": "低",
+      "whyFitUA": "社交恐慌+按住操作极适合 playable；老 IP 情绪仍有点击，失败反馈强。"
+    },
+    {
+      "id": "3",
+      "name": "汉堡打怪（Boss Nugget）",
+      "inspiration": {
+        "text": "WendyQuest 免费 RPG，打 Boss 兑真薯条",
+        "url": "https://x.com/Wario64/status/2117841859502620741"
+      },
+      "coreGameplay": "点按连击打像素 Mech 怪，血条清零弹出「FREE FRIES」券；连胜叠薯条倍率。",
+      "adHook": "前 3 秒：红发 Wendy 举拳，Boss 喊「SOGGY FRIES」，字幕「打赢免费吃」。",
+      "failSuccessPoint": "被 Mech 砸扁→薯条变湿；通关→真券飞出+收银机叮。",
+      "difficulty": "低",
+      "whyFitUA": "品牌×打怪×真奖励叙事，钩子极直白；点按战斗模板成熟、易出素材变体。"
+    },
+    {
+      "id": "4",
+      "name": "悬浮砸车（Hover Bash）",
+      "inspiration": {
+        "text": "Airframe Ultra 悬停摩托战斗竞速发售",
+        "url": "https://x.com/VideocultMedia/status/2118389720267067573"
+      },
+      "coreGameplay": "左右划漂移，点按挥管砸旁车；抢第一名同时别被反砸掉落。",
+      "adHook": "前 3 秒：霓虹悬停摩托贴地飞过，铁管抡向镜头「谁先掉谁输」。",
+      "failSuccessPoint": "被砸→车解体坠落；连砸三人→「ULTRA」慢动作过弯。",
+      "difficulty": "中",
+      "whyFitUA": "竞速+近战混合视觉冲击强，低多边形赛博风便宜出片，适合假「第一名挑战」。"
+    },
+    {
+      "id": "5",
+      "name": "仓库腾空（Storage Sweep）",
+      "inspiration": {
+        "text": "GTA VI 预下载约 212GB，玩家清库腾空间",
+        "url": "https://x.com/DogManX31/status/2118422740054982954"
+      },
+      "coreGameplay": "把游戏图标拖进「删除」或「外置盘」；目标腾出 212 格，误删「常玩三件套」会扣分。",
+      "adHook": "前 3 秒：进度条卡在 0%，大红字「NEED 212 GB」，库里游戏堆成山。",
+      "failSuccessPoint": "空间不够→下载失败红屏；腾够→「PRELOAD READY」绿勾。",
+      "difficulty": "低",
+      "whyFitUA": "GTA 热度+整理类玩法超好懂，拖放交互适合试玩广告，可日更「该删哪款」。"
+    },
+    {
+      "id": "6",
+      "name": "愿望单冲刺（Wishlist Dash）",
+      "inspiration": {
+        "text": "独立开发者 #WishlistWednesday 互推周",
+        "url": "https://x.com/i/trending/2118182277717151876"
+      },
+      "coreGameplay": "左右滑：心仪独立游进愿望单，低质/AI 垃圾划掉；限时叠「社区互推」倍率。",
+      "adHook": "前 3 秒：Steam 页雨点落下，字幕「今天帮几个独立游？」",
+      "failSuccessPoint": "误收垃圾游→审核队列堵死；收满优质→「WISHLISTED」烟花。",
+      "difficulty": "低",
+      "whyFitUA": "独立圈每周固定话题，左右滑模板极成熟，封面可无限换游戏缩略图。"
+    },
+    {
+      "id": "7",
+      "name": "磁带修复（Tape Vault）",
+      "inspiration": {
+        "text": "EA 复刻 25 款经典、修复上千小时 FMV 磁带",
+        "url": "https://x.com/i/trending/2118420614163870071"
+      },
+      "coreGameplay": "连线拼接断带、拖滑除尘；修完一段放出 Road Rash / Theme Hospital 怀旧片头。",
+      "adHook": "前 3 秒：尘封磁带库门开，字幕「2500 小时影像等你修」。",
+      "failSuccessPoint": "接错→画面雪花；修对→高清 FMV 突然亮起。",
+      "difficulty": "中",
+      "whyFitUA": "怀旧+解谜连线是买量常青模板，IP 片段本身就是钩子，适合「修完就能玩」叙事。"
+    },
+    {
+      "id": "8",
+      "name": "医院秒建（Ward Snap）",
+      "inspiration": {
+        "text": "Theme Hospital 随 EA 经典包回归",
+        "url": "https://x.com/PCMR_LATAM/status/2118455253456585166"
+      },
+      "coreGameplay": "快速拖放诊室/马桶/饮水机拼成合格病房，病人倒计时归零前治好。",
+      "adHook": "前 3 秒：病人排队吐彩虹，院长喊「30 秒建好科！」",
+      "failSuccessPoint": "堵死→病人暴走砸墙；建成→钞票雨+欢呼。",
+      "difficulty": "中",
+      "whyFitUA": "模拟经营缩成短关，放置类广告转化稳；Theme Hospital 情怀点击率高。"
+    },
+    {
+      "id": "9",
+      "name": "路怒对撞（Chain Clash）",
+      "inspiration": {
+        "text": "Road Rash 30 周年版回归 Steam",
+        "url": "https://x.com/PCMR_LATAM/status/2118455253456585166"
+      },
+      "coreGameplay": "点按挥链砸对面摩托，左右躲反击；先撞下三人者赢。",
+      "adHook": "前 3 秒：公路近景，铁链抡向镜头，字幕「别只是比赛——打下去」。",
+      "failSuccessPoint": "被砸下车→慢镜头翻滚；连击三人→「ROAD RASH」大字。",
+      "difficulty": "低",
+      "whyFitUA": "竞速+近战单点操作，暴力爽感直接，怀旧摩托皮可反复换装。"
+    },
+    {
+      "id": "10",
+      "name": "开罐减压（Crack Can）",
+      "inspiration": {
+        "text": "Monster「it's not that deep. crack a monster.」病毒帖",
+        "url": "https://x.com/MonsterEnergy/status/2118012916586676345"
+      },
+      "coreGameplay": "向上拉环开罐：力度刚好喷出「减压」特效清屏杂念；太猛炸脸、太轻打不开。",
+      "adHook": "前 3 秒：黑绿罐怼脸，大字「it's not that deep」然后「CRACK」。",
+      "failSuccessPoint": "拉爆→粘液糊屏；完美开罐→杂念碎裂+爽感音效。",
+      "difficulty": "低",
+      "whyFitUA": "全站级品牌梗，单手势玩法极适合 3 秒钩子，失败/爽点对比鲜明。"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "1",
+      "name": "电量倒计时（47 Min Drain）",
+      "reason": "单帖 52 万+曝光、职场玩家超共鸣；倒计时 UI 一眼懂，和昨日「机票价签」错开（情绪共鸣 vs 商店比价），最适合当天竖屏假挑战。"
+    },
+    {
+      "id": "2",
+      "name": "卧底心跳（Imposter Pulse）",
+      "reason": "7 万赞级情绪帖，按住憋谎+心跳条是成熟恐慌玩法；Among Us 认知零成本，失败被踢反馈强，素材可日更「会议题」。"
+    },
+    {
+      "id": "3",
+      "name": "汉堡打怪（Boss Nugget）",
+      "reason": "品牌免费 RPG+真食物奖励是稀缺钩子，点按打怪模板极稳；和昨日「一日神作」错开（品牌奇观 vs AI 流水线），封面辨识度高。"
+    }
+  ],
+  "memes": [
+    {
+      "title": "下班只剩 47 分钟电",
+      "description": "盼了一天坐下才发现精力只剩约 47 分钟；成人玩家集体认领，评论区变成「上线打招呼就睡」故事会。",
+      "links": [
+        {
+          "label": "rizzle_xo 原帖",
+          "url": "https://x.com/rizzle_xo/status/2118270923027419277",
+          "stats": "3.62 万赞 / 2882 转 / 183 回复 / 52.33 万曝光"
+        }
+      ],
+      "playableAngle": "电量倒计时关卡（47 Min Drain）。"
+    },
+    {
+      "title": "我以前恨当 Among Us 内鬼",
+      "description": "一句焦虑自白破 7 万赞，大家狂聊「直接坦白」「挂机」「杀手局更怕」；老游戏社交恐惧又火了一轮。",
+      "links": [
+        {
+          "label": "cocotresco 原帖",
+          "url": "https://x.com/cocotresco/status/2118061671058977065",
+          "stats": "7.01 万赞 / 1.31 万转 / 176 回复 / 67.32 万曝光"
+        }
+      ],
+      "playableAngle": "卧底心跳按住憋谎（Imposter Pulse）。"
+    },
+    {
+      "title": "it's not that deep. crack a monster.",
+      "description": "Monster Energy 官号短句近 475 万曝光，二次创作刷屏：怪物娘、双关玩笑、减压口令；游戏圈也拿来当「别想太多」咒语。",
+      "links": [
+        {
+          "label": "MonsterEnergy 原帖",
+          "url": "https://x.com/MonsterEnergy/status/2118012916586676345",
+          "stats": "4.82 万赞 / 6530 转 / 1781 回复 / 474.78 万曝光"
+        }
+      ],
+      "playableAngle": "开罐力度小游戏（Crack Can）。"
+    },
+    {
+      "title": "五年后我在 Kinokuniya",
+      "description": "kaisvrs 把面试经典问「五年后你在哪」答成「dekat kinokuniya」，印尼/马新区跟风填 comifuro、Lalaport、CGV，把宏大人生答成逛书店。",
+      "links": [
+        {
+          "label": "kaisvrs 原帖",
+          "url": "https://x.com/kaisvrs/status/2118118380892996014",
+          "stats": "4285 赞 / 1284 转 / 4 回复 / 10.22 万曝光"
+        }
+      ],
+      "playableAngle": "拖滑把「人生目标」塞进书店货架的对位消消乐。"
+    },
+    {
+      "title": "Omar 还在兴奋，人已经被 TikTok 甩了",
+      "description": "BBUK 里 Omar 期待出狱见 Rhianna，观众却早知道对方用 TikTok 评论分手；「当事人还蒙在鼓里」成晚会最大乐子。",
+      "links": [
+        {
+          "label": "HelloItsLevi 原帖",
+          "url": "https://x.com/HelloItsLevi/status/2118093219955143017",
+          "stats": "691 赞 / 15 转 / 3 回复 / 1.13 万曝光"
+        }
+      ],
+      "playableAngle": "限时翻评论区找「已分手」线索的阅读闯关。"
+    },
+    {
+      "title": "Letterboxd Top 4 对照自拍",
+      "description": "影迷把自拍和 Letterboxd 四宫格并排发，玩「脸 vs 片单反差」；帝国反击战贴自拍、恐怖片贴甜美照，审美错位即梗。",
+      "links": [
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2118448215456678117",
+          "stats": "Letterboxd Selfie vs Profile（X News）"
+        },
+        {
+          "label": "akshatpurohit01 提问帖",
+          "url": "https://x.com/akshatpurohit01/status/2118087036230144005",
+          "stats": "16 赞 / 5 引用 / 8 回复 / 2055 曝光"
+        }
+      ],
+      "playableAngle": "拖电影海报到自拍四宫格，匹配/错配得分。"
+    },
+    {
+      "title": "#ASongOrMovieForQuick 片名加速改写",
+      "description": "英国日常谐音挑战把歌名/片名改成「更快」主题，如 Who Framed Roger Rapid、Beverly Hilks Chop Chop，海报配图一起玩。",
+      "links": [
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2118275750235177380",
+          "stats": "#ASongOrMovieForQuick（X News）"
+        }
+      ],
+      "playableAngle": "限时把片名拖进「加速」槽，拼对谐音得分。"
+    }
+  ],
+  "notes": [
+    "数据来自 X 公共搜索/新闻/全球趋势；互动数为抓取时快照。",
+    "刻意避开 11/5 已推：Queen's Domain 10万份、AI 24h 做游戏、PS 航空定价、开放世界梯队、Loftia、Steam 12日审核、Deadlock 榜单。",
+    "热梗避开近日已用：弯臂比心、学习猴捂脸、airline pricing、Anyone can make games now。",
+    "全球趋势当日多为本地标签（日本电车、巴西直播等），游戏向以新闻与高互动帖为主。"
+  ]
+}
