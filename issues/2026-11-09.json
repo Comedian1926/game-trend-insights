@@ -1,0 +1,448 @@
+{
+  "date": "2026-11-09",
+  "dataWindow": "北京时间 2026-11-08 09:00 – 2026-11-09 09:00 前后约24小时（周一晨报）",
+  "source": "X 公共搜索/新闻/全球趋势（Grok Bot 内置只读）",
+  "hotTopics": [
+    {
+      "title": "OpenAI「Tomorrow.」原来是一台复古掌机：ModRetro Chromatic + Codex 造游戏",
+      "description": "OpenAI Developers 只发一句「Tomorrow.」，大家都以为是新模型，结果是 ModRetro Chromatic 联名掌机 11/9 在 OpenAI Supply Co. 开卖：能插真卡玩 GB/GBC，还能用 Codex 一句话生成小游戏（官方示例 FlapGPT、PizzaDash）。「AI 公司卖起 Game Boy」本身成了梗。",
+      "links": [
+        {
+          "label": "OpenAIDevs 预告",
+          "url": "https://x.com/OpenAIDevs/status/2119521359185478140",
+          "stats": "8279 赞 / 483 转 / 397 回复 / 57.41 万曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2119535667252215882",
+          "stats": "OpenAI Teases Retro Handheld with AI Game Creation（X News）"
+        }
+      ]
+    },
+    {
+      "title": "《使命召唤：现代战争 3》15 周年，快狙回忆刷屏",
+      "description": "2011-11-08 发售的 MW3 满 15 年，首日卖出 650 万份的老数据被翻出来；玩家晒快狙、Survival 模式和通宵回忆，「求重制」和「当年其实被骂」两派同框。",
+      "links": [
+        {
+          "label": "VideoGameHstry 纪念帖",
+          "url": "https://x.com/VideoGameHstry/status/2119444845119054011",
+          "stats": "2704 赞 / 305 转 / 54 回复 / 7.09 万曝光"
+        },
+        {
+          "label": "SoaRZelta 快狙怀旧",
+          "url": "https://x.com/SoaRZelta/status/2119462828566606077",
+          "stats": "263 赞 / 16 转 / 15 回复 / 3.50 万曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2119515552419053633",
+          "stats": "Modern Warfare 3 Marks 15th Anniversary（X News）"
+        }
+      ]
+    },
+    {
+      "title": "Kai Cenat 第一次玩圣安地列斯：「Ah sh*t, here we go again」",
+      "description": "为 11/19 的 GTA 6 热身，Kai Cenat 从 GTA III 一路连播，约 62 小时打完 III、罪恶都市和圣安地列斯；他第一次听到 CJ 那句经典台词时的反应被疯狂剪辑，老玩家一边笑一边羡慕「能第一次听到」。",
+      "links": [
+        {
+          "label": "SpurzXBT 直播片段",
+          "url": "https://x.com/SpurzXBT/status/2119229634776867279",
+          "stats": "5 赞 / 2 转 / 2 回复 / 740 曝光"
+        },
+        {
+          "label": "PrysmStreaming 进度",
+          "url": "https://x.com/PrysmStreaming/status/2119399753977110915",
+          "stats": "62 小时打完三部（发帖时互动较低）"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2119337065666191669",
+          "stats": "Kai Cenat Discovers GTA San Andreas Classics（X News）"
+        }
+      ]
+    },
+    {
+      "title": "The Game Awards 12/10 开始预热，提名下周揭晓",
+      "description": "TGA 官方账号发出新舞台预告，确认 12 月 10 日洛杉矶 Peacock Theater 开奖，提名约在 11 月中旬公布；GTA 6、独立游戏 Mina the Hollower 已被拿来押年度。",
+      "links": [
+        {
+          "label": "thegameawards 预告",
+          "url": "https://x.com/thegameawards/status/2119504746876994011",
+          "stats": "8062 赞 / 847 转 / 226 回复 / 18.69 万曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2119567610593358007",
+          "stats": "The Game Awards 2026 Builds Hype（X News）"
+        }
+      ]
+    },
+    {
+      "title": "《Escape From Playtime》原型泄露：满屏 AI 占位图标",
+      "description": "Poppy Playtime 衍生作的早期构建被扒出 AI 生成的道具图标和占位图，正赶上 Mob Entertainment 约 16 人裁员；CEO 回应合同方不得用 AI、上线前已清掉。社区一半失望、一半认为原型阶段很常见。",
+      "links": [
+        {
+          "label": "POPPYSANGEL_ 曝光帖",
+          "url": "https://x.com/POPPYSANGEL_/status/2119194231948337244",
+          "stats": "77 赞 / 25 转 / 1 回复 / 1251 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2119219679239500283",
+          "stats": "Leaked Prototype Reveals AI Assets（X News）"
+        }
+      ]
+    },
+    {
+      "title": "Deadlock 粉丝狂填 3x3 角色格子",
+      "description": "Valve 仍是邀请制的 Deadlock 同时在线冲到约 30 万后，画师们流行一张 3x3 模板：最好看设计、最好画、最想 ship……用 Q 版英雄填满九宫格，没玩过的人也跟着画。",
+      "links": [
+        {
+          "label": "X News：3x3 画格",
+          "url": "https://x.com/i/trending/2119349427676844323",
+          "stats": "Deadlock Fans Fill 3x3 Art Grids（X News）"
+        },
+        {
+          "label": "X News：排名梗图",
+          "url": "https://x.com/i/trending/2119385023967273361",
+          "stats": "Deadlock Fans Share Creative Hero Ranking Memes（X News）"
+        }
+      ]
+    },
+    {
+      "title": "「被视觉小说改变人生是软弱」引来一片反击",
+      "description": "有人嘲讽「一部视觉小说改变了你的人生」说明根基薄弱，粉丝搬出素晴らしき日々、Muv-Luv Alternative 现身说法，争论延伸到「所有艺术本来就是为了改变人」。",
+      "links": [
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2119476450738815060",
+          "stats": "Fans Defend Visual Novels' Power to Transform Lives（X News）"
+        }
+      ]
+    },
+    {
+      "title": "Valorant 周末高光：职业选手 s0m 一条「Oh yeah Baby」带起晒操作",
+      "description": "Riot 新补丁后，玩家集中晒 1v5 残局、ACE 和精准甩枪；职业选手 s0m 的片段几小时破 2000 赞，「金段最强」自嘲也一起刷屏。",
+      "links": [
+        {
+          "label": "s0mcs 片段",
+          "url": "https://x.com/s0mcs/status/2119581724585984472",
+          "stats": "2147 赞 / 29 转 / 21 回复 / 2.12 万曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2119473883438850520",
+          "stats": "Valorant Community Shares High-Skill Gameplay Clips（X News）"
+        }
+      ]
+    }
+  ],
+  "ideas": [
+    {
+      "id": "1",
+      "name": "背心小鹿（Vest Deer）",
+      "inspiration": {
+        "text": "15 万赞的「do not kill. Thanks」穿背心小鹿",
+        "url": "https://x.com/lilsmoresy_/status/2119249833261170968"
+      },
+      "coreGameplay": "拖动小鹿穿过车流与猎人视线，途中把正确的荧光背心拖到它身上才能安全通过。",
+      "adHook": "前 3 秒：林间小鹿站在路边，车灯逼近，屏幕大字「它只有一件背心」，手指拖出背心。",
+      "failSuccessPoint": "被车灯照到没穿背心→画面定格成「Thanks?」；安全到家→背心亮起「do not kill. Thanks」盖章。",
+      "difficulty": "低",
+      "whyFitUA": "拖拽+躲避是成熟买量玩法，原图自带萌感和反差，一张背心就是全部美术核心。"
+    },
+    {
+      "id": "2",
+      "name": "安全带狗（Buckle Pup）",
+      "inspiration": {
+        "text": "「安全带狗」成全站回复用视频",
+        "url": "https://x.com/anacomlula/status/2119093703277187568"
+      },
+      "coreGameplay": "把安全带从卡扣拉过狗狗身体并扣紧，随后急刹车测试，拉得越准狗越稳。",
+      "adHook": "前 3 秒：小狗坐副驾瞪眼看镜头，手指拉出安全带，字幕「Ready?」。",
+      "failSuccessPoint": "没扣好→急刹时狗弹到前挡、委屈脸；扣好→狗原地端坐、全屏「READY」表情包。",
+      "difficulty": "低",
+      "whyFitUA": "拉线/连线单操作，狗狗表情包 3 秒能懂，可换猫、仓鼠做无限关卡。"
+    },
+    {
+      "id": "3",
+      "name": "砸电视（TV Rage）",
+      "inspiration": {
+        "text": "「I just smashed my TV in front of 30 guests」复制帖",
+        "url": "https://x.com/wafflehouserfc/status/2119185568542474266"
+      },
+      "coreGameplay": "比赛直播中狂点蓄怒气，只能在对方进球的瞬间砸电视，误砸会把派对客人吓跑。",
+      "adHook": "前 3 秒：派对客厅、电视比分 0:3，手指蓄力，弹出「30 guests are watching」。",
+      "failSuccessPoint": "砸错时机→老婆抱娃离开、「I am no longer a fan」；砸准→慢镜头碎屏+客人鼓掌。",
+      "difficulty": "低",
+      "whyFitUA": "时机点击+破坏爽感，复制帖文案现成，体育赛季可按队伍换皮。"
+    },
+    {
+      "id": "4",
+      "name": "做何塞（Be José）",
+      "inspiration": {
+        "text": "马斯克：「我想当挖坑的那个 José」",
+        "url": "https://x.com/japan_nobunaga/status/2119068448798175465"
+      },
+      "coreGameplay": "一个人在挖坑、八个人围观：把围观者逐个拖去拿铲子，没人挖时坑会慢慢填回去。",
+      "adHook": "前 3 秒：经典八人围观一人挖坑画面，字幕「Be José」，手指把一人拖向铲子。",
+      "failSuccessPoint": "太久没人挖→工地被叫停；全员开挖→坑瞬间完成、全屏「8 Josés」。",
+      "difficulty": "低",
+      "whyFitUA": "拖拽分配+进度条，梗图人人见过，管理类假玩法广告常见且转化稳。"
+    },
+    {
+      "id": "5",
+      "name": "三卡造游戏（Prompt Cart）",
+      "inspiration": {
+        "text": "OpenAI × ModRetro 掌机：一句话生成小游戏",
+        "url": "https://x.com/OpenAIDevs/status/2119521359185478140"
+      },
+      "coreGameplay": "从「主角 / 动作 / 障碍」三组词卡各拖一张插进卡带，立刻生成一关 10 秒小游戏并试玩。",
+      "adHook": "前 3 秒：复古掌机屏幕写着「Tomorrow.」，手指把「猫+跳+披萨」三张卡插进去。",
+      "failSuccessPoint": "组合太离谱→卡带冒烟「GAME OVER」；通关→卡带贴上玩家起的游戏名。",
+      "difficulty": "中",
+      "whyFitUA": "合成/组合玩法+随机惊喜，AI 造游戏话题热，结束屏天然可分享。"
+    },
+    {
+      "id": "6",
+      "name": "十五年快狙（Quickscope 15）",
+      "inspiration": {
+        "text": "MW3 15 周年，快狙回忆刷屏",
+        "url": "https://x.com/SoaRZelta/status/2119462828566606077"
+      },
+      "coreGameplay": "按住开镜、松手开火，在 0.3 秒窗口内命中左右移动的靶子，越快分越高。",
+      "adHook": "前 3 秒：老式狙击镜里靶子一闪，字幕「2011 年的手速还在吗？」。",
+      "failSuccessPoint": "开镜太久→准星晃到脱靶；连续快狙→屏幕刷「QUICKSCOPE x5」。",
+      "difficulty": "低",
+      "whyFitUA": "按住-松手单操作，反应挑战类素材完播高，怀旧情绪可吸引老玩家。"
+    },
+    {
+      "id": "7",
+      "name": "又来一遍（Here We Go Again）",
+      "inspiration": {
+        "text": "Kai Cenat 首听「Ah sh*t, here we go again」",
+        "url": "https://x.com/SpurzXBT/status/2119229634776867279"
+      },
+      "coreGameplay": "骑小单车左右划躲开街头障碍，一撞就从起点重来，角色每次都叹「又来了」。",
+      "adHook": "前 3 秒：原创角色下车站在街口，字幕「Ah… here we go again」，一辆车冲过来。",
+      "failSuccessPoint": "撞车→回到起点、叹气计数+1；跑到终点→全屏「Finally」。",
+      "difficulty": "中",
+      "whyFitUA": "无尽躲避+失败重来本身就是笑点，适合做「你能少说几次又来了」的挑战素材（用原创角色与街区）。"
+    },
+    {
+      "id": "8",
+      "name": "AI 图标找茬（Slop Spotter）",
+      "inspiration": {
+        "text": "Escape From Playtime 原型被扒出 AI 图标",
+        "url": "https://x.com/POPPYSANGEL_/status/2119194231948337244"
+      },
+      "coreGameplay": "道具栏里混着几个有 AI 破绽的图标（六根手指、乱码文字、融化边缘），限时全部点出来。",
+      "adHook": "前 3 秒：九宫格道具栏，放大一个手电筒图标，上面长了第六根手指。",
+      "failSuccessPoint": "点错→老板拍桌「上线了！」；全找出→「Human made」金章。",
+      "difficulty": "低",
+      "whyFitUA": "找不同是经典买量模板，AI 内容争议当下有情绪，图标关卡可批量生产。"
+    },
+    {
+      "id": "9",
+      "name": "九宫格站队（Grid Pick）",
+      "inspiration": {
+        "text": "Deadlock 3x3 角色画格流行",
+        "url": "https://x.com/i/trending/2119349427676844323"
+      },
+      "coreGameplay": "把飞来的 Q 版原创角色拖进 3x3 格（最帅 / 最好画 / 最想打），格子填满后生成你的专属九宫格。",
+      "adHook": "前 3 秒：空白 3x3 模板，标题「最好看设计」，手指把一个角色拖进去。",
+      "failSuccessPoint": "放错格→角色气鼓鼓跳出来；填满→生成可分享海报。",
+      "difficulty": "低",
+      "whyFitUA": "拖拽分类零学习成本，结束分享图带社交传播，美术可复用。"
+    },
+    {
+      "id": "10",
+      "name": "1v5 残局（Clutch Five）",
+      "inspiration": {
+        "text": "Valorant 周末高光：1v5 与 ACE",
+        "url": "https://x.com/s0mcs/status/2119581724585984472"
+      },
+      "coreGameplay": "五个敌人依次从掩体探头，点击探头的人射击，打到平民或打空就失败。",
+      "adHook": "前 3 秒：屏幕顶端「1 vs 5」，倒计时 10 秒，第一个敌人探头。",
+      "failSuccessPoint": "被反杀→灰屏「so close」；全部命中→「ACE」+慢动作。",
+      "difficulty": "中",
+      "whyFitUA": "打地鼠式反应玩法，残局戏剧感强，失败重来门槛极低（用原创角色与场景）。"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "1",
+      "name": "背心小鹿（Vest Deer）",
+      "reason": "原帖 15.4 万赞、275 万曝光，当天最大的跨圈梗；拖拽过马路是最成熟的买量操作之一，萌+反差的钩子 1 秒就懂，美术只要一只鹿和一件背心。"
+    },
+    {
+      "id": "2",
+      "name": "安全带狗（Buckle Pup）",
+      "reason": "已经是全站通用回复视频（单条 8 万赞、原视频 1365 万曝光），拉安全带+急刹的因果反馈极直观，换动物就能日更新关卡。"
+    },
+    {
+      "id": "4",
+      "name": "做何塞（Be José）",
+      "reason": "老梗被马斯克重新点燃，「一人干八人看」的不平衡画面天然有挑战感，拖拽分配工人的假玩法做法简单、适合管理类素材。"
+    }
+  ],
+  "memes": [
+    {
+      "title": "do not kill. Thanks（穿背心的小鹿）",
+      "description": "一只名叫 Daisy 的宠物鹿穿着荧光背心，上面写着「Do not kill. Thanks」，礼貌又可怜，一晚上 15 万赞；大家拿它自比「出门在外的自己」，还有人后悔它没赶上万圣节 cosplay。",
+      "links": [
+        {
+          "label": "lilsmoresy_ 原帖",
+          "url": "https://x.com/lilsmoresy_/status/2119249833261170968",
+          "stats": "15.40 万赞 / 5831 转 / 206 回复 / 275.22 万曝光"
+        },
+        {
+          "label": "talicide 想 cos 小鹿",
+          "url": "https://x.com/talicide/status/2119515971178397705",
+          "stats": "38 赞 / 2 回复 / 373 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2119436670101512635",
+          "stats": "Deer Daisy Wears 'Do Not Kill Thanks' Vest（X News）"
+        }
+      ],
+      "playableAngle": "小鹿过马路/躲猎人，拖背心保命，见选题「背心小鹿」。"
+    },
+    {
+      "title": "安全带狗（Seatbelt Dog）",
+      "description": "一只系着安全带端坐副驾的杰克罗素，被当成「我准备好了」的万能回复视频，几乎每分钟都有人发；巴西网友一句「我还没学会用同一个视频回复」拿下 8 万赞。",
+      "links": [
+        {
+          "label": "anacomlula 爆款回复",
+          "url": "https://x.com/anacomlula/status/2119093703277187568",
+          "stats": "8.07 万赞 / 3839 转 / 3447 回复 / 170.89 万曝光"
+        },
+        {
+          "label": "acervodoguinhos 原视频",
+          "url": "https://x.com/acervodoguinhos/status/1986031760011079881",
+          "stats": "4.40 万赞 / 7599 转 / 162 回复 / 1365.02 万曝光（2025 年旧视频，本周翻红）"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2119278609299050551",
+          "stats": "Seatbelt Dog Video Becomes X's Fastest Meme（X News）"
+        }
+      ],
+      "playableAngle": "拉安全带扣好再急刹，见选题「安全带狗」；狗狗端坐画面可直接做结束屏。"
+    },
+    {
+      "title": "I just smashed my TV in front of 30 guests",
+      "description": "周末橄榄球赛季的复制帖：「我在 30 个客人面前砸了电视，老婆带着哭泣的孩子去住酒店，这支球队毁了我的人生，我不再是球迷了」，各队球迷只换队名就发，配合一条真砸电视视频一起火。",
+      "links": [
+        {
+          "label": "wafflehouserfc 版本",
+          "url": "https://x.com/wafflehouserfc/status/2119185568542474266",
+          "stats": "59 赞 / 2 转 / 19 回复 / 9693 曝光"
+        },
+        {
+          "label": "Still_Not_Ted 版本",
+          "url": "https://x.com/Still_Not_Ted/status/2119133249477701883",
+          "stats": "16 赞 / 2 转 / 7 回复 / 821 曝光"
+        },
+        {
+          "label": "X News：真砸电视视频",
+          "url": "https://x.com/i/trending/2119332375100600784",
+          "stats": "Fan Smashes TV in Furious Sports Meltdown（X News）"
+        }
+      ],
+      "playableAngle": "看准时机砸电视的点击游戏，失败文案直接用「I am no longer a fan」，见选题「砸电视」。"
+    },
+    {
+      "title": "Mom why is my sister named Lily",
+      "description": "「妈妈为什么妹妹叫 Lily？因为你妈喜欢百合。谢谢妈。不客气，XXX」——最后一句突然露出自己奇怪的名字，现在被改成各种花名、颜色和超长奶茶点单。",
+      "links": [
+        {
+          "label": "taewanmodel 版本",
+          "url": "https://x.com/taewanmodel/status/2119385546506268771",
+          "stats": "173 赞 / 6 转 / 5 回复 / 1854 曝光"
+        },
+        {
+          "label": "nnabipalsu_ 版本",
+          "url": "https://x.com/nnabipalsu_/status/2119432893856661909",
+          "stats": "49 赞 / 13 转 / 3 回复 / 515 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2119481828465610763",
+          "stats": "Flower Name Joke Evolves into Food Order Meme（X News）"
+        }
+      ],
+      "playableAngle": "可做「给家人起名」配对小游戏：把花、颜色、饮品拖给角色，最后揭晓「你自己的名字」反转。"
+    },
+    {
+      "title": "我想当 José（挖坑梗）",
+      "description": "马斯克在 Baron 投资大会上说想做「一人挖坑、八人围观」梗图里真正在挖的 José，梗图被重新翻红，还有人做了「José Musk」戴墨西哥帽版本。",
+      "links": [
+        {
+          "label": "japan_nobunaga 转述",
+          "url": "https://x.com/japan_nobunaga/status/2119068448798175465",
+          "stats": "540 赞 / 70 转 / 22 回复 / 1.41 万曝光"
+        },
+        {
+          "label": "x2kekiusmaximus 原话",
+          "url": "https://x.com/x2kekiusmaximus/status/2119241514626982011",
+          "stats": "519 赞 / 62 转 / 72 回复 / 1.38 万曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2119193391233654845",
+          "stats": "Elon Musk Wants to Be the Lone Worker in Classic Meme（X News）"
+        }
+      ],
+      "playableAngle": "把围观者拖去干活的工地管理假玩法，见选题「做何塞」。"
+    },
+    {
+      "title": "Make devil wey get hell fire die by fire? Oya na",
+      "description": "尼日利亚布道视频里「让拥有地狱之火的魔鬼被火烧死」的祷告，逻辑太绕被做成笑点，尼日利亚网友整天复读这句皮钦语。",
+      "links": [
+        {
+          "label": "emmyurcrush 复读",
+          "url": "https://x.com/emmyurcrush/status/2119438333457694932",
+          "stats": "49 赞 / 36 转 / 19 回复 / 671 曝光"
+        },
+        {
+          "label": "henny_ne 复读",
+          "url": "https://x.com/henny_ne/status/2119448228739567919",
+          "stats": "27 赞 / 10 转 / 6 回复 / 344 曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2119445831430357450",
+          "stats": "Nigerian Prayer Meme Commands Devil to Die by Fire（X News）"
+        }
+      ],
+      "playableAngle": ""
+    },
+    {
+      "title": "Ah sh*t, here we go again（重新爆红）",
+      "description": "Kai Cenat 第一次玩圣安地列斯时听到这句台词的兴奋反应被到处剪，老梗被新一代观众重新认识。",
+      "links": [
+        {
+          "label": "koyndex 感慨",
+          "url": "https://x.com/koyndex/status/2119513061866287582",
+          "stats": "0 赞 / 66 曝光（抓取时）"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2119337065666191669",
+          "stats": "Kai Cenat Discovers GTA San Andreas Classics（X News）"
+        }
+      ],
+      "playableAngle": "失败就回起点并播一句「here we go again」，见选题「又来一遍」（台词与角色请原创化）。"
+    }
+  ],
+  "notes": [
+    "数据来自 X 公共搜索/新闻/全球趋势；互动数为抓取时快照，约北京时间 2026-11-09 09:15。",
+    "刻意避开 11/8 及更早已推：钓鱼机制、标题画面 Top4、Gears 20 周年、#ScreenshotSaturday、DBD 差评、翻译黑话、GTA 6 单机 30 帧、时之笛画风；Queen's Domain 10 万份（11/5 已推）、Extra Life（11/7 已推）今日虽仍在专题里，不再单列。",
+    "热梗避开近日已用：牛顿第四定律、o'clock、JUST TRANSLATE IT、松鼠、bouncing baby boy、HACHIWARELINGS 等。",
+    "全球趋势当日几乎全是 NFL 周日（Packers / Chargers / Patriots 等），游戏向以新闻专题和高互动原帖为主；部分专题（Deadlock 画格、视觉小说之争、Mbappé 表情）未检索到可核实的高互动原帖，只挂 X News 链接。",
+    "安全带狗原视频发于 2025 年，本周因回复玩法翻红；Kai Cenat、José 相关原帖略早于窗口，但专题仍在更新。",
+    "涉及 GTA / COD / Valorant / Deadlock / Poppy Playtime 等 IP 的选题，落地素材请用原创角色、场景与文案，不涉及版权商用授权承诺。"
+  ]
+}
