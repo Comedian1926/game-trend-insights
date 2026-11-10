@@ -1,0 +1,409 @@
+{
+  "date": "2026-11-10",
+  "dataWindow": "北京时间 2026-11-09 09:00 – 2026-11-10 09:00 前后约24小时（周二晨报）",
+  "source": "X 公共搜索/新闻/全球趋势（Grok Bot 内置只读）",
+  "memes": [
+    {
+      "title": "Little Cousins（河马+鳄鱼表弟）",
+      "description": "AI 生成短片：河马宝宝和鳄鱼在街上蹦跳挥手，配文「What my little cousins do when they see me instead of just saying hello」；大家拿它形容亲戚小孩见面时的过度热情，衍生「抢手机」「告状」等二创。",
+      "links": [
+        {
+          "label": "accekid 原帖",
+          "url": "https://x.com/accekid/status/2119342124143448127",
+          "stats": "8.56 万赞 / 1.37 万转 / 1,267回复 / 468.27 万曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2119935198397632639",
+          "stats": "AI Hippo and Alligator GIF Captures Little Cousins' Wild Reactions（X News）"
+        }
+      ],
+      "playableAngle": "见面冲撞躲避：手指划开过热的表弟们，见选题「表弟冲撞」。"
+    },
+    {
+      "title": "Werey no believe him eyes（猴子捞锅翻车）",
+      "description": "猴子拿棍搅热锅，动作一歪整只愣住双take，尼日利亚口语配文「Werey no believe him eyes」；被当成「努力了但结果离谱」的万能失败反应 GIF。",
+      "links": [
+        {
+          "label": "MILLY17h 原帖",
+          "url": "https://x.com/MILLY17h/status/2119703455568646224",
+          "stats": "3.30 万赞 / 5,510转 / 1,125回复 / 101.01 万曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2119854312042234276",
+          "stats": "Monkey's Hilarious Pot Fail GIF Delights Online Crowd（X News）"
+        }
+      ],
+      "playableAngle": "时机点击捞东西，早/晚都翻车定格瞪眼，见选题「猴子捞锅」。"
+    },
+    {
+      "title": "Break your leg, Peanut（达阵舞喊麦）",
+      "description": "爸爸边喊「break your leg peanut」边指挥小孩跳达阵舞，被体育号二次传播后变成鼓励/鸡血口号；评论区复读这句比舞本身还火。",
+      "links": [
+        {
+          "label": "LvilleSprtsLive 传播帖",
+          "url": "https://x.com/LvilleSprtsLive/status/2119275338807013610",
+          "stats": "2.07 万赞 / 3,040转 / 251回复 / 277.17 万曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2119889818754932919",
+          "stats": "Dad Hypes Kids Through Hilarious Dance Routine in Viral Clip（X News）"
+        }
+      ],
+      "playableAngle": "节奏点击跟跳，喊对口号加分，漏拍就字幕「Peanut?」失败，可做假玩法跟跳广告。"
+    },
+    {
+      "title": "como me ve Pinterest（审美拼贴挑战）",
+      "description": "西语圈连锁：贴歌词/角色/歌手/花朵四格，问「como me ve pinterest」，朋友引用接力；本质是把个人审美做成可扫一眼的拼贴身份卡。",
+      "links": [
+        {
+          "label": "t0ntaA_ 示例帖",
+          "url": "https://x.com/t0ntaA_/status/2119862088424178075",
+          "stats": "6赞 / 0转 / 1回复 / 308曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2119919894825431179",
+          "stats": "Pinterest Aesthetic Challenge Blends Profiles and Tastes on X（X News）"
+        }
+      ],
+      "playableAngle": "四格拖拽配对审美卡，见选题「审美四格」。"
+    },
+    {
+      "title": "Fable 5 vs Fable 5.2（模型换代对比）",
+      "description": "Anthropic 放出 Claude Fable 5.2 试用窗口，对比视频标题直接写「5 months difference」；名字像游戏续作，实际是 AI 模型迭代梗，和「版本号越改越怪」吐槽叠在一起。",
+      "links": [
+        {
+          "label": "omni 对比视频",
+          "url": "https://x.com/omni1896837/status/2119900615447044494",
+          "stats": "419赞 / 7转 / 7回复 / 2.68 万曝光"
+        }
+      ],
+      "playableAngle": "左右滑动对比「旧版/新版」输出，见选题「模型换代」。"
+    },
+    {
+      "title": "Go to your gif and type monkey（猴子 GIF 接力）",
+      "description": "帖子号召大家在 GIF 搜索框打 monkey 再引用任意结果，「They are all funny」——把随机猴子动图变成当日 collective 玩法。",
+      "links": [
+        {
+          "label": "Bigwavee00 原帖",
+          "url": "https://x.com/Bigwavee00/status/2119883832585290169",
+          "stats": "88赞 / 52转 / 20回复 / 2,961曝光"
+        }
+      ],
+      "playableAngle": "抽卡式翻猴子卡片，和捞锅梗可共用美术。"
+    },
+    {
+      "title": "Deadlock invite（她要的是邀请码）",
+      "description": "Valve Deadlock 仍邀请制，一句「she only wants you for the deadlock invite」把交友动机写成抢码笑话；和粉丝画、排队求邀请一起刷屏。",
+      "links": [
+        {
+          "label": "cowsandwich 短帖",
+          "url": "https://x.com/cowsandwich/status/2119957980938408293",
+          "stats": "1赞 / 0转 / 0回复 / 8曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2119949234002936114",
+          "stats": "Valve's Deadlock Fuels Wave of Fan Art and Hype（X News）"
+        }
+      ],
+      "playableAngle": "抢邀请信封跑酷/抓取，见选题「邀请抢位」。"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "1",
+      "name": "表弟冲撞（Cousin Rush）",
+      "reason": "原帖 8.5 万赞、468 万曝光，当天最大跨圈梗；冲撞躲避+节奏点击一眼懂，河马/鳄鱼造型自带钩子，适合假玩法广告前 3 秒。"
+    },
+    {
+      "id": "2",
+      "name": "猴子捞锅（Monkey Scoop）",
+      "reason": "单帖 3.3 万赞、百万曝光，失败定格表情极强；时机条玩法制作成本低，失败反馈就是整条广告的笑点。"
+    },
+    {
+      "id": "3",
+      "name": "纸皮纳塔园（Piñata Patch）",
+      "reason": "Rare 官方 20 周年帖近 2900 赞且 Game Pass 回流，园艺吸引生物是经典合成/收集买量结构，纸皮纳塔视觉差异大、关卡好扩展。"
+    }
+  ],
+  "hotTopics": [
+    {
+      "title": "青沼英二划出塞尔达三流派：开放空域 / 时之笛叙事 / 俯视角",
+      "description": "配合《时之笛》重制采访，制作人把系列拆成 BotW 式开放、OoT 式叙事成长、经典 2D 俯视三条线；粉丝立刻站队争论「哪条才是真塞尔达」。",
+      "links": [
+        {
+          "label": "Genki_JPN 摘要帖",
+          "url": "https://x.com/Genki_JPN/status/2119736464179339318",
+          "stats": "4,582赞 / 374转 / 143回复 / 16.80 万曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2119822017213948183",
+          "stats": "Aonuma Divides Zelda into Three Core Styles Amid Ocarina Remake Buzz（X News）"
+        }
+      ]
+    },
+    {
+      "title": "日本限定 PlayStation Portal Player：加神秘内置存储、去掉 Remote",
+      "description": "索尼发售 Midnight Black 版 Portal Player（约 ¥39,800，12/10），内置存储「供未来功能」却不说容量；名字去掉 Remote，引发离线/本地应用猜测。",
+      "links": [
+        {
+          "label": "Genki_JPN 爆料帖",
+          "url": "https://x.com/Genki_JPN/status/2119641567803703312",
+          "stats": "1,273赞 / 130转 / 63回复 / 16.24 万曝光"
+        },
+        {
+          "label": "VGC 报道",
+          "url": "https://x.com/VGC_News/status/2119742288289034545",
+          "stats": "93赞 / 17转 / 4回复 / 8,919曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2119763647492952573",
+          "stats": "Sony Unveils Japan-Only PlayStation Portal Player with Built-In Storage（X News）"
+        }
+      ]
+    },
+    {
+      "title": "《Viva Piñata》20 周年：Rare 发派对图，Game Pass Essential 11/15 回流",
+      "description": "Rare 回顾「让人爱上会游泳的纸皮动物」；原作与 Trouble in Paradise 随 Xbox 25 周年活动进 Game Pass Essential，怀旧种植模拟再起。",
+      "links": [
+        {
+          "label": "RareLtd 官方",
+          "url": "https://x.com/RareLtd/status/2119881217361244669",
+          "stats": "2,877赞 / 547转 / 148回复 / 6.05 万曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2119919893185515730",
+          "stats": "Viva Piñata Celebrates 20th Anniversary with Fan Tributes and Game Pass Return（X News）"
+        }
+      ]
+    },
+    {
+      "title": "《Casualties: Unknown》正式版上线：Demo 50 万+ 玩家后的洞穴生存",
+      "description": "像素风洞穴生存完整版上 Steam，流血感染断肢与 11 层程序关卡；粉丝发 cosplay、同人漫画庆祝「full release today」。",
+      "links": [
+        {
+          "label": "_temmmi_ 同人庆贺",
+          "url": "https://x.com/_temmmi_/status/2119645966043144340",
+          "stats": "311赞 / 19转 / 2回复 / 3,034曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2119869956053414208",
+          "stats": "Casualties: Unknown Full Release Thrills Fans on Steam（X News）"
+        }
+      ]
+    },
+    {
+      "title": "#DemoMonday 周更：独立开发者扎堆丢试玩",
+      "description": "周一惯例：indieforgames 等账号喊「Drop your game」，Steam/itch 试玩链接刷屏；X News 也把 Demo Monday 写成游戏向专题。",
+      "links": [
+        {
+          "label": "indieforgames 征集",
+          "url": "https://x.com/indieforgames/status/2119825731756900593",
+          "stats": "84赞 / 9转 / 123回复 / 5,545曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2119771685897285899",
+          "stats": "Indie Devs Share Demos in Weekly #DemoMonday Tradition（X News）"
+        }
+      ]
+    },
+    {
+      "title": "《战神：诸神黄昏》四周年：短信鹿四季图，工作室 ID 已写 Laufey",
+      "description": "Santa Monica 发四季雄鹿贺图感谢社区；账号简介指向下一代主线《God of War Laufey》（讨论中的 2027/5），粉丝同人与 FAMILY 同人志同步刷屏。",
+      "links": [
+        {
+          "label": "SonySantaMonica 官方",
+          "url": "https://x.com/SonySantaMonica/status/2119822429929271683",
+          "stats": "3,099赞 / 299转 / 60回复 / 8.26 万曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2119827340272476315",
+          "stats": "God of War Ragnarök Celebrates Fourth Anniversary with Fan Tributes（X News）"
+        }
+      ]
+    },
+    {
+      "title": "Claude「Fable 5.2」灰度试用：名字像游戏，实际是模型换代",
+      "description": "全球趋势出现 Fable 5.2；对比视频把 5 与 5.2 差 5 个月做成「续作预告」模因，和游戏圈命名习惯撞车，顺带带动 vibe coding 讨论。",
+      "links": [
+        {
+          "label": "omni 对比视频",
+          "url": "https://x.com/omni1896837/status/2119900615447044494",
+          "stats": "419赞 / 7转 / 7回复 / 2.68 万曝光"
+        },
+        {
+          "label": "全球趋势",
+          "url": "https://x.com/search?q=Fable%205.2",
+          "stats": "趋势词：Fable 5.2"
+        }
+      ]
+    },
+    {
+      "title": "GPT-6.2 Sol 灰度：一句话生成可交互 Three.js 单文件 3D 村",
+      "description": "部分 ChatGPT 用户被路由到 Sol，晒樱花村/黑洞等单 HTML 场景；和上周 OpenAI「Tomorrow」掌机话题连成「AI 直接出可玩内容」叙事。",
+      "links": [
+        {
+          "label": "adityaa_behera 实测",
+          "url": "https://x.com/adityaa_behera/status/2119397747124252806",
+          "stats": "39赞 / 3转 / 3回复 / 5,847曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2119422870476542168",
+          "stats": "ChatGPT Users Get Surprise Access to GPT-6.2 Sol's Stunning 3D Scenes（X News）"
+        }
+      ]
+    }
+  ],
+  "ideas": [
+    {
+      "id": "1",
+      "name": "表弟冲撞（Cousin Rush）",
+      "inspiration": {
+        "text": "8.5 万赞 AI 河马+鳄鱼「小表弟见面不打招呼直接开蹦」",
+        "url": "https://x.com/accekid/status/2119342124143448127"
+      },
+      "coreGameplay": "左右滑动躲开冲过来的河马/鳄鱼表弟，偶尔点一下接住礼物或挡开抢手机的手。",
+      "adHook": "前 3 秒：安静街道，字幕「正常打招呼？」；两只卡通动物蹦着冲镜，手指慌忙左右划。",
+      "failSuccessPoint": "被撞飞→定格合影「HELLO!!!」；连躲成功→进屋关门盖章「终于说上话了」。",
+      "difficulty": "低",
+      "whyFitUA": "躲避是最成熟买量操作，原梗自带家庭共鸣和夸张动作，角色只需两只简模动物。"
+    },
+    {
+      "id": "2",
+      "name": "猴子捞锅（Monkey Scoop）",
+      "inspiration": {
+        "text": "3.3 万赞猴子搅锅翻车 GIF「Werey no believe him eyes」",
+        "url": "https://x.com/MILLY17h/status/2119703455568646224"
+      },
+      "coreGameplay": "时机条落在绿区时点击捞勺；偏早烫手、偏晚打翻，只留一次完美捞起。",
+      "adHook": "前 3 秒：蒸汽锅特写，猴子举棍蓄力，大字「别眨眼」，玩家点一下立刻翻车定格瞪眼。",
+      "failSuccessPoint": "失败→慢动作双take+字幕 Werey?!；成功→锅里弹出金币/香蕉雨。",
+      "difficulty": "低",
+      "whyFitUA": "单指时机挑战，失败表情即广告笑点，素材可日更不同锅里内容。"
+    },
+    {
+      "id": "3",
+      "name": "纸皮纳塔园（Piñata Patch）",
+      "inspiration": {
+        "text": "Rare《Viva Piñata》20 周年官方贺帖 + Game Pass 回流",
+        "url": "https://x.com/RareLtd/status/2119881217361244669"
+      },
+      "coreGameplay": "拖种子/糖果到地块，吸引对应颜色的纸皮纳塔；错误组合招来害虫要快速拍掉。",
+      "adHook": "前 3 秒：空花园，拖一颗糖果下去，纸皮小动物从地里「啵」地弹出来。",
+      "failSuccessPoint": "招错害虫啃园→纸皮化成纸屑；凑齐三只→派对烟花与评分章。",
+      "difficulty": "中",
+      "whyFitUA": "种植/合成收集是买量常青结构，纸皮视觉独特，关卡用颜色配方就能扩展。"
+    },
+    {
+      "id": "4",
+      "name": "神秘存储（Portal Slot）",
+      "inspiration": {
+        "text": "日本限定 Portal Player「内置存储供未来功能」引发猜测",
+        "url": "https://x.com/Genki_JPN/status/2119641567803703312"
+      },
+      "coreGameplay": "在掌机虚位里拖入未知图标（离线包/云存档/神秘 App），填满进度条解锁下一屏；塞错就过热。",
+      "adHook": "前 3 秒：掌机背面打开，空洞闪「??? STORAGE」，手指把问号方块推进去。",
+      "failSuccessPoint": "塞错→冒烟黑屏「Remote?」；全对→亮起新功能灯并弹出挑战分。",
+      "difficulty": "低",
+      "whyFitUA": "插槽/排序假玩法极短，神秘感本身是钩子，不依赖真实主机授权也能做原创掌机皮。"
+    },
+    {
+      "id": "5",
+      "name": "三系抽卡（Zelda Tri-Pick）",
+      "inspiration": {
+        "text": "青沼英二把塞尔达分成开放/叙事/俯视三流派",
+        "url": "https://x.com/Genki_JPN/status/2119736464179339318"
+      },
+      "coreGameplay": "三张风格卡轮换滑出，按关卡目标点选正确流派（开阔探索/紧叙事/俯视解谜），连对升级。",
+      "adHook": "前 3 秒：三扇门分别写 Open-Air / Story / Top-Down，倒计时选一扇冲进去。",
+      "failSuccessPoint": "选错→门后是错位玩法吐槽弹幕；选对→对应画风关卡速通奖章。",
+      "difficulty": "低",
+      "whyFitUA": "左右/点选站队天然适合广告，三风格可用原创剪影避免 IP，钩子是「你属于哪一派」。"
+    },
+    {
+      "id": "6",
+      "name": "试体下坠（Expie Drop）",
+      "inspiration": {
+        "text": "《Casualties: Unknown》正式版上线，洞穴试体生存热议",
+        "url": "https://x.com/_temmmi_/status/2119645966043144340"
+      },
+      "coreGameplay": "下落中左右躲尖刺与感染雾，点按包扎止血；落地搜刮三件物资再冲下一层。",
+      "adHook": "前 3 秒：胶囊打开，像素小人坠落，血条闪红，大字「你是消耗品」。",
+      "failSuccessPoint": "感染爆表→实验失败章；清层→电梯上升+物资评分。",
+      "difficulty": "中",
+      "whyFitUA": "下落躲避+轻资源管理，失败残酷感强，适合「再试一次」循环广告。"
+    },
+    {
+      "id": "7",
+      "name": "试玩电梯（Demo Pitch）",
+      "inspiration": {
+        "text": "#DemoMonday 独立开发者集中丢试玩与截图",
+        "url": "https://x.com/indieforgames/status/2119825731756900593"
+      },
+      "coreGameplay": "30 秒内把玩法图标拖进「Pitch」框排好顺序（钩子→操作→爽点），时间到自动播放评价。",
+      "adHook": "前 3 秒：电梯门开，评委举分牌，倒计时 30，玩家狂拖三个图标。",
+      "failSuccessPoint": "顺序乱→评委打盹「Wishlist?」；完美序→绿灯 Wishlist 暴涨动画。",
+      "difficulty": "低",
+      "whyFitUA": "排序/限时拼装假玩法，周一热点可复用，面向开发者/玩家都有梗。"
+    },
+    {
+      "id": "8",
+      "name": "邀请抢位（Invite Scramble）",
+      "inspiration": {
+        "text": "Deadlock 邀请制梗「她要的其实是 invite」",
+        "url": "https://x.com/cowsandwich/status/2119957980938408293"
+      },
+      "coreGameplay": "在人群中点选飞过的邀请信封，躲开假信封；连点三封真邀请过关。",
+      "adHook": "前 3 秒：约会字幕被撕开，露出「DEADLOCK INVITE?」，信封满屏飞。",
+      "failSuccessPoint": "点到假邀请→对方转身离去；集齐→大门打开绿光「You're in」。",
+      "difficulty": "低",
+      "whyFitUA": "点选/反应力素材，邀请稀缺感本身是钩子，角色用原创英雄剪影即可。"
+    },
+    {
+      "id": "9",
+      "name": "一文件村落（One-File Village）",
+      "inspiration": {
+        "text": "GPT-6.2 Sol 一句话生成单 HTML Three.js 3D 村",
+        "url": "https://x.com/adityaa_behera/status/2119397747124252806"
+      },
+      "coreGameplay": "把樱花、河灯、行人三个积木拖进空白 HTML 框，点「Run」看昼夜切换；缺一件就渲染崩坏。",
+      "adHook": "前 3 秒：空白浏览器页，打字机写出一行 prompt，拖积木进去瞬间长出小村子。",
+      "failSuccessPoint": "缺件→红屏 error；齐全→夜景亮窗+评分「Single File Clear」。",
+      "difficulty": "中",
+      "whyFitUA": "拖拽组装+即时反馈，蹭 AI 造可玩内容热度，视觉奇观强。"
+    },
+    {
+      "id": "10",
+      "name": "模型换代（Fable Swap）",
+      "inspiration": {
+        "text": "Fable 5 vs 5.2「五个月差距」对比视频",
+        "url": "https://x.com/omni1896837/status/2119900615447044494"
+      },
+      "coreGameplay": "左右滑动对比旧/新输出图，在限定次数内找出三项升级点并勾选；勾错扣版本号。",
+      "adHook": "前 3 秒：左右分屏写 5 / 5.2，滑一下画面清晰度暴涨，字幕「5 months」。",
+      "failSuccessPoint": "找错→版本回滚到「5.0??」；找全→解锁 5.2 徽章与加速条。",
+      "difficulty": "低",
+      "whyFitUA": "找茬/对比是轻量买量玩法，热点名自带「续作感」，不依赖真实模型授权。"
+    }
+  ],
+  "notes": [
+    "数据来自 X 公共搜索/新闻/全球趋势；互动数为抓取时快照，约北京时间 2026-11-10 09:05。",
+    "刻意避开 11/9 及更早已推：背心小鹿、安全带狗、砸电视、做何塞、MW3 15 周年快狙、TGA、Escape From Playtime AI 图标、Deadlock 3x3 站队、Kai Cenat「here we go again」、Mom why Lily、OpenAI Chromatic 掌机主推（今日仅在 Sol 话题里顺带提及）。",
+    "Queen's Domain 销量/好评潮在 11/5 已推过，本期热点不单列，避免重复选题。",
+    "热梗避开近日已用：弯臂比心、Ah shit here we go again、Lily 点餐名梗、牛顿第四定律等。",
+    "「Break your leg Peanut」原传播帖略早于窗口，但 X News 与引用链在窗口内仍高热，故收录。",
+    "Deadlock / Zelda / PlayStation / Rare 等 IP 选题落地请用原创角色与文案，不涉及版权商用授权承诺。",
+    "全球趋势当日混杂 NFL、日区标签与 Fable 5.2；游戏向以新闻专题+高互动原帖为主。"
+  ]
+}
