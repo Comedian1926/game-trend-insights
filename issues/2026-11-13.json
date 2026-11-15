@@ -1,0 +1,377 @@
+{
+  "date": "2026-11-13",
+  "dataWindow": "北京时间 2026-11-12 09:00 – 2026-11-13 09:00 前后约24小时（周五晨报）",
+  "source": "X 公共搜索/新闻/全球趋势（Grok Bot 内置只读）",
+  "memes": [
+    {
+      "title": "给杰森留牛奶和饼干",
+      "description": "2026 年最后一次「13 号星期五」，时间线把杀人狂杰森写成圣诞老人式惯例：晚上出门前在门口放牛奶和饼干，有人还画成被泰迪熊、恐龙连体衣和 Hello Kitty 围住的软萌版。Shelby 一条「Leaving milk & cookies out for Jason tonight」成了当天最完整的视觉样本。",
+      "links": [
+        {
+          "label": "shelbyspooks 原帖",
+          "url": "https://x.com/shelbyspooks/status/2120952546907000839",
+          "stats": "294赞 / 72转 / 5回复 / 3,784曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2121017841986261476",
+          "stats": "Fans Turn Jason Voorhees into Cozy Friday the 13th Mascot（X News）"
+        }
+      ],
+      "playableAngle": "天黑前把牛奶和饼干拖到门口垫子上，迟到或摆错会撞上面具人；见选题「饼干夜访」。"
+    },
+    {
+      "title": "照片20枚（单帖可传 20 张图）",
+      "description": "X 把沿用十年的「一帖最多 4 张图/视频」悄悄改成 20 张，日韩趋势榜同时出现「写真20枚 / 画像20枚 / 사진 20장」。有人立刻贴满拉面店打卡，有人开始抱怨「谁要滑 20 张」，新闻专题把它写成十年限制终于解开。",
+      "links": [
+        {
+          "label": "momoirof 试贴帖",
+          "url": "https://x.com/momoirof/status/2120999524332404913",
+          "stats": "51赞 / 1转 / 0回复 / 1,154曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2120955503157395548",
+          "stats": "X Boosts Photo and Video Limit to 20 Per Post After Decade（X News）"
+        }
+      ],
+      "playableAngle": "限时把 20 张图拖进格子再发出去，塞满得分、超格或发空失败；见选题「二十连贴」。"
+    },
+    {
+      "title": "会社休み（Outlook 罢工就放假）",
+      "description": "11 月 12 日 Microsoft 365 全球故障，Outlook、Teams、SharePoint、Copilot 一起倒下，Downdetector 投诉一度接近 13 万。日区趋势直接把「会社休み」「会社のメール」「MS障害」送上榜，有人认真问「那今天是不是该放假」。",
+      "links": [
+        {
+          "label": "popo12957 解释帖",
+          "url": "https://x.com/popo12957/status/2121027156742668464",
+          "stats": "1赞 / 1转 / 2回复 / 2,059曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2120942648349340125",
+          "stats": "Microsoft Outlook Outage Hits Workday Email Access Worldwide（X News）"
+        }
+      ],
+      "playableAngle": "把卡在发件箱里的邮件往外拖，在上班铃响前全部发出；见选题「邮箱抢修」。"
+    },
+    {
+      "title": "杰森今晚必须上门",
+      "description": "和「留饼干」配套的另一句口头禅：有人直接写「要是杰森本人不来我家，这次 13 号星期五我一概不认」。把恐怖片日程做成验收清单，评论区在认真讨论要不要把营地辅导员也一起摆出去。",
+      "links": [
+        {
+          "label": "MAGGOTTREE 原帖",
+          "url": "https://x.com/MAGGOTTREE/status/2121026828500406780",
+          "stats": "103赞 / 15转 / 4回复 / 810曝光"
+        }
+      ],
+      "playableAngle": "可做成「饼干夜访」的另一结局：东西摆对后面具人会来盖章，摆错或空盘则整晚不出现，挑战失败。"
+    },
+    {
+      "title": "#セブンイレブンで発見たまごっち",
+      "description": "为庆祝电子宠物 30 周年，日本 7-Eleven 开卖联名馒头、卡片和包袋，标签冲上全球趋势。有人调侃：当年是你喂它，30 年后变成你在便利店货架上找它。单帖互动不高，但标签和「发现」仪式本身已经够做素材。",
+      "links": [
+        {
+          "label": "iamroboda89 评论帖",
+          "url": "https://x.com/iamroboda89/status/2121034770213933464",
+          "stats": "3赞 / 0转 / 1回复 / 105曝光"
+        },
+        {
+          "label": "全球趋势（#セブンイレブンで発見たまごっち）",
+          "url": "https://x.com/search?q=%23%E3%82%BB%E3%83%96%E3%83%B3%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3%E3%81%A7%E7%99%BA%E8%A6%8B%E3%81%9F%E3%81%BE%E3%81%94%E3%81%A3%E3%81%A1",
+          "stats": "X 全球趋势上榜"
+        }
+      ],
+      "playableAngle": "在便利店货架上找出正确补给，拖给饿扁的电子宠物；见选题「宠物补给」。"
+    },
+    {
+      "title": "别忘了把营地辅导员和饼干一起摆出去",
+      "description": "Horror 账号把圣诞惯例改写成恐怖片笑话：「13 号星期五前夜，别忘了给杰森留下营地辅导员和饼干」。图文一起传，比单纯喊口号更像一条可执行的节日清单。",
+      "links": [
+        {
+          "label": "DyerbolicalDB 原帖",
+          "url": "https://x.com/DyerbolicalDB/status/2120869438547235178",
+          "stats": "111赞 / 20转 / 7回复 / 3,131曝光"
+        }
+      ],
+      "playableAngle": "「饼干夜访」的加难模式：门口要同时摆对食物和「诱饵」人偶，少一样就被追出画面。"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "1",
+      "name": "饼干夜访（Cookie Night）",
+      "reason": "今天就是 2026 最后一次 13 号星期五，规则三秒能看懂：天黑前把牛奶和饼干拖到门口。软萌和恐怖的反差特别适合作假挑战广告，失败定格也很好剪。"
+    },
+    {
+      "id": "2",
+      "name": "二十连贴（Twenty Stack）",
+      "reason": "平台刚把「一帖 4 张图」改成 20 张，日韩趋势同步上榜。玩法就是限时把格子填满再发出去，排序和堆叠都是成熟买量动作，皮肤随便换。"
+    },
+    {
+      "id": "3",
+      "name": "火焰防线（Firefight Hold）",
+      "reason": "Xbox CEO 宣布《光环：战役进化》冬天免费加入消防战，官宣近 1.8 万赞、56 万曝光。波次防守只需要点按射击，浪潮越来越密，很适合做成「你能守住第几波」的试玩广告。"
+    }
+  ],
+  "hotTopics": [
+    {
+      "title": "Xbox CEO 放出 4 分钟《Fable》新实机",
+      "description": "为庆祝 Xbox 25 周年，Asha Sharma 和官方账号放出 Deepwood 任务实机： Briar Hill 的英雄与本地英雄 Arden 进入被腐化魔法笼罩的森林，展示近战、远程和法术。游戏定于 2027 年 2 月 23 日登录 Xbox、PS5 和 PC，首日进 Game Pass。CEO 原帖曝光超过 115 万。",
+      "links": [
+        {
+          "label": "asha_shar 实机帖",
+          "url": "https://x.com/asha_shar/status/2120955243790057796",
+          "stats": "23,831赞 / 2,234转 / 1,967回复 / 115.17 万曝光"
+        },
+        {
+          "label": "fable 官方帖",
+          "url": "https://x.com/fable/status/2120958577212903886",
+          "stats": "2,670赞 / 343转 / 160回复 / 9.34 万曝光"
+        }
+      ]
+    },
+    {
+      "title": "Xbox Playback 上线：回看你的 25 年游玩记录",
+      "description": "Xbox 推出限时功能 Playback，把账号里玩过的游戏、一起玩的朋友和成就剪成个人回顾视频，可在主机和 xbox.com/playback 使用到 2026 年 12 月 31 日。CEO 宣布帖超过 2 万赞，官方「谢谢你按过开始」同步推送。",
+      "links": [
+        {
+          "label": "asha_shar 宣布帖",
+          "url": "https://x.com/asha_shar/status/2120909617299652979",
+          "stats": "20,984赞 / 1,911转 / 776回复 / 61.47 万曝光"
+        },
+        {
+          "label": "Xbox 官方帖",
+          "url": "https://x.com/XBOX/status/2120933448345149691",
+          "stats": "9,849赞 / 903转 / 484回复 / 42.39 万曝光"
+        }
+      ]
+    },
+    {
+      "title": "《光环：战役进化》将免费加入消防战模式",
+      "description": "Asha Sharma 回顾初代 Xbox 与《光环》同期发售，并宣布《Halo: Campaign Evolved》将在今冬以免费更新加入 Firefight 波次防守。官宣帖 1.78 万赞、56 万曝光，成为 25 周年系列里最适合做成「守线」玩法的一条。",
+      "links": [
+        {
+          "label": "asha_shar 宣布帖",
+          "url": "https://x.com/asha_shar/status/2120925412788498530",
+          "stats": "17,778赞 / 1,668转 / 529回复 / 56.41 万曝光"
+        }
+      ]
+    },
+    {
+      "title": "《Wolfenstein 3》正式进入制作",
+      "description": "Xbox CEO 宣布 MachineGames 正在制作《Wolfenstein 3》，称这是游戏史上最重要的系列之一，后续会再分享细节。帖文发出后迅速冲上全球趋势，约 1.7 万赞、28 万曝光。",
+      "links": [
+        {
+          "label": "asha_shar 宣布帖",
+          "url": "https://x.com/asha_shar/status/2121030203439010175",
+          "stats": "17,081赞 / 2,170转 / 614回复 / 28.07 万曝光"
+        },
+        {
+          "label": "全球趋势（Wolfenstein 3）",
+          "url": "https://x.com/search?q=Wolfenstein%203",
+          "stats": "X 全球趋势上榜"
+        }
+      ]
+    },
+    {
+      "title": "25 款初代 Xbox 游戏登陆 PC",
+      "description": "为纪念初代 Xbox 25 周年，微软把 25 款向后兼容经典放到 PC，包括《科托尔》1/2、《上古卷风：晨风》和《布林克斯：时光清扫者》，并支持键鼠与部分成就。CEO 强调「保护历史就是让这些游戏现在还能玩」。",
+      "links": [
+        {
+          "label": "asha_shar 宣布帖",
+          "url": "https://x.com/asha_shar/status/2120985441046548653",
+          "stats": "15,269赞 / 1,847转 / 779回复 / 39.19 万曝光"
+        }
+      ]
+    },
+    {
+      "title": "《Vindictus: Defying Fate》确认 2027 年登陆 PS5",
+      "description": "PlayStation 官方宣布 Nexon CAG Studio 重制的动作 RPG 将于明年登上 PS5 和 Steam，强调精准闪避、反击和凯尔特神话巨boss，并补充多人合作。官方帖曝光超过 83 万。",
+      "links": [
+        {
+          "label": "PlayStation 官方帖",
+          "url": "https://x.com/PlayStation/status/2120866372238389712",
+          "stats": "1,766赞 / 176转 / 236回复 / 83.12 万曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2120900850365173906",
+          "stats": "Vindictus: Defying Fate Coming to PS5 in 2027（X News）"
+        }
+      ]
+    },
+    {
+      "title": "《SONIC PICO PARK》全平台发售",
+      "description": "PICO PARK 与 Sonic 35 周年联动今日登陆 Switch / Switch 2、PS5、Xbox 和 PC，售价 9.99 美元。2–8 人跨平台合作解谜，加入 Super Sonic、Shadow 的时间暂停，以及竞速和俯视 Blue Sphere。官方发售帖成为当日索尼克话题核心。",
+      "links": [
+        {
+          "label": "SONICPICOPARK 发售帖",
+          "url": "https://x.com/SONICPICOPARK/status/2120791958704763184",
+          "stats": "321赞 / 85转 / 4回复 / 9,069曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2120820784515953002",
+          "stats": "Sonic Pico Park Launches with Cross-Platform Co-op Chaos（X News）"
+        }
+      ]
+    },
+    {
+      "title": "《时之笛》重制日本首周实体销量 53.7 万",
+      "description": "《塞尔达传说：时之笛》重制在日本首周实体销量 537,041，位列 Switch 2 软件实体首周第 4。讨论焦点是实体比例偏高，以及实体版首发特典是否拉动了包装需求。",
+      "links": [
+        {
+          "label": "Genki_JPN 汇总帖",
+          "url": "https://x.com/Genki_JPN/status/2120864801299788086",
+          "stats": "984赞 / 73转 / 12回复 / 1.53 万曝光"
+        },
+        {
+          "label": "Stealth40k 拆解帖",
+          "url": "https://x.com/Stealth40k/status/2120878183344140433",
+          "stats": "613赞 / 31转 / 7回复 / 1.14 万曝光"
+        }
+      ]
+    }
+  ],
+  "ideas": [
+    {
+      "id": "1",
+      "name": "饼干夜访（Cookie Night）",
+      "inspiration": {
+        "text": "13 号星期五前夜，时间线流行给杰森门口放牛奶和饼干，Shelby 的摆盘图被广泛转发",
+        "url": "https://x.com/shelbyspooks/status/2120952546907000839"
+      },
+      "coreGameplay": "天黑倒计时里，把牛奶杯和饼干拖到门口垫子上摆正；可加一档把「诱饵」人偶一并摆好。",
+      "adHook": "前 3 秒：夜晚门廊只亮一盏灯，字幕「别忘了给客人留点心」；一只戴面具的手伸向空盘子。",
+      "failSuccessPoint": "没摆完或摆歪→面具人推门，饼干碎一地，盖章「BAD HOST」；摆正后对方坐下吃完，盖章「NIGHT CLEARED」。",
+      "difficulty": "低",
+      "whyFitUA": "节日当天就能用，拖放人人会，软萌点心和恐怖剪影反差强，失败定格天然适合做假挑战。"
+    },
+    {
+      "id": "2",
+      "name": "二十连贴（Twenty Stack）",
+      "inspiration": {
+        "text": "X 把一帖最多 4 张图改成 20 张，日韩趋势出现「写真20枚」，有人立刻试着贴满 20 张",
+        "url": "https://x.com/momoirof/status/2120999524332404913"
+      },
+      "coreGameplay": "把散落的照片拖进 20 个格子，按主题排好后点「发送」；格子留空、叠错或超时都会发不出去。",
+      "adHook": "前 3 秒：一个只亮着 4 格的发帖框突然拉长成 20 格，字幕「这次能塞下吗？」；手指开始狂拖。",
+      "failSuccessPoint": "发出去却缺图或顺序乱→进度条卡在 19/20，弹出「POST FAILED」；塞满且排序正确→浏览量数字暴涨，盖章「20/20」。",
+      "difficulty": "低",
+      "whyFitUA": "规则就是填格子，皮肤可换成美食、角色或旅行照，完成和失败都有明确数字反馈。"
+    },
+    {
+      "id": "3",
+      "name": "火焰防线（Firefight Hold）",
+      "inspiration": {
+        "text": "Xbox CEO 宣布《光环：战役进化》今冬免费加入消防战波次防守",
+        "url": "https://x.com/asha_shar/status/2120925412788498530"
+      },
+      "coreGameplay": "角色自动面对涌来的敌人，玩家只在准星变亮时点按开火；漏掉的敌人会冲破防线。",
+      "adHook": "前 3 秒：空旷环形阵地，字幕「还能再守一波吗？」；下一秒地平线涌出密密的人影，手指开始点射。",
+      "failSuccessPoint": "防线被撕开→屏幕压红，头盔掉在地上；撑过一波→空投补给砸下，盖章「WAVE CLEAR」。",
+      "difficulty": "低",
+      "whyFitUA": "波次防守是买量里最稳的模板之一，操作只有点按，官宣热度高，不必使用原版 IP 装甲外形。"
+    },
+    {
+      "id": "4",
+      "name": "双人旋转（Spin Sync）",
+      "inspiration": {
+        "text": "《SONIC PICO PARK》今日发售：两人必须同时旋转冲刺，才能打开门或穿过环形轨道",
+        "url": "https://x.com/SONICPICOPARK/status/2120791958704763184"
+      },
+      "coreGameplay": "左右两个角色各自一条按键，只有同时点按时才会一起旋转冲过障碍；有一人提前或滞后就会撞墙。",
+      "adHook": "前 3 秒：一扇只开一半的环形门，字幕「必须一起转」；一边先冲出去，另一边撞成星星。",
+      "failSuccessPoint": "不同步→其中一人拍扁在门框上定格；连对三次→两人都闪成金色冲过终点，弹出「SYNC PERFECT」。",
+      "difficulty": "低",
+      "whyFitUA": "合作不同步本身就是喜剧失败，单手也能模拟成「左右两个按钮」，广告文案直接写成挑战题。"
+    },
+    {
+      "id": "5",
+      "name": "腐化清扫（Hex Sweep）",
+      "inspiration": {
+        "text": "《Fable》新实机里，英雄走进被外来腐化魔力染黑的 Deepwood，用近战和法术调查异常",
+        "url": "https://x.com/asha_shar/status/2120955243790057796"
+      },
+      "coreGameplay": "在被黑雾侵蚀的林地上滑动，划过的路径会重新亮起来；漏掉的黑斑会重新蔓延。",
+      "adHook": "前 3 秒：一条翠绿小径突然被墨绿色雾气吞掉，字幕「把林子擦干净」；剑光扫过，树木重新发光。",
+      "failSuccessPoint": "雾气回流把角色染成剪影→「FOREST LOST」；全部擦亮→林间洒下金色光斑，盖章「ALBION CLEARED」。",
+      "difficulty": "低",
+      "whyFitUA": "滑动清污是最容易看懂的 3 秒钩子，只需颜色对比和一条路径，不依赖复杂战斗系统。"
+    },
+    {
+      "id": "6",
+      "name": "回忆回放（Playback Reel）",
+      "inspiration": {
+        "text": "Xbox Playback 把 25 年游玩记录剪成个人回顾视频，官方喊「谢谢你按过开始」",
+        "url": "https://x.com/asha_shar/status/2120909617299652979"
+      },
+      "coreGameplay": "一条回顾胶片往前滚，把亮着的「高光时刻」拖进收藏轴，把灰色的无聊片段甩出去；收错会让胶片卡壳。",
+      "adHook": "前 3 秒：黑场里出现「你的第一款游戏」，字幕「这 25 年怎么过的？」；一张封面飞过来，手指要决定留还是丢。",
+      "failSuccessPoint": "高光被丢掉→胶片烧焦，弹出「MEMORY LOST」；收齐关键帧→个人集锦自动播放，盖章「PRESS START」。",
+      "difficulty": "中",
+      "whyFitUA": "怀旧情绪和「整理自己的记录」都很适合前三秒，操作仍是拖放分类，皮肤可换成通用游戏图标。"
+    },
+    {
+      "id": "7",
+      "name": "老作上架（Vault Shelf）",
+      "inspiration": {
+        "text": "微软把 25 款初代 Xbox 经典一次性放到 PC，强调「保护历史就是现在还能玩」",
+        "url": "https://x.com/asha_shar/status/2120985441046548653"
+      },
+      "coreGameplay": "把老游戏盒封从积灰纸箱拖到新的 PC 层架上，对应年代或类型的格子会亮起；放错会被弹回箱子。",
+      "adHook": "前 3 秒：一只落灰纸箱打开，字幕「它们也能上新架子？」；一盒老游戏被拖到发亮的空位，灰尘抖落。",
+      "failSuccessPoint": "放错格子→盒子掉下去摔成「NOT THIS SHELF」；25 个位置填满→层架亮起，弹出「PRESERVED」。",
+      "difficulty": "低",
+      "whyFitUA": "整理和分类是成熟买量动作，用抽象盒封即可，完成时的「满架点亮」很适合做结束画面。"
+    },
+    {
+      "id": "8",
+      "name": "精确闪避（Fate Dodge）",
+      "inspiration": {
+        "text": "PlayStation 宣布《Vindictus: Defying Fate》明年登 PS5，官方强调对巨boss 的精准闪避和反击",
+        "url": "https://x.com/PlayStation/status/2120866372238389712"
+      },
+      "coreGameplay": "巨boss 砸地前会出现闪白，在闪白的瞬间向侧面滑动才能躲开并自动反击；滑早或滑晚都会被拍扁。",
+      "adHook": "前 3 秒：巨大的影子压向镜头，字幕「只能闪一次」；地面裂开，角色在最后一刻滑出残影。",
+      "failSuccessPoint": "闪早或闪晚→角色被拍进地里，只剩一截披风；卡在闪白点→反击砍断武器，盖章「PERFECT COUNTER」。",
+      "difficulty": "低",
+      "whyFitUA": "时机躲避是最经典的 3 秒挑战结构，只要一个巨影和一个滑动，失败和完美反击都很好看。"
+    },
+    {
+      "id": "9",
+      "name": "邮箱抢修（Inbox Unstick）",
+      "inspiration": {
+        "text": "Microsoft 365 全球故障让 Outlook 发不出去，日区趋势出现「会社休み」",
+        "url": "https://x.com/popo12957/status/2121027156742668464"
+      },
+      "coreGameplay": "把卡在发件箱转圈的信封向外拖，在上班铃响前全部送出；中途掉线会让信封弹回并堆成一座山。",
+      "adHook": "前 3 秒：进度条停在「正在发送」，字幕「这封要是发不出去…」；一叠信封开始往回收缩。",
+      "failSuccessPoint": "铃响时还堆在发件箱→屏幕弹出巨大的「会社休み？」并变灰；全部送出→收件人打勾排成一行，盖章「SENT」。",
+      "difficulty": "低",
+      "whyFitUA": "人人都懂「邮件卡发送」的焦虑，拖出信封就是全部操作，失败文案还能直接借用当天热梗。"
+    },
+    {
+      "id": "10",
+      "name": "宠物补给（Tama Restock）",
+      "inspiration": {
+        "text": "7-Eleven 开卖电子宠物 30 周年联名，标签「在超商发现它」冲上全球趋势",
+        "url": "https://x.com/search?q=%23%E3%82%BB%E3%83%96%E3%83%B3%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3%E3%81%A7%E7%99%BA%E8%A6%8B%E3%81%9F%E3%81%BE%E3%81%94%E3%81%A3%E3%81%A1"
+      },
+      "coreGameplay": "在滚动的便利店货架上找出正确的食物或配件，拖给柜台边饿扁的小宠物；拿错它会当场倒地。",
+      "adHook": "前 3 秒：一个像素小宠物在柜台边按肚子，字幕「30 年后轮到你找食物了」；货架开始滚动。",
+      "failSuccessPoint": "拖错商品→宠物变成鬼魂飘走，弹出「HUNGRY OVER」；连续喂对三次→它戴上联名帽子，盖章「FOUND YOU」。",
+      "difficulty": "低",
+      "whyFitUA": "找物加拖放非常好做，便利店货架色彩强，角色用原创圆滚宠物即可，不必使用官方形象。"
+    }
+  ],
+  "notes": [
+    "数据来自 X 公共搜索/新闻/全球趋势；互动数为抓取时快照，约北京时间 2026-11-13 09:15。",
+    "刻意避开 11/11 已推：百奇对咬、Devolver AAA / 全军铺路、Tsarevna 脚尖斩、GTA 云串流 Xbox One、COD 榜单、Warhammer Survivors、Ova Magica、史莱克 2、PS Plus 阵容。",
+    "也避开 11/12 已写但因令牌失效未能上站的选题和梗：装死过关、真假迈阿密、葡萄塞嘴、金摇杆《安魂曲》、Bodycam 丧尸、站着的老鼠、土拨鼠马甲等。",
+    "当天游戏讨论高度集中在 Xbox 25 周年（Fable 实机、Playback、初代游戏上 PC、Halo 消防战、Wolfenstein 3），故热点偏 Xbox，选题侧用不同操作把同一主题拆开。",
+    "《时之笛》重制本身在 11/7–11/10 已多次出现，本期只收录日本首周销量和实体比例这一新数据，不再做新的塞尔达玩法选题。",
+    "「照片20枚」「会社休み」「たまごっち」是全球或日区趋势，但单帖赞数不高，热梗里已如实写出互动并同时附上 X News 或趋势链接。",
+    "Fable / Halo / Sonic / Vindictus / 电子宠物等 IP 选题落地请用原创角色与文案，不涉及版权商用授权承诺；Wolfenstein 只作行业热点收录，未单独做成选题。"
+  ]
+}

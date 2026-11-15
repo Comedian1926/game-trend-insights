@@ -1,0 +1,374 @@
+{
+  "date": "2026-11-15",
+  "dataWindow": "2026-11-14 09:19 至 2026-11-15 09:19（北京时间），约 24 小时",
+  "source": "Grok Bot 内置 X 公共只读接口（search_news、search_posts_all、get_trends_by_woeid）",
+  "memes": [
+    {
+      "title": "筷子接住星舰（Mechazilla Catch）",
+      "description": "SpaceX 飞行第 15 次任务中，Ship 42 在轨约 22.5 小时、部署 26 颗星链后返回星基地，被发射塔「筷子」机械臂在空中接住——官方称这是首次从轨道捕获 Starship。官帖「Mechazilla catches Starship!」数小时内破十万赞、六百万曝光，多机位「翻转点火再接住」视频同步刷屏。昨日机身涂装「DON'T PANIC」还在发酵，今天真正把船接回来，才是新高潮。",
+      "links": [
+        {
+          "label": "SpaceX 官方",
+          "url": "https://x.com/SpaceX/status/2121715216597827756",
+          "stats": "10 万赞 / 2.1 万转 / 5,421 评 / 6,984 引用 / 617 万曝光"
+        },
+        {
+          "label": "多机位接船回放",
+          "url": "https://x.com/ENNEPS/status/2121729453026119723",
+          "stats": "1,269 赞 / 196 转 / 11 评 / 8 引用 / 3.1 万曝光"
+        }
+      ],
+      "playableAngle": "前 3 秒就是铁臂对准坠落星舰：左右拖动筷子去接，接住爆出「CAUGHT」金闪，没对准就摔成火球。失败/爽点一眼能懂，非常适合假挑战广告。"
+    },
+    {
+      "title": "Knight 终于举起奖杯",
+      "description": "BLG 3-1 击败决赛热门 Gen.G，拿下俱乐部首座全球总决赛奖杯，中单 Knight 获决赛 MVP。赛前官方还在问「KNIGHT OR CHOVY: Who will finally hoist the Worlds trophy today?」；赛后叙事立刻变成「Knight 追了多年终于拿到」，而 Chovy 又一次止步奖杯前。对电竞观众来说，这是当天最硬的情绪梗。",
+      "links": [
+        {
+          "label": "lolesports 宣布 BLG 夺冠",
+          "url": "https://x.com/lolesports/status/2121755546487566426",
+          "stats": "3.4 万赞 / 6,995 转 / 825 评 / 1,835 引用 / 60 万曝光"
+        },
+        {
+          "label": "赛前：Knight 还是 Chovy",
+          "url": "https://x.com/lolesports/status/2121681595199275257",
+          "stats": "567 赞 / 49 转 / 20 评 / 15 引用 / 4.7 万曝光"
+        }
+      ],
+      "playableAngle": "做一个「谁先举起奖杯」的拔河/最后一击：两边血条对着一座奖杯，3 秒倒计时里连点或拉条，失败画面就是奖杯差几厘米没举起来。"
+    },
+    {
+      "title": "You wake up to this, what's your next move?",
+      "description": "《上古卷轴 V：天际》15 周年，官方账号 @ElderScrolls 发开场雪地/马车画面提问：「你在这儿醒来，下一步怎么做？」正好接上那句经典台词「Hey, you. You're finally awake.」玩家在回复里玩「又玩第 40 遍」「还在等下一作」的自嘲，15 年老梗被官方亲自重新点燃。",
+      "links": [
+        {
+          "label": "ElderScrolls 官方",
+          "url": "https://x.com/ElderScrolls/status/2121649361612337437",
+          "stats": "5,366 赞 / 370 转 / 214 评 / 58 引用 / 9.3 万曝光"
+        }
+      ],
+      "playableAngle": "前 3 秒黑屏醒来、听到「you're finally awake」，然后让玩家在 3 个糟糕选项里滑选第一步（偷奶酪、翻车、跟错人）。选错就直接被砍头，选对就滑稽逃出。"
+    },
+    {
+      "title": "绝望のプリズム",
+      "description": "周日早间档播出时，「绝望のプリズム」冲上全球与日本趋势。X 上出现大量几乎同一秒发出的短句刷屏（「绝望のプリズム！？！？」），是典型的直播弹幕式热梗，单帖赞数不高，但趋势本身非常集中。从标签看，讨论同时波及 #aipri / 偶像心跳类作品与光之美少女档期，核心画面是「黑棱镜/绝望棱镜被吸收后角色质变」。",
+      "links": [
+        {
+          "label": "趋势搜索",
+          "url": "https://x.com/search?q=%E7%B5%B6%E6%9C%9B%E3%81%AE%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0",
+          "stats": "采集时为全球及日本趋势词，直播弹幕式刷屏"
+        },
+        {
+          "label": "同期相关讨论例",
+          "url": "https://x.com/satomeno72/status/2121768595583885473",
+          "stats": "直播讨论帖，互动较低（采集时约 0 赞 / 1 评 / 102 曝光）"
+        }
+      ],
+      "playableAngle": "变身节拍游戏：在「绝望棱镜」砸下来的瞬间点按吸收或弹开。吸对就黑化变身爆发，吸错就角色崩坏/变成错误形态。视觉钩子极强。"
+    },
+    {
+      "title": "uhh is roblox down?",
+      "description": "11 月 14 日美东清晨 Roblox 出现短暂宕机，Downdetector 报告过载，玩家和 Studio 创作者都进不去。一句「uhh is roblox down?」本身成为传播文本，和每次大平台挂掉时的「是不是就我这挂了」共鸣完全一样。",
+      "links": [
+        {
+          "label": "原帖",
+          "url": "https://x.com/DJMonopoli/status/2121537049291362309",
+          "stats": "172 赞 / 14 转 / 27 评 / 1 引用 / 1.9 万曝光"
+        },
+        {
+          "label": "相关新闻簇",
+          "url": "https://x.com/i/trending/2121546828210745611",
+          "stats": "X 新闻簇（约 2026-11-14 20:59 北京时间更新）"
+        }
+      ],
+      "playableAngle": "加载转圈越转越慢，让玩家狂点「Retry」。点对了会假装连上 0.5 秒再掉线，最后一次性连上爆发进世界。平台焦虑本身就是钩子。"
+    },
+    {
+      "title": "老虎机变成了拆卡包",
+      "description": "美国银行分析把数字卡包（宝可梦/体育卡）比作「做成 App 的老虎机」：周活从约 5 万涨到 170 万、年收入约 20 亿美元，且低价包期望值常低于售价。玩家一边被点名一边承认「就算告诉我这是老虎机，凌晨三点该拆还是会拆」。收藏和赌博的边界被公开钉在台面上。",
+      "links": [
+        {
+          "label": "X 新闻簇",
+          "url": "https://x.com/i/trending/2121716024714117577",
+          "stats": "X 新闻簇（约 2026-11-15 05:30 北京时间更新）"
+        },
+        {
+          "label": "玩家自嘲",
+          "url": "https://x.com/cravedcuddle/status/2121740214422900763",
+          "stats": "26 赞 / 5 评 / 7,583 曝光"
+        }
+      ],
+      "playableAngle": "经典拆包假玩法：撕开卡包看金光，连续垃圾卡后突然出闪。广告钩子直接用「这就是老虎机」的自我揭穿，比普通拆包更刺、也好停在最炫的那一张。"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "1",
+      "name": "筷子接星舰（Chopstick Catch）",
+      "reason": "当天全站互动最高的真实事件之一（SpaceX 官帖 10 万赞、617 万曝光），玩法就是「对准、接住/摔下去」，3 秒钩子和失败爽点都不用解释，最适合立刻做 HTML5 假挑战。"
+    },
+    {
+      "id": "2",
+      "name": "最后一座水晶（Last Nexus）",
+      "reason": "BLG 夺冠和「还差一座水晶」是今晚电竞最大情绪。连点拆水晶、差一口气被翻盘，天然适合「就差一下」式买量素材，而且视觉是奖杯+爆炸水晶，不需要讲解规则。"
+    },
+    {
+      "id": "3",
+      "name": "终于醒了（Finally Awake）",
+      "reason": "15 年大众梗被官方亲自发问，认知不需要教育。醒来选下一步、选错被砍头，制作成本低，开头黑场+经典台词就能抓住滑动停下来的人。"
+    }
+  ],
+  "hotTopics": [
+    {
+      "title": "BLG 3-1 击败 Gen.G，首夺 2026 全球总决赛冠军",
+      "description": "在布鲁克林 Barclays Center，Bilibili Gaming 以 3-1 击败赛前更被看好的 Gen.G，拿下俱乐部首座召唤师奖杯。半决赛他们刚 3-1 淘汰卫冕冠军 T1，决赛 MVP 归中单 Knight。官方夺冠帖数小时内破 3 万赞、近 7 千转，是过去 24 小时游戏区最大的即时事件。",
+      "links": [
+        {
+          "label": "lolesports 官方宣布",
+          "url": "https://x.com/lolesports/status/2121755546487566426",
+          "stats": "3.4 万赞 / 6,995 转 / 825 评 / 1,835 引用 / 60 万曝光"
+        },
+        {
+          "label": "赛点前：还差一座水晶",
+          "url": "https://x.com/Sheep_Esports/status/2121739184813564007",
+          "stats": "971 赞 / 27 转 / 16 评 / 16 引用 / 4 万曝光"
+        }
+      ]
+    },
+    {
+      "title": "Riot 在决赛夜公布《英雄联盟：新黎明》，2027 年大改版",
+      "description": "就在全球总决赛进行期间，@LeagueOfLegends 放出「A peek at where we're headed for 2027」，正式把内部项目 League Next 定名为 League of Legends: New Dawn。内容包括全新全屏客户端、召唤师峡谷视觉重建、玩法与符文改动，预计 2027 年推出。官帖曝光超过 330 万，是当晚仅次于夺冠的第二大讨论。",
+      "links": [
+        {
+          "label": "LeagueOfLegends 官方",
+          "url": "https://x.com/LeagueOfLegends/status/2121724627667824796",
+          "stats": "4.2 万赞 / 3,826 转 / 1,329 评 / 2,556 引用 / 330 万曝光"
+        },
+        {
+          "label": "赛前预告帖（葡语圈先行传播）",
+          "url": "https://x.com/poptime/status/2121639700368667110",
+          "stats": "8,717 赞 / 197 转 / 87 评 / 196 引用 / 30 万曝光"
+        }
+      ]
+    },
+    {
+      "title": "《天际》15 周年：官方问你醒来后第一步做什么",
+      "description": "Bethesda / Elder Scrolls 用开场那句「Hey, you. You're finally awake.」的画面纪念发售 15 年，并提问「You wake up to this, what's your next move?」玩家回复从「第 40 次开档」到「还在等下一作」，怀旧和自嘲一起把这条官方帖推到近 10 万曝光。",
+      "links": [
+        {
+          "label": "ElderScrolls 官方",
+          "url": "https://x.com/ElderScrolls/status/2121649361612337437",
+          "stats": "5,366 赞 / 370 转 / 214 评 / 58 引用 / 9.3 万曝光"
+        },
+        {
+          "label": "相关新闻簇",
+          "url": "https://x.com/i/trending/2121683669039677845",
+          "stats": "X 新闻簇（约 2026-11-15 03:24 北京时间更新）"
+        }
+      ]
+    },
+    {
+      "title": "Xbox 官方回顾 Series X|S 世代（11 月 15 日也是初代 Xbox 25 周年）",
+      "description": "11 月 15 日是初代 Xbox 诞生 25 周年（2001 年），但 Xbox 官方帖主要回顾的是 2020 年 11 月 10 日推出的 Series X|S 世代成就，称这一代把 Xbox 带到新地盘，互动很快过万赞。初代 Xbox 25 周年在粉丝帖和超级英雄游戏封面怀旧帖里另有讨论。",
+      "links": [
+        {
+          "label": "Xbox 官方",
+          "url": "https://x.com/Xbox/status/2121694665363890296",
+          "stats": "1 万赞 / 831 转 / 211 评 / 55 引用 / 34 万曝光"
+        },
+        {
+          "label": "周年粉丝图例",
+          "url": "https://x.com/SuspendedDoll1/status/2121702555923226689",
+          "stats": "548 赞 / 64 转 / 3 评 / 5,756 曝光"
+        }
+      ]
+    },
+    {
+      "title": "双人团队《Queen's Domain》两周卖出 20 万份",
+      "description": "Freshly Baked Games 的两人团队做出 King's Field 风格第一人称动作 RPG《Queen's Domain》（10 月 30 日登录 Steam / PS5 / Xbox / Switch 2），不到两周全球销量突破 20 万。日媒 GameSpark 报道后被广泛转发，独立开发者 Tyler Glaiel 一句「Queen's Domain is good」也超过 600 赞。滑翔剑、体力战斗和 50 多把武器是讨论里最常被点名的钩子。",
+      "links": [
+        {
+          "label": "GameSpark 报道",
+          "url": "https://x.com/gamespark/status/2121520780035150219",
+          "stats": "234 赞 / 48 转 / 4 引用 / 3.6 万曝光"
+        },
+        {
+          "label": "Tyler Glaiel 评价",
+          "url": "https://x.com/TylerGlaiel/status/2121432667816341957",
+          "stats": "608 赞 / 7 转 / 8 评 / 1.2 万曝光"
+        }
+      ]
+    },
+    {
+      "title": "GTA VI 进入发售前最后几天，暴力争议再起",
+      "description": "《GTA VI》将于 11 月 19 日登陆 PS5 与 Xbox Series X|S，预载已经开放，倒计时进入最后约 4 天。与此同时，法国记者 Christophe Barbier 在 LCI 称该作「为犯罪致歉」，再次点燃「游戏导致暴力」的老辩论；玩家则以「真正让人砸手柄的是 FIFA」回击。X 上的预载/倒计时帖互动一般，新闻簇本身是这一话题的主要传播源。",
+      "links": [
+        {
+          "label": "发售倒计时新闻簇",
+          "url": "https://x.com/i/trending/2121755306107822406",
+          "stats": "X 新闻簇（约 2026-11-15 08:06 北京时间更新）"
+        },
+        {
+          "label": "暴力争议新闻簇",
+          "url": "https://x.com/i/trending/2121704176115654708",
+          "stats": "X 新闻簇（约 2026-11-15 04:44 北京时间更新）"
+        }
+      ]
+    },
+    {
+      "title": "《鸣潮》3.8 主线让玩家破防，新角色 Lily 出圈",
+      "description": "11 月 12 日上线的 3.8 版本「Lilies in a Dying Dream」把治疗角色 Lily（调香师/心理咨询师，注射器造型）和主线剧情一起送上讨论区。有玩家称主线「比预期动人得多」，单帖超过 1,400 赞；同时二创、cosplay 和诗围绕 Lily 扩散。情感向和角色视觉都适合做短钩子，但完整剧情本身不适合直接做成 30 秒玩法。",
+      "links": [
+        {
+          "label": "主线观后感",
+          "url": "https://x.com/itsjadealy/status/2121703462517846282",
+          "stats": "1,408 赞 / 109 转 / 17 评 / 5 引用 / 1.4 万曝光"
+        },
+        {
+          "label": "相关新闻簇",
+          "url": "https://x.com/i/trending/2121542611899171058",
+          "stats": "X 新闻簇（约 2026-11-15 02:03 北京时间更新）"
+        }
+      ]
+    }
+  ],
+  "ideas": [
+    {
+      "id": "1",
+      "name": "筷子接星舰（Chopstick Catch）",
+      "inspiration": {
+        "text": "SpaceX 首次用发射塔筷子从轨道接住 Starship Ship 42，官帖「Mechazilla catches Starship!」破十万赞",
+        "url": "https://x.com/SpaceX/status/2121715216597827756"
+      },
+      "coreGameplay": "左右拖动一对巨型机械臂，在星舰翻转点火下落的短窗口里把它夹住。",
+      "adHook": "夜空里一艘燃烧的星舰直扑镜头，两只铁筷子从左右伸出，大字 CAUGHT? 还没闪完船已经砸过来。",
+      "failSuccessPoint": "夹准：机械臂合拢、金光、旗帜升起。夹歪或合晚：星舰擦臂炸成火球，屏幕震动，再来一次的按钮几乎是本能。",
+      "difficulty": "低",
+      "whyFitUA": "单一操作、3 秒能看懂、失败即重开，事件本身全球出圈，素材不用解释「这是什么」。"
+    },
+    {
+      "id": "2",
+      "name": "最后一座水晶（Last Nexus）",
+      "inspiration": {
+        "text": "BLG 夺冠前曾被喊「还差一座水晶」；随后 3-1 击败 Gen.G 成为 2026 全球总冠军",
+        "url": "https://x.com/lolesports/status/2121755546487566426"
+      },
+      "coreGameplay": "在召唤师水晶前连点/划切输出，把最后一座水晶打爆，奖杯落下。",
+      "adHook": "镜头先给奖杯和 1% 血量的蓝色水晶，字幕「ONE NEXUS AWAY」，然后倒计时 3 秒让你动手。",
+      "failSuccessPoint": "打爆：水晶炸开、奖杯砸进怀里、人群欢呼。差一下：被对方回城反拆，奖杯在指尖溜走，强制重开。",
+      "difficulty": "低",
+      "whyFitUA": "电竞赛事热度当下最高，「就差一下」是买量里最稳的情绪结构，规则零学习成本。"
+    },
+    {
+      "id": "3",
+      "name": "终于醒了（Finally Awake）",
+      "inspiration": {
+        "text": "《天际》15 周年官方帖：You wake up to this, what's your next move?",
+        "url": "https://x.com/ElderScrolls/status/2121649361612337437"
+      },
+      "coreGameplay": "在马车醒来后，于极短时间内滑动选择第一步行动（跑、偷、跟错人、砍绳）。",
+      "adHook": "黑屏、雪声，一句「Hey, you. You're finally awake.」然后三个荒唐选项砸到面前。",
+      "failSuccessPoint": "选错直接被斩首或掉下悬崖；选对就滑稽翻车逃出，再接到下一轮更糟的选项。节奏要快，笑点和痛感靠结果反馈。",
+      "difficulty": "低",
+      "whyFitUA": "15 年大众梗，开头台词自带停滑能力；选项+瞬间赏罚非常适合做多变体广告素材。"
+    },
+    {
+      "id": "4",
+      "name": "新黎明对照（Dawn Swap）",
+      "inspiration": {
+        "text": "Riot 官宣 2027 大改版 League of Legends: New Dawn，召唤师峡谷将全面重绘",
+        "url": "https://x.com/LeagueOfLegends/status/2121724627667824796"
+      },
+      "coreGameplay": "按住或左右滑动，把旧版峡谷实时擦成 New Dawn 新视觉；中途要避开「掉帧/崩客户端」陷阱。",
+      "adHook": "左右分屏：左边是旧峡谷，右边金光新黎明，手指还没滑完就有人喊「这还是那张图吗」。",
+      "failSuccessPoint": "滑到底：新地图亮起、英雄模型高模刷新。中途松手或碰到崩溃：客户端蓝屏，旧贴图碎一地，必须再擦一次。",
+      "difficulty": "低",
+      "whyFitUA": "前后对比是最便宜的视觉钩子，官帖曝光极高，适合做「你来完成这次更新」的假互动广告。"
+    },
+    {
+      "id": "5",
+      "name": "滑翔拔剑（Glide Blade）",
+      "inspiration": {
+        "text": "双人团队《Queen's Domain》两周销售破 20 万，滑翔剑和体力近战被频繁提起",
+        "url": "https://x.com/gamespark/status/2121520780035150219"
+      },
+      "coreGameplay": "按住蓄力沿轨道滑翔，松手挥剑斩开眼前的敌人/机关；体力条决定你能飞多远、砍多重。",
+      "adHook": "第一人称冲出悬崖，一把剑突然变成滑翔翼，镜头下俯是等待被劈开的巨型守卫。",
+      "failSuccessPoint": "斩中要害：剑光切开盔甲、落地砸坑。体力耗尽或松手太早：人摔进深渊，剑插在悬崖上晃。",
+      "difficulty": "中",
+      "whyFitUA": "第一人称+滑翔的视觉比普通砍杀更抢眼，独立游戏爆款故事也能当广告文案（两人团队、两周 20 万）。"
+    },
+    {
+      "id": "6",
+      "name": "撕包 fest（House Pack）",
+      "inspiration": {
+        "text": "美国银行把数字卡包比作老虎机，玩家一边被点名一边承认凌晨三点还在拆",
+        "url": "https://x.com/i/trending/2121716024714117577"
+      },
+      "coreGameplay": "上滑撕开卡包，看金光揭示；连续垃圾卡后可用一次「再撕一次」试图翻盘。",
+      "adHook": "特写手指撕开箔纸，旁白一句「这就是老虎机」，金光已经漏出来。",
+      "failSuccessPoint": "出闪：全屏粒子、评级跳 PSA 10。连续垃圾：卡面翻出「HOUSE ALWAYS WINS」，再塞给你一包，逼着再拆。",
+      "difficulty": "低",
+      "whyFitUA": "拆包是验证过的买量结构，这次自带讽刺文案，比普通抽卡更戳，也更容易做出「再来一包」的循环。"
+    },
+    {
+      "id": "7",
+      "name": "重连狂点（Is It Down）",
+      "inspiration": {
+        "text": "Roblox 早间宕机，一句「uhh is roblox down?」成为传播文本",
+        "url": "https://x.com/DJMonopoli/status/2121537049291362309"
+      },
+      "coreGameplay": "对着转圈加载图标连点 Retry，在掉线和假连接之间找到真正连上的那一下。",
+      "adHook": "熟悉的加载屋和红圈，大字「uhh is it down?」，Retry 按钮已经在闪。",
+      "failSuccessPoint": "假连接：进世界 0.5 秒又掉线，角色冻在半空。真连上：世界瞬间展开，奖励砸下来。失败就是永远转圈。",
+      "difficulty": "低",
+      "whyFitUA": "平台宕机人人都懂，狂点本身就是爽感，制作量极低，适合做轻松搞笑素材。"
+    },
+    {
+      "id": "8",
+      "name": "绝望棱镜（Despair Prism）",
+      "inspiration": {
+        "text": "日本周日早间档播出时，「绝望のプリズム」冲上全球趋势，观众直播刷屏",
+        "url": "https://x.com/search?q=%E7%B5%B6%E6%9C%9B%E3%81%AE%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0"
+      },
+      "coreGameplay": "黑色棱镜砸下时点按「吸收」或「弹开」；在节拍上吸收会黑化变身，错拍则崩坏。",
+      "adHook": "粉彩世界突然被一枚黑色棱镜切开，角色瞳孔变暗，屏幕只留一个闪光按钮。",
+      "failSuccessPoint": "踩准节拍：黑化变身、技能名砸出来、清屏一击。踩错：变成滑稽错误形态，或被棱镜吞掉重开。",
+      "difficulty": "中",
+      "whyFitUA": "变身是短视频最强视觉之一，对错节拍的反馈立刻可见，适合做「就一下」的节奏挑战广告。"
+    },
+    {
+      "id": "9",
+      "name": "谁举奖杯（Knight or Chovy）",
+      "inspiration": {
+        "text": "决赛前官方提问 Knight 还是 Chovy 将终于举起奖杯；最终 Knight 加冕，Chovy 再一次止步",
+        "url": "https://x.com/lolesports/status/2121681595199275257"
+      },
+      "coreGameplay": "左右拉扯一座奖杯，在倒计时结束前把它拽到己方台上，或在中路对拼最后一击。",
+      "adHook": "分屏两张脸对着同一座奖杯，大字 FINALLY? 倒计时已剩 3 秒。",
+      "failSuccessPoint": "拉过线：彩带、MVP 闪光。被反拉：奖杯在指尖翻到对面，屏幕只剩「NOT THIS TIME」。",
+      "difficulty": "低",
+      "whyFitUA": "「终于」和「又没拿到」是最强叙事对立，操作就是拔河，适配电竞粉和泛用户两条素材。"
+    },
+    {
+      "id": "10",
+      "name": "撑住别哭（Hold the Tears）",
+      "inspiration": {
+        "text": "《鸣潮》3.8 主线让玩家意外破防，角色 Lily 的写作和演出被大量讨论",
+        "url": "https://x.com/itsjadealy/status/2121703462517846282"
+      },
+      "coreGameplay": "在过场感人镜头里按住「撑住」，松开会掉泪并打乱画面；撑到彩蛋再一次性释放。",
+      "adHook": "角色转身说一句很轻的告别，屏幕边缘已经起雾，按钮写着 HOLD。",
+      "failSuccessPoint": "没撑住：画面被泪模糊、字幕变成哭腔、强制重看。撑到最后再松：释放一次全屏眼泪+奖励，反而更爽。",
+      "difficulty": "低",
+      "whyFitUA": "情感挑战比战斗更好做素材，按住/松开是最简单的操作，适合做反差钩子（「你撑得住 3 秒吗」）。"
+    }
+  ],
+  "notes": [
+    "数据采集时间为 2026-11-15 09:19 前后（北京时间），互动数字以当时接口返回为准，之后还会继续上涨。",
+    "所有帖子链接与互动数据均来自 X 公共只读接口的真实返回；新闻簇链接来自 search_news 的 x.com/i/trending/ URL。未编造帖子或数据。",
+    "已避开近几日用过的方向：Xbox Playback 回放轴（11-13）、BOOM! Buster 拆弹分色与塞尔达墙间传送（11-14）、DON'T PANIC 涂装梗（11-14，今天改用实际接船事件）、以及近期反复出现的 GTA「真假迈阿密 / 30 帧」玩法。",
+    "「绝望のプリズム」在采集窗口末期刚进入直播刷屏，单帖赞数很低，但该词已出现在全球与日本趋势中；条目中已如实写明。",
+    "search_posts_all 不支持 min_likes 等互动过滤，热帖是在时间窗内检索后按赞/转/引用/曝光排序选出。"
+  ]
+}
