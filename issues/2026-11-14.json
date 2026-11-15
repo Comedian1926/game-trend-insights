@@ -1,0 +1,382 @@
+{
+  "date": "2026-11-14",
+  "dataWindow": "北京时间 2026-11-13 09:00 – 2026-11-14 09:00 前后约24小时（周六晨报）",
+  "source": "X 公共搜索/新闻/全球趋势（Grok Bot 内置只读）",
+  "memes": [
+    {
+      "title": "入职 FAA 第一天",
+      "description": "全美因通信中断罕见「地面停飞」后，Mike Beauvais 发帖：「昨天是我在微软的最后一天。今天，我入职 FAA，目前一切顺利！」把前一天 Outlook 故障和当天停飞拼成同一则笑话。14.5 万赞、207 万曝光，时间线立刻出现大批复制粘贴版「入职汇报」。",
+      "links": [
+        {
+          "label": "MikeBeauvais 原帖",
+          "url": "https://x.com/MikeBeauvais/status/2121359733508759894",
+          "stats": "145,265赞 / 8,497转 / 1,076回复 / 207.71 万曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2121380600783499658",
+          "stats": "Satirical Posts Claim Microsoft Layoffs Lead Straight to FAA Jobs（X News）"
+        }
+      ],
+      "playableAngle": "第一天坐上调度台，把要起飞的飞机按回跑道；接错线或放行一架就全场红灯。见选题「入职第一天」。"
+    },
+    {
+      "title": "DON'T PANIC（星舰 S42）",
+      "description": "SpaceX 即将进行 Flight 15 双捕获尝试，Ship 42 箭体旁边刷上《银河系搭车客指南》的口号「DON'T PANIC」，呼应「42 是一切的答案」。官方转运照和马斯克转发在窗口内冲到百万级曝光；又碰上全美停飞，评论区把这行字读成当天的减压符。",
+      "links": [
+        {
+          "label": "elonmusk 转发准备发射",
+          "url": "https://x.com/elonmusk/status/2121250205806772283",
+          "stats": "32,858赞 / 3,183转 / 2,066回复 / 175.99 万曝光"
+        },
+        {
+          "label": "SpaceX 转运照",
+          "url": "https://x.com/SpaceX/status/2121044579470233638",
+          "stats": "25,461赞 / 2,708转 / 979回复 / 287.07 万曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2121353949978738754",
+          "stats": "SpaceX Paints 'DON'T PANIC' on Starship S42 Before Flight 15（X News）"
+        }
+      ],
+      "playableAngle": "发射前把「DON'T PANIC」五个字母拖到箭体指定位置，涂歪或漏字就会引发全场惊慌。见选题「不要惊慌」。"
+    },
+    {
+      "title": "iCarly Penny Tees（My Cheese My Rules）",
+      "description": "throwbacks 账号甩出一排《iCarly》里 Penny Tees 的荒诞标语衫：「My Cheese My Rules」「Dirty Shirty」等，单帖 7.6 万赞、193 万曝光。窗口内出现大量「这件我也想穿」和自制新标语，把童年恶趣味衣服重新变成今日热梗。",
+      "links": [
+        {
+          "label": "solelynostalgia 原帖",
+          "url": "https://x.com/solelynostalgia/status/2121015165936074920",
+          "stats": "76,636赞 / 4,072转 / 169回复 / 193.14 万曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2121393473236738509",
+          "stats": "iCarly Penny Tees Bring Back Childhood Laughs（X News）"
+        }
+      ],
+      "playableAngle": "给空白滚边衫拖上正确的离谱标语，套错或印反就出「穿出门被笑」的失败定格。见选题「标语套衫」。"
+    },
+    {
+      "title": "全美停飞 × 13 号星期五",
+      "description": "11 月 13 日下午，FAA 因通信中断对全美离港航班下达罕见地面停飞令，是 9/11 之后极少出现的全国性停飞之一。时间线一边刷 departure board 空了，一边说「今天真的是 13 号星期五」。官方排除网络攻击，但「这一天就该出事」的语气传得很快。",
+      "links": [
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2121400679105491132",
+          "stats": "Nationwide US Flight Ground Stop Hits Friday the 13th（X News）"
+        }
+      ],
+      "playableAngle": "在黑色星期五的机场，把一架架已滑出的飞机拖回登机口；倒计时结束前放飞一架即失败。可与「入职第一天」共用同一套素材。"
+    },
+    {
+      "title": "像极了 Leave the World Behind",
+      "description": "停飞几乎同时，新奥尔良附近又传出油轮与游轮相撞、大规模救援的消息。有人把「通信中断 + 交通瘫痪 + 河上事故」直接对上 2023 年 Netflix 片《把世界留在身后》，出现「America is in the early stages of Leave the World Behind」一类引用。",
+      "links": [
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2121385730639319479",
+          "stats": "Flight Ground Stop and River Crash Echo 'Leave the World Behind' Film（X News）"
+        }
+      ],
+      "playableAngle": "屏幕一黑，玩家要在停电的度假屋里连回信号条；连错频道会跳出电影式灾难蒙太奇。"
+    },
+    {
+      "title": "Felix Unger Day",
+      "description": "每年 11 月 13 日，都会有人复读《奇数一对》片头旁白：「这一天，Felix Unger 被妻子请出了自己的住所。」今年依旧有祝福帖和原台词切片，X News 也做了专题；单帖互动不高，但是固定日历梗。",
+      "links": [
+        {
+          "label": "mhenderson33 祝福帖",
+          "url": "https://x.com/mhenderson33/status/2121224456324395138",
+          "stats": "8赞 / 0转 / 0回复 / 687曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2121240581162631589",
+          "stats": "Fans Mark Felix Unger Day with Odd Couple Quotes（X News）"
+        }
+      ],
+      "playableAngle": "限时把行李箱拖出家门，路上还要躲开满地的整洁强迫症物品；走太慢会被「请你离开」的字幕推出去。"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "1",
+      "name": "入职第一天（First Day Desk）",
+      "reason": "当天最大跨圈梗，原帖 14.5 万赞、207 万曝光。规则三秒能看懂：新手调度把飞机按回地面。失败就是全场红灯和空荡荡的航班牌，特别适合做假挑战广告。"
+    },
+    {
+      "id": "2",
+      "name": "拆弹分色（Color Boom）",
+      "reason": "双人工作室 TALLGLASS 的《BOOM! Buster》今天登上 Steam，官宣近 1900 赞。把彩色炸弹拖进对应桶是最熟的买量动作，倒计时和爆炸失败反馈现成，视觉也偏 90 年代街机，好做 HTML5。"
+    },
+    {
+      "id": "3",
+      "name": "不要惊慌（Don't Panic）",
+      "reason": "马斯克转发近 3.3 万赞，SpaceX 原照 287 万曝光，「DON'T PANIC」五个大字自带钩子。涂字+发射倒计时制作成本低，还能顺手蹭上当天的停飞焦虑，反差很好剪。"
+    }
+  ],
+  "hotTopics": [
+    {
+      "title": "小岛秀夫为《合金装备 2》25 周年晒出留须旧照",
+      "description": "11 月 13 日是《Metal Gear Solid 2: Sons of Liberty》北美发售 25 周年。小岛发帖回顾 9/11 后改了约 300 个场景、北美首次早于日本发售，并分享当时为图吉利故意不剪头发、不刮胡子的照片。原帖 2.5 万赞、36 万曝光，成为当天互动最高的游戏纪念帖。",
+      "links": [
+        {
+          "label": "HIDEO_KOJIMA_EN 原帖",
+          "url": "https://x.com/HIDEO_KOJIMA_EN/status/2121231799837937860",
+          "stats": "25,190赞 / 3,408转 / 305回复 / 36.42 万曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2121212869719023884",
+          "stats": "Hideo Kojima Shares Rare Photo for Metal Gear Solid 2's 25th Anniversary（X News）"
+        }
+      ]
+    },
+    {
+      "title": "任天堂官网曾把《众神的三角力量 2》标成 Switch Online 可玩",
+      "description": "塞尔达 40 周年时间线页面一度给 2013 年 3DS 作品 A Link Between Worlds 打上「可用 Nintendo Switch Online 游玩」红标，而《三角力量英雄》没有。粉丝立刻解读为 3DS 库要上 NSO，媒体随后指出标签已被撤下，更像网站笔误。德语区汇总帖拿到 4100 赞、26 万曝光。",
+      "links": [
+        {
+          "label": "vnder_yt 汇总帖",
+          "url": "https://x.com/vnder_yt/status/2121246616997028175",
+          "stats": "4,109赞 / 186转 / 57回复 / 26.19 万曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2121267894634139739",
+          "stats": "Zelda Fans Spot Possible 3DS Game Leak on Nintendo's Anniversary Page（X News）"
+        }
+      ]
+    },
+    {
+      "title": "《BOOM! Buster》登陆 Steam：彩色拆弹平台跳跃",
+      "description": "两人团队 TALLGLASS 的复古平台作今日发售。玩家操控爆破专家 Buster，在手绘纽约关卡里把彩色炸药分拣进对应位置，赶在倒计时结束前拆完。有人说它像早期 Newgrounds 小品，也有人吐槽角色改了造型。官方发售帖近 1900 赞、近 400 次收藏。",
+      "links": [
+        {
+          "label": "tallglassgames 发售帖",
+          "url": "https://x.com/tallglassgames/status/2121354832477077577",
+          "stats": "1,890赞 / 509转 / 39回复 / 3.87 万曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2121400670393868513",
+          "stats": "BOOM! Buster Launches on Steam with Retro Nostalgia and Mixed Reactions（X News）"
+        }
+      ]
+    },
+    {
+      "title": "《战神：斯巴达之子》11 月 16 日登 PS4，并加一击必杀模式",
+      "description": "索尼宣布这款年轻克ratos 前传将于 11 月 16 日零点登陆 PS4，同时免费更新给 PS4 / PS5 加上 Hermes（计时竞速榜）和 Erebus（你和敌人都是一击即死）。Wario64 的消息帖曝光近 25 万，评论区在讨论要不要挑战「碰到就死」。",
+      "links": [
+        {
+          "label": "Wario64 消息帖",
+          "url": "https://x.com/Wario64/status/2121257283300847720",
+          "stats": "1,232赞 / 103转 / 93回复 / 24.75 万曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2121260654946623659",
+          "stats": "God of War: Sons of Sparta Launches on PS4 November 16（X News）"
+        }
+      ]
+    },
+    {
+      "title": "Xbox 考虑用广告换「不必大幅涨价」",
+      "description": "Xbox Media Solutions 负责人 Jonathan Stringfield 表示，与其大幅提高游戏售价，不如把广告当成额外收入；目前云游戏免费档可看完前贴片广告再玩一段时间，并强调「绝无可能把广告塞进每一款游戏」，工作室有权决定。讨论帖约 700 赞，回复区争议很大。",
+      "links": [
+        {
+          "label": "Pirat_Nation 摘要帖",
+          "url": "https://x.com/Pirat_Nation/status/2121272627436335462",
+          "stats": "715赞 / 55转 / 257回复 / 5.24 万曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2121327497983984079",
+          "stats": "Xbox Explores Ads to Avoid Game Price Hikes（X News）"
+        }
+      ]
+    },
+    {
+      "title": "《Selaco》免费资料片《The Machines of War》上线",
+      "description": "Altered Orbit 为这款 2020 年代口碑射击作推出免费第二章：19 张新战役图、加特林与重机枪、喷气背包、关卡重制和更多配音角色。旧存档不能继承。官方宣布帖 1200 余赞，老玩家把它称为近几年最扎实的射击之一。",
+      "links": [
+        {
+          "label": "SelacoGame 官方帖",
+          "url": "https://x.com/SelacoGame/status/2121305813587497235",
+          "stats": "1,266赞 / 257转 / 39回复 / 2.35 万曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2121348352327458854",
+          "stats": "Selaco Launches Free Machines of War Expansion on Steam（X News）"
+        }
+      ]
+    },
+    {
+      "title": "独立开发者五年打磨的 PS1 风恐怖 FPS《Derelikt》发售",
+      "description": "Philipp Jensen（Visuwyg）的《Derelikt》登陆 PC、PS5 和 Xbox：在土星轨道一座崩溃的前哨站里管理稀缺资源、解谜，并面对古代恐怖。画面刻意做成低模和仿射纹理扭曲，发行商 HYPERSTRANGE 倒计时帖 837 赞，媒体评分约 79。",
+      "links": [
+        {
+          "label": "HYPERSTRANGE 倒计时帖",
+          "url": "https://x.com/HYPERSTRANGE/status/2121156623204745234",
+          "stats": "837赞 / 120转 / 26回复 / 1.70 万曝光"
+        },
+        {
+          "label": "Visuwyg 发售倒计时",
+          "url": "https://x.com/Visuwyg/status/2121202760477790356",
+          "stats": "412赞 / 77转 / 9回复 / 9,957曝光"
+        },
+        {
+          "label": "X News 专题",
+          "url": "https://x.com/i/trending/2121365101257052193",
+          "stats": "Derelikt Launches with Retro Sci-Fi Horror on Consoles and PC（X News）"
+        }
+      ]
+    }
+  ],
+  "ideas": [
+    {
+      "id": "1",
+      "name": "入职第一天（First Day Desk）",
+      "inspiration": {
+        "text": "Mike Beauvais「昨离微软、今入 FAA，目前顺利」一条吃到 14.5 万赞，成为停飞日最大玩笑",
+        "url": "https://x.com/MikeBeauvais/status/2121359733508759894"
+      },
+      "coreGameplay": "坐在调度台前，把滑向跑道的飞机左右拖回停机位；偶尔要点一下接上掉线的通信插头。",
+      "adHook": "前 3 秒：空荡荡的出发屏幕，字幕「第一天，别出事」；一只手把工牌往胸前一夹，飞机开始往跑道挤。",
+      "failSuccessPoint": "放行一架或插头接反→全场红灯，盖章「GROUND STOP」；全部拖回→工牌亮起「FIRST DAY CLEARED」。",
+      "difficulty": "低",
+      "whyFitUA": "当天最大梗，拖放人人会，失败画面就是红色航班牌，特别适合「你能撑过第一天吗」的假挑战。"
+    },
+    {
+      "id": "2",
+      "name": "拆弹分色（Color Boom）",
+      "inspiration": {
+        "text": "TALLGLASS 的《BOOM! Buster》今日登 Steam：在手绘纽约里把彩色炸药分拣进桶",
+        "url": "https://x.com/tallglassgames/status/2121354832477077577"
+      },
+      "coreGameplay": "倒计时内把红/蓝/黄炸弹拖进同色桶；拖错或超时会连环爆，可加一档「同时拆两颗」。",
+      "adHook": "前 3 秒：一只卡通炸弹从人行道滚到镜头前，字幕「颜色要对上」；指针狂拖，旁边另一颗已经开始闪。",
+      "failSuccessPoint": "拖错或超时→街景被炸成焦黑剪影，盖章「BAD SORT」；全部入桶→烟花和「CITY SAVED」。",
+      "difficulty": "低",
+      "whyFitUA": "分拣+倒计时是最稳买量模板，爆炸失败反馈强，只需几颗彩色简模和一条街，HTML5 好做。"
+    },
+    {
+      "id": "3",
+      "name": "不要惊慌（Don't Panic）",
+      "inspiration": {
+        "text": "马斯克转发 Ship 42 转运照，箭体刷着《银河系搭车客指南》的「DON'T PANIC」",
+        "url": "https://x.com/elonmusk/status/2121250205806772283"
+      },
+      "coreGameplay": "发射倒计时里，把 D、O、N、T、P、A、N、I、C 几个字母拖到箭体框格里摆正；有字母会滑走。",
+      "adHook": "前 3 秒：巨大箭体特写，字幕空着；一只手把「DON'T PANIC」往上贴，倒计时跳到 10。",
+      "failSuccessPoint": "贴歪或漏字→字母掉下去，地面人群四散，盖章「PANIC」；贴正点火升空→大字闪金「42」。",
+      "difficulty": "低",
+      "whyFitUA": "五个大字本身就是钩子，拖放排序制作成本低，和当天停飞焦虑形成反差，失败定格好剪。"
+    },
+    {
+      "id": "4",
+      "name": "一击闪避（Erebus Dodge）",
+      "inspiration": {
+        "text": "《战神：斯巴达之子》将登 PS4，并加入你和敌人都是一击即死的 Erebus 模式",
+        "url": "https://x.com/Wario64/status/2121257283300847720"
+      },
+      "coreGameplay": "左右滑动躲开挥来的兵器，只能在对手露出破绽时点一下反击；自己被擦到就立刻倒地。",
+      "adHook": "前 3 秒：两把武器在镜头前擦过，字幕「碰到就死」；手指刚划开，对面一击倒地。",
+      "failSuccessPoint": "被擦到→慢镜头倒地，盖章「ONE HIT」；连躲后一击得手→对手同样倒下，弹出「EREBUS CLEAR」。",
+      "difficulty": "低",
+      "whyFitUA": "一击死亡本身就是挑战文案，核心只有滑动和一次点击，失败和成功都极利落，适合短广告。"
+    },
+    {
+      "id": "5",
+      "name": "墙间涂门（Paint Portal）",
+      "inspiration": {
+        "text": "任天堂官网曾把《众神的三角力量 2》标成 Switch Online 可玩，这作的核心就是在墙上涂门穿到另一边",
+        "url": "https://x.com/vnder_yt/status/2121246616997028175"
+      },
+      "coreGameplay": "在墙面上滑动画出一扇门，走过去到达对面世界；门画歪或画太小会卡住，画在错误墙壁会掉进空白。",
+      "adHook": "前 3 秒：走道被堵住，字幕「墙上还有另一边」；手指一划，墙面裂开一道门，角色闪进去。",
+      "failSuccessPoint": "门画歪→角色卡在墙缝里定格；画准走进去→对面世界亮起，盖章「LINKED」。",
+      "difficulty": "中",
+      "whyFitUA": "涂抹即传送，规则一眼明白，只需两套简约场景对切，热点来自任天堂官网乌龙，话题干净。"
+    },
+    {
+      "id": "6",
+      "name": "看完再玩（Ad Gate）",
+      "inspiration": {
+        "text": "Xbox 讨论用云游戏前贴片广告换「不必大幅涨价」，看完才能继续玩",
+        "url": "https://x.com/Pirat_Nation/status/2121272627436335462"
+      },
+      "coreGameplay": "用手指按住进度条把广告快进到可跳过，条一松就会弹回；看完才能操纵角色走完十秒关卡。",
+      "adHook": "前 3 秒：角色已经站在关口，字幕「看完才能动」；一只手死按进度条，条稍微一滑又退回去。",
+      "failSuccessPoint": "没按住→广告重来，角色在门口跺脚；撑到可跳过→关卡瞬间解锁，盖章「SESSION START」。",
+      "difficulty": "低",
+      "whyFitUA": "按住进度条是单一操作，人人都懂「广告拦路」的火点，失败就是倒带重播，素材极好做。"
+    },
+    {
+      "id": "7",
+      "name": "低模手电（PS1 Flash）",
+      "inspiration": {
+        "text": "独立开发者五年打磨的《Derelikt》发售：PS1 低模风格，在空间站里靠手电和稀缺资源活下来",
+        "url": "https://x.com/HYPERSTRANGE/status/2121156623204745234"
+      },
+      "coreGameplay": "拖动手电光圈照亮走廊，避开阴影里的轮廓；电量有限，乱照会断电，必须在灯灭前走到下一扇门。",
+      "adHook": "前 3 秒：抖动的低模走廊，字幕「别乱照」；光圈一晃，墙上出现一个不该在那儿的影子。",
+      "failSuccessPoint": "电量耗尽或照到怪物→画面撕成像素块，盖章「SIGNAL LOST」；摸到下一扇门→应急灯亮起「SECTOR CLEAR」。",
+      "difficulty": "中",
+      "whyFitUA": "手电探路是强视觉钩子，低模风格制作成本低，惊吓失败很适合做 3 秒跳脸广告。"
+    },
+    {
+      "id": "8",
+      "name": "标语套衫（Slogan Tee）",
+      "inspiration": {
+        "text": "抛出一排 iCarly Penny Tees 荒诞标语衫的帖子拿到 7.6 万赞，「My Cheese My Rules」被反复复读",
+        "url": "https://x.com/solelynostalgia/status/2121015165936074920"
+      },
+      "coreGameplay": "把乱飞的单词拖到空白滚边衫上组成指定离谱标语；词序错误或印反就生成一件「穿不出去」的失败款。",
+      "adHook": "前 3 秒：一件空白 T 恤挂在镜头前，字幕「My Cheese…？」；单词从四面八方砸下来，手指去接。",
+      "failSuccessPoint": "拼错→模特穿着错衫出门被笑，盖章「FASHION FAIL」；拼对→闪光登场「TEE COMPLETE」。",
+      "difficulty": "低",
+      "whyFitUA": "拖词排序人人会，离谱文案本身就是笑点，换一套词就能出新关卡，很适合做皮肤挑战广告。"
+    },
+    {
+      "id": "9",
+      "name": "好运留须（Lucky Beard）",
+      "inspiration": {
+        "text": "小岛为《合金装备 2》25 周年晒出当年为图吉利故意不剪头发、不刮胡子的照片",
+        "url": "https://x.com/HIDEO_KOJIMA_EN/status/2121231799837937860"
+      },
+      "coreGameplay": "发售倒计时里左右拨开飞来的剪刀和剃须刀，保护不断变长的头发和胡子；被剪到一次就缩短一截。",
+      "adHook": "前 3 秒：镜子里的胡茬开始变长，字幕「剪了就不吉利」；一把剪刀从侧面刺进画面。",
+      "failSuccessPoint": "被剪到→发型瞬间变整洁，盖章「BAD LUCK」；撑到倒计时结束→胡子炸开，弹出「SHIPPED」。",
+      "difficulty": "低",
+      "whyFitUA": "躲避玩法最熟，胡须变长是少见的视觉进度条，和「为了发售忍着不剪」的故事很好讲。"
+    },
+    {
+      "id": "10",
+      "name": "扩图清房（Map Sweep）",
+      "inspiration": {
+        "text": "《Selaco》免费资料片一次塞进 19 张新战役图，清完一间房就展开下一块地图",
+        "url": "https://x.com/SelacoGame/status/2121305813587497235"
+      },
+      "coreGameplay": "角色自动开火，玩家只需滑动走位清掉房间里的敌人；清完后点一下门口，地图向外再展开一格。",
+      "adHook": "前 3 秒：一张只亮了一格的空间站平面图，字幕「还有 18 张」；门一开，下一层走廊涌出敌人。",
+      "failSuccessPoint": "被包围→地图重新折起来，盖章「SECTOR LOCKED」；连清数间→平面图铺满，弹出「EXPANSION UNLOCKED」。",
+      "difficulty": "低",
+      "whyFitUA": "滑动清房加「再展开一格」的进度感很适合试玩广告，关卡用简单房间拼接即可，不依赖复杂操作。"
+    }
+  ],
+  "notes": [
+    "数据来自 X 公共搜索/新闻/全球趋势；互动数为抓取时快照，约北京时间 2026-11-14 09:10。",
+    "刻意避开 11/11 已上站：百奇对咬、Devolver AAA / 全军铺路、Tsarevna 脚尖斩、GTA 云串流 Xbox One、COD 榜单、Warhammer Survivors、Ova Magica、史莱克 2、PS Plus 阵容。",
+    "也避开 11/12、11/13 已写但因令牌失效未能上站的选题和梗：装死过关、真假迈阿密、葡萄塞嘴、金摇杆《安魂曲》、Bodycam 丧尸、站着的老鼠、土拨鼠马甲、饼干夜访、二十连贴、火焰防线、双人旋转、照片20枚、会社休み、たまごっち等。",
+    "《SONIC PICO PARK》发售与《时之笛》重制销量已在 11/13 写过，Queen's Domain 销量潮在 11/5、11/10 已处理，本期不再单列；Sonic 今日虽有 KornArt3 缩略图（5,140赞 / 3.79 万曝光）仍只作背景，避免重复选题。",
+    "「给杰森留牛奶和饼干」是 11/13 主推热梗，今日即使仍有 13 号星期五余温，也不再重复，改收停飞巧合与 FAA 入职笑话。",
+    "Penny Tees 原帖发出于北京时间 11/13 06:59，略早于 09:00 窗口，但 X News 与引用链在窗口内仍高热（单帖 7.6 万赞），故收录，处理方式同往期对窗口边缘帖的说明。SpaceX 转运照约在窗口开始前数分钟，马斯克转发与讨论在窗口内。",
+    "「Felix Unger Day」是日历惯例梗，单帖赞数不高，热梗里已如实写出互动并同时附上 X News。",
+    "Zelda / God of War / Metal Gear / Xbox / iCarly 等 IP 选题落地请用原创角色与文案，不涉及版权商用授权承诺。"
+  ]
+}
